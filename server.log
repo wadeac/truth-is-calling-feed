@@ -1,0 +1,12 @@
+nohup: ignoring input
+ * Serving Flask app 'feed_server'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://169.254.0.21:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [28/Feb/2026 12:29:55] "GET /health HTTP/1.1" 200 -
+10.105.7.1 - - [28/Feb/2026 12:30:28] "GET /feed.xml HTTP/1.1" 200 -
+10.105.7.1 - - [28/Feb/2026 12:30:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+10.105.7.1 - - [28/Feb/2026 12:30:42] "GET / HTTP/1.1" 200 -
