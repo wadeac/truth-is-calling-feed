@@ -14,8 +14,22 @@ import os
 import sys
 from datetime import datetime, timezone
 from html import escape
+from bs4 import BeautifulSoup
 
 # ─── Configuration ───────────────────────────────────────────────────────────
+
+# ─── Truth Is Calling's Own Content ────────────────────────────────────────────
+
+TRUTH_IS_CALLING_YOUTUBE = {
+    "channel_handle": "TruthisCalling",
+    "channel_url": "https://www.youtube.com/@TruthisCalling/videos",
+    "max_items": 3,  # Pull latest 3 videos from your channel
+}
+
+TRUTH_IS_CALLING_WEBSITE = {
+    "url": "https://www.truthiscalling.us",
+    "name": "Truth Is Calling",
+}
 
 # Christian RSS feed sources
 SOURCES = [
@@ -145,6 +159,127 @@ VERSE_IMAGES = [
     "https://images.unsplash.com/photo-1475924156734-496f6cac6ec1?w=800&q=80",  # Sunbeam forest
     "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&q=80",  # Golden field
 ]
+
+
+def fetch_truth_is_calling_youtube():
+    """Scrape latest videos from the Truth Is Calling YouTube channel."""
+    items = []
+    try:
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        }
+        resp = requests.get(TRUTH_IS_CALLING_YOUTUBE["channel_url"], headers=headers, timeout=15)
+        resp.raise_for_status()
+
+        # Extract video IDs and titles from the page
+        video_ids = re.findall(r'"videoId":"([^"]+)"', resp.text)
+        unique_ids = list(dict.fromkeys(video_ids))  # Remove duplicates, preserve order
+
+        # Extract video titles
+        titles = re.findall(r'"title":\{"runs":\[\{"text":"([^"]+)"\}\]', resp.text)
+        unique_titles = list(dict.fromkeys(titles))
+
+        # Extract video descriptions/snippets
+        descriptions = re.findall(r'"descriptionSnippet":\{"runs":\[\{"text":"([^"]+)"', resp.text)
+
+        max_items = TRUTH_IS_CALLING_YOUTUBE["max_items"]
+        for i, vid in enumerate(unique_ids[:max_items]):
+            title = unique_titles[i] if i < len(unique_titles) else f"Truth Is Calling Video"
+            desc = descriptions[i] if i < len(descriptions) else "Watch this latest video from Truth Is Calling."
+            thumbnail = f"https://img.youtube.com/vi/{vid}/maxresdefault.jpg"
+
+            content_html = f'''
+            <div style="text-align:center;">
+                <div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;">
+                    <span style="font-size: 12px; text-transform: uppercase; letter-spacing: 1px;">✝ TRUTH IS CALLING | Your Channel</span>
+                </div>
+                <p><strong>{escape(title)}</strong></p>
+                <p style="color: #666;">From Truth Is Calling</p>
+                <iframe width="100%" height="315" 
+                    src="https://www.youtube.com/embed/{vid}" 
+                    frameborder="0" allowfullscreen></iframe>
+                <p style="margin-top: 10px;">{escape(desc)}</p>
+                <p><a href="https://www.youtube.com/watch?v={vid}" style="color: #c9a84c;">Watch on YouTube</a></p>
+            </div>
+            '''
+
+            items.append({
+                "source_name": "Truth Is Calling",
+                "category": "Your Channel",
+                "title": f"✝ {title}",
+                "url": f"https://www.youtube.com/watch?v={vid}",
+                "date": datetime.now(timezone.utc).isoformat(),
+                "author": "Truth Is Calling",
+                "summary": desc[:300],
+                "content": content_html,
+                "thumbnail": thumbnail,
+            })
+
+    except Exception as e:
+        print(f"  ⚠ Error fetching Truth Is Calling YouTube: {e}", file=sys.stderr)
+
+    return items
+
+
+def fetch_truth_is_calling_website():
+    """Scrape content from truthiscalling.us website."""
+    items = []
+    try:
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        }
+        # Try to find blog/article pages on the website
+        for path in ["/seasonal-reflections", "/resources", "/study", "/1-thessalonians", "/about"]:
+            try:
+                url = f"{TRUTH_IS_CALLING_WEBSITE['url']}{path}"
+                resp = requests.get(url, headers=headers, timeout=10)
+                if resp.status_code == 200 and len(resp.text) > 500:
+                    soup = BeautifulSoup(resp.text, 'html.parser')
+                    title = soup.find('title')
+                    title_text = title.get_text().strip() if title else path.replace('/', '').replace('-', ' ').title()
+                    
+                    # Get meta description
+                    meta_desc = soup.find('meta', attrs={'name': 'description'})
+                    desc = meta_desc['content'] if meta_desc and meta_desc.get('content') else f"Explore {title_text} on Truth Is Calling"
+                    
+                    # Get first image
+                    img = soup.find('img', src=True)
+                    thumb = ""
+                    if img:
+                        src = img['src']
+                        if src.startswith('/'):
+                            thumb = f"{TRUTH_IS_CALLING_WEBSITE['url']}{src}"
+                        elif src.startswith('http'):
+                            thumb = src
+
+                    items.append({
+                        "source_name": "Truth Is Calling",
+                        "category": "Your Website",
+                        "title": f"✝ {title_text}",
+                        "url": url,
+                        "date": datetime.now(timezone.utc).isoformat(),
+                        "author": "Truth Is Calling",
+                        "summary": desc[:300],
+                        "content": f'''
+                        <div style="text-align:center;">
+                            <div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px;">
+                                <span style="font-size: 12px; text-transform: uppercase; letter-spacing: 1px;">✝ TRUTH IS CALLING | Website</span>
+                            </div>
+                            <p>{escape(desc)}</p>
+                            <p><a href="{escape(url)}" style="color: #c9a84c; font-weight: bold;">Visit on TruthIsCalling.us →</a></p>
+                        </div>
+                        ''',
+                        "thumbnail": thumb,
+                    })
+                    if len(items) >= 2:  # Max 2 website items
+                        break
+            except:
+                continue
+
+    except Exception as e:
+        print(f"  ⚠ Error fetching Truth Is Calling website: {e}", file=sys.stderr)
+
+    return items
 
 
 def fetch_feed(source):
@@ -372,7 +507,25 @@ def generate_feed():
     all_items.append(verse)
     print(f"  ✓ {verse['title']}")
 
-    # 2. Fetch from all RSS sources
+    # 2. Fetch Truth Is Calling's own content FIRST (featured)
+    print("\n✝ Fetching YOUR content (Truth Is Calling)...")
+    print("  → YouTube Channel...", end=" ")
+    tic_videos = fetch_truth_is_calling_youtube()
+    if tic_videos:
+        all_items.extend(tic_videos)
+        print(f"✓ ({len(tic_videos)} videos)")
+    else:
+        print("✗ (no videos)")
+
+    print("  → Website (truthiscalling.us)...", end=" ")
+    tic_website = fetch_truth_is_calling_website()
+    if tic_website:
+        all_items.extend(tic_website)
+        print(f"✓ ({len(tic_website)} pages)")
+    else:
+        print("✗ (no pages)")
+
+    # 3. Fetch from all RSS sources
     print("\n📡 Fetching from Christian sources...")
     for source in SOURCES:
         print(f"  → {source['name']}...", end=" ")
