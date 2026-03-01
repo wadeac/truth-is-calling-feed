@@ -12,6 +12,7 @@ import requests
 import re
 import os
 import sys
+import random
 from datetime import datetime, timezone
 from html import escape
 from bs4 import BeautifulSoup
@@ -23,7 +24,13 @@ from bs4 import BeautifulSoup
 TRUTH_IS_CALLING_YOUTUBE = {
     "channel_handle": "TruthisCalling",
     "shorts_url": "https://www.youtube.com/@TruthisCalling/shorts",
-    "max_items": 2,  # Pull latest 2 Shorts from your channel
+    "max_items": 2,  # Pull 2 random Shorts from your channel
+}
+
+# Truth Is Calling website articles page
+TRUTH_IS_CALLING_ARTICLES = {
+    "url": "https://www.truthiscalling.us/httpswwwtruthiscallingusrevelation",
+    "max_items": 1,  # Pull 1 random article per day
 }
 
 # Christian RSS feed sources
@@ -157,7 +164,7 @@ VERSE_IMAGES = [
 
 
 def fetch_truth_is_calling_shorts():
-    """Scrape latest YouTube Shorts from the Truth Is Calling channel."""
+    """Scrape RANDOM YouTube Shorts from the Truth Is Calling channel (not the latest)."""
     items = []
     try:
         headers = {
@@ -174,9 +181,23 @@ def fetch_truth_is_calling_shorts():
         titles = re.findall(r'"overlayMetadata":\{"primaryText":\{"content":"([^"]+)"', resp.text)
         video_titles = list(dict.fromkeys(titles))  # Remove duplicates, preserve order
 
-        max_items = TRUTH_IS_CALLING_YOUTUBE["max_items"]
-        for i, vid in enumerate(unique_ids[:max_items]):
+        # Build list of all available shorts with their titles
+        all_shorts = []
+        for i, vid in enumerate(unique_ids):
             title = video_titles[i] if i < len(video_titles) else "Truth Is Calling Short"
+            all_shorts.append((vid, title))
+
+        # Skip the first 2 (most recent) and pick randomly from the rest
+        # This ensures we show older/refresher content, not what's already on the Home Screen
+        older_shorts = all_shorts[2:] if len(all_shorts) > 2 else all_shorts
+
+        # Use day of year as seed so the same shorts show all day, but change daily
+        day_seed = datetime.now().timetuple().tm_yday + datetime.now().year
+        rng = random.Random(day_seed)
+        max_items = min(TRUTH_IS_CALLING_YOUTUBE["max_items"], len(older_shorts))
+        selected = rng.sample(older_shorts, max_items)
+
+        for vid, title in selected:
             thumbnail = f"https://img.youtube.com/vi/{vid}/maxresdefault.jpg"
             shorts_url = f"https://www.youtube.com/shorts/{vid}"
 
@@ -208,6 +229,92 @@ def fetch_truth_is_calling_shorts():
 
     except Exception as e:
         print(f"  \u26a0 Error fetching Truth Is Calling Shorts: {e}", file=sys.stderr)
+
+    return items
+
+
+def fetch_truth_is_calling_article():
+    """Scrape a random article from truthiscalling.us and include its image."""
+    items = []
+    try:
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        }
+        # Get the articles listing page
+        resp = requests.get(TRUTH_IS_CALLING_ARTICLES["url"], headers=headers, timeout=15)
+        resp.raise_for_status()
+        soup = BeautifulSoup(resp.text, 'html.parser')
+
+        # Find all article title links
+        all_articles = []
+        for link in soup.find_all('a', id=lambda x: x and 'lnkBlogTitle' in str(x)):
+            title = link.get_text(strip=True)
+            href = link.get('href', '')
+            if href and not href.startswith('http'):
+                href = 'https://www.truthiscalling.us' + href
+            if title and href:
+                all_articles.append({'title': title, 'url': href})
+
+        if not all_articles:
+            return items
+
+        # Pick 1 random article using day-of-year seed (changes daily)
+        day_seed = datetime.now().timetuple().tm_yday + datetime.now().year + 999  # offset from shorts seed
+        rng = random.Random(day_seed)
+        selected = rng.sample(all_articles, min(TRUTH_IS_CALLING_ARTICLES["max_items"], len(all_articles)))
+
+        for article_info in selected:
+            try:
+                # Fetch the individual article page to get image and description
+                art_resp = requests.get(article_info['url'], headers=headers, timeout=10)
+                art_soup = BeautifulSoup(art_resp.text, 'html.parser')
+
+                # Get og:image (best quality article image)
+                og_img = art_soup.find('meta', attrs={'property': 'og:image'})
+                thumbnail = og_img.get('content', '') if og_img else ''
+
+                # Fallback: find the article's main image (alt="temp-post-image")
+                if not thumbnail:
+                    img_tag = art_soup.find('img', alt='temp-post-image')
+                    if img_tag:
+                        thumbnail = img_tag.get('src', '')
+
+                # Get meta description
+                meta_desc = art_soup.find('meta', attrs={'name': 'description'})
+                desc = meta_desc.get('content', '').strip() if meta_desc else ''
+                if not desc:
+                    desc = f"Read \"{article_info['title']}\" on Truth Is Calling."
+
+                content_html = f'''
+                <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;">
+                    <div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;">
+                        <span style="font-size: 12px; text-transform: uppercase; letter-spacing: 1px;">\u271d TRUTH IS CALLING | Article</span>
+                    </div>
+                    {f'<div style="text-align:center; margin-bottom: 16px;"><img src="{escape(thumbnail)}" style="width: 100%; max-width: 600px; height: auto; border-radius: 8px; object-fit: cover;" alt="{escape(article_info["title"])}" /></div>' if thumbnail else ''}
+                    <p style="font-size: 16px; color: #333;">{escape(desc)}</p>
+                    <div style="margin-top: 20px; text-align: center;">
+                        <a href="{escape(article_info['url'])}" style="color: #c9a84c; text-decoration: none; font-weight: bold; font-size: 16px;">Read Full Article on TruthIsCalling.us \u2192</a>
+                    </div>
+                </div>
+                '''
+
+                items.append({
+                    "source_name": "Truth Is Calling",
+                    "category": "Your Article",
+                    "title": f"\u271d {article_info['title']}",
+                    "url": article_info['url'],
+                    "date": datetime.now(timezone.utc).isoformat(),
+                    "author": "Truth Is Calling",
+                    "summary": desc[:300],
+                    "content": content_html,
+                    "thumbnail": thumbnail,
+                })
+            except Exception as e:
+                print(f"    \u26a0 Error fetching article '{article_info['title']}': {e}", file=sys.stderr)
+                continue
+
+    except Exception as e:
+        print(f"  \u26a0 Error fetching Truth Is Calling articles: {e}", file=sys.stderr)
 
     return items
 
@@ -437,15 +544,24 @@ def generate_feed():
     all_items.append(verse)
     print(f"  ✓ {verse['title']}")
 
-    # 2. Fetch Truth Is Calling's YouTube Shorts FIRST (featured)
-    print("\n\u271d Fetching YOUR content (Truth Is Calling Shorts)...")
-    print("  \u2192 YouTube Shorts...", end=" ")
+    # 2. Fetch Truth Is Calling's RANDOM YouTube Shorts (refresher content)
+    print("\n\u271d Fetching YOUR content (Truth Is Calling)...")
+    print("  \u2192 Random YouTube Shorts...", end=" ")
     tic_shorts = fetch_truth_is_calling_shorts()
     if tic_shorts:
         all_items.extend(tic_shorts)
-        print(f"\u2713 ({len(tic_shorts)} shorts)")
+        print(f"\u2713 ({len(tic_shorts)} random shorts)")
     else:
         print("\u2717 (no shorts found)")
+
+    # 2b. Fetch a random article from truthiscalling.us
+    print("  \u2192 Random Website Article...", end=" ")
+    tic_article = fetch_truth_is_calling_article()
+    if tic_article:
+        all_items.extend(tic_article)
+        print(f"\u2713 ({len(tic_article)} article)")
+    else:
+        print("\u2717 (no article found)")
 
     # 3. Fetch from all RSS sources
     print("\n📡 Fetching from Christian sources...")
