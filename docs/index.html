@@ -1,95 +1,48 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Truth Is Calling – Daily Christian Feed</title>
-<style>
-*{margin:0;padding:0;box-sizing:border-box}
-body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;
-     background:linear-gradient(135deg,#1a1a2e 0%,#16213e 50%,#0f3460 100%);
-     color:#e0e0e0;min-height:100vh;display:flex;align-items:center;justify-content:center}
-.c{max-width:720px;padding:40px;text-align:center}
-.cross{font-size:56px;margin-bottom:8px;color:#d4af37}
-h1{font-size:30px;color:#d4af37;letter-spacing:2px;margin-bottom:4px}
-.sub{color:#8899aa;font-size:13px;margin-bottom:28px}
-p{line-height:1.7;margin-bottom:18px;font-size:15px}
-.url-box{background:rgba(255,255,255,.07);border:1px solid #d4af37;border-radius:8px;
-          padding:14px 20px;font-family:monospace;font-size:14px;color:#d4af37;
-          word-break:break-all;margin:20px 0;cursor:pointer;position:relative;transition:border-color .3s}
-.url-box.copied{border-color:#4caf50}
-.badge{display:inline-block;background:#d4af37;color:#1a1a2e;padding:4px 12px;
-       border-radius:12px;font-size:11px;font-weight:600;margin:3px}
-.badges{margin:18px 0}
-a.btn{display:inline-block;background:#d4af37;color:#1a1a2e;padding:12px 30px;
-      border-radius:6px;text-decoration:none;font-weight:600;margin-top:18px;transition:background .2s}
-a.btn:hover{background:#c9a030}
-.note{font-size:13px;color:#8899aa;margin-top:24px;line-height:1.6}
-.sources{margin-top:30px;text-align:left;background:rgba(255,255,255,.04);border-radius:8px;padding:20px 24px}
-.sources h3{color:#d4af37;margin-bottom:12px;font-size:15px}
-.sources ul{list-style:none;padding:0}
-.sources li{padding:4px 0;font-size:13px;color:#aab}
-.sources li::before{content:"✦ ";color:#d4af37}
-.cat{color:#d4af37;font-weight:600}
-</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Truth Is Calling — Daily Christian Feed</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #0a0a1a; color: #e8e8e8; min-height: 100vh; }
+        .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+        .header { text-align: center; padding: 40px 20px; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 16px; margin-bottom: 30px; }
+        .header h1 { color: #c9a84c; font-size: 24px; margin-bottom: 8px; }
+        .header p { color: #8899aa; font-size: 14px; }
+        .feed-url { background: #1a1a2e; padding: 15px; border-radius: 8px; margin: 20px 0; word-break: break-all; font-family: monospace; font-size: 12px; color: #c9a84c; border: 1px solid #2a2a3e; }
+        .stats { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin: 20px 0; }
+        .stat { background: #1a1a2e; padding: 15px; border-radius: 8px; text-align: center; }
+        .stat-num { font-size: 24px; color: #c9a84c; font-weight: bold; }
+        .stat-label { font-size: 12px; color: #8899aa; margin-top: 4px; }
+        .footer { text-align: center; padding: 20px; color: #556; font-size: 12px; }
+    </style>
 </head>
 <body>
-<div class="c">
-  <div class="cross">&#10013;</div>
-  <h1>TRUTH IS CALLING</h1>
-  <div class="sub">John 18:37 — Automated Daily Christian Content Feed</div>
-  <p>This RSS feed automatically aggregates and rotates Christian content daily
-     from trusted sources — devotionals, articles, Bible verses, news, and
-     video teachings — so you never have to search for content manually.</p>
-  <div class="badges">
-    <span class="badge">Verse of the Day</span>
-    <span class="badge">Devotionals</span>
-    <span class="badge">Articles</span>
-    <span class="badge">News</span>
-    <span class="badge">Bible Study</span>
-    <span class="badge">Teaching</span>
-    <span class="badge">Video</span>
-    <span class="badge">Culture</span>
-  </div>
-  <div class="url-box" id="feedurl" onclick="copyUrl()">
-    <span id="urltext">Loading feed URL...</span>
-  </div>
-  <p class="note">
-    <strong>Good Barber setup:</strong> Go to <em>Design &amp; Structure &gt;
-    Structure &gt; Sections &gt; + Add a section &gt; RSS</em>, paste the URL
-    above, and drag the section to the top of your app.
-  </p>
-  <a href="feed.xml" class="btn">View RSS Feed</a>
-
-  <div class="sources">
-    <h3>Content Sources (updated daily)</h3>
-    <ul>
-      <li><span class="cat">Devotional:</span> Our Daily Bread, WELS Daily Devotions, Harvest (Greg Laurie)</li>
-      <li><span class="cat">Article:</span> Desiring God</li>
-      <li><span class="cat">Teaching:</span> Ligonier Ministries (R.C. Sproul)</li>
-      <li><span class="cat">News:</span> Christianity Today, Faithwire</li>
-      <li><span class="cat">Culture:</span> Relevant Magazine</li>
-      <li><span class="cat">Bible Study:</span> Bible Gateway Blog</li>
-      <li><span class="cat">Video:</span> The Bible Project, Ascension Presents, InspiringPhilosophy</li>
-      <li><span class="cat">Daily:</span> Verse of the Day (rotates through 31 key Bible verses)</li>
-    </ul>
-  </div>
-</div>
-<script>
-const base = window.location.href.replace(/\/?(index\.html)?$/, '');
-document.getElementById('urltext').textContent = base + '/feed.xml';
-function copyUrl() {
-  const url = base + '/feed.xml';
-  navigator.clipboard.writeText(url).then(() => {
-    const box = document.getElementById('feedurl');
-    box.classList.add('copied');
-    document.getElementById('urltext').textContent = 'Copied!';
-    setTimeout(() => {
-      box.classList.remove('copied');
-      document.getElementById('urltext').textContent = url;
-    }, 2000);
-  });
-}
-</script>
+    <div class="container">
+        <div class="header">
+            <h1>✝ TRUTH IS CALLING</h1>
+            <p>John 16:37</p>
+            <p style="margin-top: 10px;">Daily Christian Content Feed</p>
+        </div>
+        <div class="feed-url">
+            Feed URL: articles.json
+        </div>
+        <div class="stats">
+            <div class="stat">
+                <div class="stat-num">19</div>
+                <div class="stat-label">Articles Today</div>
+            </div>
+            <div class="stat">
+                <div class="stat-num">12</div>
+                <div class="stat-label">Sources</div>
+            </div>
+        </div>
+        <div class="footer">
+            <p>Last updated: February 28, 2026 at 11:06 PM</p>
+            <p>Feed auto-updates daily at midnight MST</p>
+        </div>
+    </div>
 </body>
 </html>
