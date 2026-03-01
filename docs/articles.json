@@ -1,12 +1,12 @@
 {
   "items": [
     {
-      "id": "4246d12163ab",
+      "id": "59ae22abcb0c",
       "type": "article",
       "subtype": "custom",
       "title": "📖 Micah 6:8 — Justice",
       "url": "https://www.biblegateway.com/passage/?search=Micah+6:8&version=ESV",
-      "date": "2026-03-01T04:43:31.823237+00:00",
+      "date": "2026-03-01T04:52:56.799649+00:00",
       "author": "Truth Is Calling",
       "summary": "He has told you, O man, what is good; and what does the Lord require of you but to do justice, and to love kindness, and to walk humbly with your God?",
       "content": "\n    <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; text-align: center; padding: 20px;\">\n        <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 30px 20px; border-radius: 12px; color: white;\">\n            <div style=\"font-size: 14px; color: #c9a84c; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 10px;\">✝ Verse of the Day</div>\n            <div style=\"font-size: 13px; color: #8899aa; margin-bottom: 15px;\">March 01, 2026</div>\n            <div style=\"font-size: 20px; font-style: italic; line-height: 1.5; color: #e8e8e8; margin: 20px 0;\">\n                \"He has told you, O man, what is good; and what does the Lord require of you but to do justice, and to love kindness, and to walk humbly with your God?\"\n            </div>\n            <div style=\"font-size: 16px; color: #c9a84c; font-weight: bold; margin-top: 15px;\">\n                — Micah 6:8\n            </div>\n            <div style=\"margin-top: 15px; font-size: 12px; color: #8899aa;\">\n                Theme: Justice\n            </div>\n        </div>\n        <div style=\"margin-top: 20px;\">\n            <img src=\"https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&q=80\" style=\"width: 100%; border-radius: 8px; max-height: 300px; object-fit: cover;\" alt=\"Daily Inspiration\" />\n        </div>\n        <div style=\"margin-top: 15px; padding: 15px; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #c9a84c;\">\n            <p style=\"font-size: 14px; color: #555; margin: 0;\">\n                Take a moment to reflect on this verse today. How does the theme of \n                <strong>Justice</strong> speak to your life right now?\n            </p>\n        </div>\n    </div>\n    ",
@@ -20,127 +20,55 @@
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&q=80",
-          "id": "img-4246d12163ab"
+          "id": "img-59ae22abcb0c"
         }
       ]
     },
     {
-      "id": "08b09c57f76c",
+      "id": "d324e9f65b5d",
       "type": "article",
       "subtype": "custom",
-      "title": "✝ 4-Minute Bible Study | The Revelation of Jesus Christ (Chapter 1)",
-      "url": "https://www.youtube.com/watch?v=XQSpoU2rfP8",
-      "date": "2026-03-01T04:43:32.069695+00:00",
+      "title": "✝ One Woman. 600 Swords. | The Moment Anger Almost Destroyed a King",
+      "url": "https://www.youtube.com/shorts/_uvKOVS-54Y",
+      "date": "2026-03-01T04:52:57.082516+00:00",
       "author": "Truth Is Calling",
-      "summary": "Spend just four minutes with us as we walk through Revelation chapter 1—the opening of the final book of the Bible.\\nThis is not speculation or fear-driven teaching.\\nIt’s a clear, Scripture-anch...",
-      "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | Your Channel</span>\n                </div>\n                <p><strong>4-Minute Bible Study | The Revelation of Jesus Christ (Chapter 1)</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"315\" \n                    src=\"https://www.youtube.com/embed/XQSpoU2rfP8\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\">Spend just four minutes with us as we walk through Revelation chapter 1—the opening of the final book of the Bible.\\nThis is not speculation or fear-driven teaching.\\nIt’s a clear, Scripture-anch...</p>\n                <p><a href=\"https://www.youtube.com/watch?v=XQSpoU2rfP8\" style=\"color: #c9a84c;\">Watch on YouTube</a></p>\n            </div>\n            ",
-      "thumbnail": "https://img.youtube.com/vi/XQSpoU2rfP8/maxresdefault.jpg",
-      "smallThumbnail": "https://img.youtube.com/vi/XQSpoU2rfP8/maxresdefault.jpg",
-      "largeThumbnail": "https://img.youtube.com/vi/XQSpoU2rfP8/maxresdefault.jpg",
+      "summary": "Watch this YouTube Short from Truth Is Calling: One Woman. 600 Swords. | The Moment Anger Almost Destroyed a King",
+      "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | YouTube Short</span>\n                </div>\n                <p><strong>One Woman. 600 Swords. | The Moment Anger Almost Destroyed a King</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"560\" \n                    src=\"https://www.youtube.com/embed/_uvKOVS-54Y\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\"><a href=\"https://www.youtube.com/shorts/_uvKOVS-54Y\" style=\"color: #c9a84c; font-weight: bold;\">Watch on YouTube →</a></p>\n            </div>\n            ",
+      "thumbnail": "https://img.youtube.com/vi/_uvKOVS-54Y/maxresdefault.jpg",
+      "smallThumbnail": "https://img.youtube.com/vi/_uvKOVS-54Y/maxresdefault.jpg",
+      "largeThumbnail": "https://img.youtube.com/vi/_uvKOVS-54Y/maxresdefault.jpg",
       "commentsEnabled": false,
       "categories": [
-        "Your Channel"
+        "Your Shorts"
       ],
       "images": [
         {
-          "url": "https://img.youtube.com/vi/XQSpoU2rfP8/maxresdefault.jpg",
-          "id": "img-08b09c57f76c"
+          "url": "https://img.youtube.com/vi/_uvKOVS-54Y/maxresdefault.jpg",
+          "id": "img-d324e9f65b5d"
         }
       ]
     },
     {
-      "id": "581358500296",
+      "id": "525210c58326",
       "type": "article",
       "subtype": "custom",
-      "title": "✝ The Manger Foreshadows the Cross: 17 Parallels Between Christ’s Birth and Death",
-      "url": "https://www.youtube.com/watch?v=o6pfSZHVDAY",
-      "date": "2026-03-01T04:43:32.069733+00:00",
+      "title": "✝ The Man Who Sought Jesus at Night… and What Happened Next",
+      "url": "https://www.youtube.com/shorts/JqjDa4hBeBM",
+      "date": "2026-03-01T04:52:57.082565+00:00",
       "author": "Truth Is Calling",
-      "summary": "In this powerful reflection, we explore 17 remarkable parallels between the birth and death of our Lord—revealing how the manger quietly foreshadows the cross.\\nInspired by Caryll Houselander’s...",
-      "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | Your Channel</span>\n                </div>\n                <p><strong>The Manger Foreshadows the Cross: 17 Parallels Between Christ’s Birth and Death</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"315\" \n                    src=\"https://www.youtube.com/embed/o6pfSZHVDAY\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\">In this powerful reflection, we explore 17 remarkable parallels between the birth and death of our Lord—revealing how the manger quietly foreshadows the cross.\\nInspired by Caryll Houselander’s...</p>\n                <p><a href=\"https://www.youtube.com/watch?v=o6pfSZHVDAY\" style=\"color: #c9a84c;\">Watch on YouTube</a></p>\n            </div>\n            ",
-      "thumbnail": "https://img.youtube.com/vi/o6pfSZHVDAY/maxresdefault.jpg",
-      "smallThumbnail": "https://img.youtube.com/vi/o6pfSZHVDAY/maxresdefault.jpg",
-      "largeThumbnail": "https://img.youtube.com/vi/o6pfSZHVDAY/maxresdefault.jpg",
+      "summary": "Watch this YouTube Short from Truth Is Calling: The Man Who Sought Jesus at Night… and What Happened Next",
+      "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | YouTube Short</span>\n                </div>\n                <p><strong>The Man Who Sought Jesus at Night… and What Happened Next</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"560\" \n                    src=\"https://www.youtube.com/embed/JqjDa4hBeBM\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\"><a href=\"https://www.youtube.com/shorts/JqjDa4hBeBM\" style=\"color: #c9a84c; font-weight: bold;\">Watch on YouTube →</a></p>\n            </div>\n            ",
+      "thumbnail": "https://img.youtube.com/vi/JqjDa4hBeBM/maxresdefault.jpg",
+      "smallThumbnail": "https://img.youtube.com/vi/JqjDa4hBeBM/maxresdefault.jpg",
+      "largeThumbnail": "https://img.youtube.com/vi/JqjDa4hBeBM/maxresdefault.jpg",
       "commentsEnabled": false,
       "categories": [
-        "Your Channel"
+        "Your Shorts"
       ],
       "images": [
         {
-          "url": "https://img.youtube.com/vi/o6pfSZHVDAY/maxresdefault.jpg",
-          "id": "img-581358500296"
-        }
-      ]
-    },
-    {
-      "id": "0e8ccc1dda8c",
-      "type": "article",
-      "subtype": "custom",
-      "title": "✝ Martyrs for Christ: The Apostles’ Final Moments",
-      "url": "https://www.youtube.com/watch?v=d6p7Ck5gFlk",
-      "date": "2026-03-01T04:43:32.069750+00:00",
-      "author": "Truth Is Calling",
-      "summary": "The twelve Apostles of our Lord gave everything to follow Him—even their lives. From Peter’s upside-down crucifixion in Rome to Thomas’ martyrdom in India, each of these men sealed their...",
-      "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | Your Channel</span>\n                </div>\n                <p><strong>Martyrs for Christ: The Apostles’ Final Moments</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"315\" \n                    src=\"https://www.youtube.com/embed/d6p7Ck5gFlk\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\">The twelve Apostles of our Lord gave everything to follow Him—even their lives. From Peter’s upside-down crucifixion in Rome to Thomas’ martyrdom in India, each of these men sealed their...</p>\n                <p><a href=\"https://www.youtube.com/watch?v=d6p7Ck5gFlk\" style=\"color: #c9a84c;\">Watch on YouTube</a></p>\n            </div>\n            ",
-      "thumbnail": "https://img.youtube.com/vi/d6p7Ck5gFlk/maxresdefault.jpg",
-      "smallThumbnail": "https://img.youtube.com/vi/d6p7Ck5gFlk/maxresdefault.jpg",
-      "largeThumbnail": "https://img.youtube.com/vi/d6p7Ck5gFlk/maxresdefault.jpg",
-      "commentsEnabled": false,
-      "categories": [
-        "Your Channel"
-      ],
-      "images": [
-        {
-          "url": "https://img.youtube.com/vi/d6p7Ck5gFlk/maxresdefault.jpg",
-          "id": "img-0e8ccc1dda8c"
-        }
-      ]
-    },
-    {
-      "id": "85bca7fbe094",
-      "type": "article",
-      "subtype": "custom",
-      "title": "✝ Seasonal Reflections - Truth Is Calling",
-      "url": "https://www.truthiscalling.us/seasonal-reflections",
-      "date": "2026-03-01T04:43:33.663574+00:00",
-      "author": "Truth Is Calling",
-      "summary": "Seasonal Reflections",
-      "content": "\n                        <div style=\"text-align:center;\">\n                            <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px;\">\n                                <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | Website</span>\n                            </div>\n                            <p>Seasonal Reflections</p>\n                            <p><a href=\"https://www.truthiscalling.us/seasonal-reflections\" style=\"color: #c9a84c; font-weight: bold;\">Visit on TruthIsCalling.us →</a></p>\n                        </div>\n                        ",
-      "thumbnail": "https://d3ciwvs59ifrt8.cloudfront.net/7e73a50e-77cc-4f6d-9e11-60b79f9b6060/fd1dde5f-79d9-4617-91dc-0f687e560c3b.png",
-      "smallThumbnail": "https://d3ciwvs59ifrt8.cloudfront.net/7e73a50e-77cc-4f6d-9e11-60b79f9b6060/fd1dde5f-79d9-4617-91dc-0f687e560c3b.png",
-      "largeThumbnail": "https://d3ciwvs59ifrt8.cloudfront.net/7e73a50e-77cc-4f6d-9e11-60b79f9b6060/fd1dde5f-79d9-4617-91dc-0f687e560c3b.png",
-      "commentsEnabled": false,
-      "categories": [
-        "Your Website"
-      ],
-      "images": [
-        {
-          "url": "https://d3ciwvs59ifrt8.cloudfront.net/7e73a50e-77cc-4f6d-9e11-60b79f9b6060/fd1dde5f-79d9-4617-91dc-0f687e560c3b.png",
-          "id": "img-85bca7fbe094"
-        }
-      ]
-    },
-    {
-      "id": "36f2d102522f",
-      "type": "article",
-      "subtype": "custom",
-      "title": "✝ Resources - Truth Is Calling",
-      "url": "https://www.truthiscalling.us/resources",
-      "date": "2026-03-01T04:43:35.503103+00:00",
-      "author": "Truth Is Calling",
-      "summary": "Biblical Resources",
-      "content": "\n                        <div style=\"text-align:center;\">\n                            <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px;\">\n                                <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | Website</span>\n                            </div>\n                            <p>Biblical Resources</p>\n                            <p><a href=\"https://www.truthiscalling.us/resources\" style=\"color: #c9a84c; font-weight: bold;\">Visit on TruthIsCalling.us →</a></p>\n                        </div>\n                        ",
-      "thumbnail": "https://d3ciwvs59ifrt8.cloudfront.net/7e73a50e-77cc-4f6d-9e11-60b79f9b6060/fd1dde5f-79d9-4617-91dc-0f687e560c3b.png",
-      "smallThumbnail": "https://d3ciwvs59ifrt8.cloudfront.net/7e73a50e-77cc-4f6d-9e11-60b79f9b6060/fd1dde5f-79d9-4617-91dc-0f687e560c3b.png",
-      "largeThumbnail": "https://d3ciwvs59ifrt8.cloudfront.net/7e73a50e-77cc-4f6d-9e11-60b79f9b6060/fd1dde5f-79d9-4617-91dc-0f687e560c3b.png",
-      "commentsEnabled": false,
-      "categories": [
-        "Your Website"
-      ],
-      "images": [
-        {
-          "url": "https://d3ciwvs59ifrt8.cloudfront.net/7e73a50e-77cc-4f6d-9e11-60b79f9b6060/fd1dde5f-79d9-4617-91dc-0f687e560c3b.png",
-          "id": "img-36f2d102522f"
+          "url": "https://img.youtube.com/vi/JqjDa4hBeBM/maxresdefault.jpg",
+          "id": "img-525210c58326"
         }
       ]
     },
@@ -154,16 +82,16 @@
       "author": "Nancy Gavilanes",
       "summary": "As our bus traveled higher and higher on the narrow road along the Andes Mountains, my teammates were busy laughing and singing. I was staring out my window&mdash;aghast that there weren&rsquo;t any guardrails between us and the abyss to our right. As we kept going up and up and up, feeling a bit fe",
       "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Devotional | Our Daily Bread</span>\n                </div>\n                <p>As our bus traveled higher and higher on the narrow road along the Andes Mountains, my teammates were busy laughing and singing. I was staring out my window&mdash;aghast that there weren&rsquo;t any guardrails between us and the abyss to our right. As we kept going up and up and up, feeling a bit fearful and anxious, I started to wonder why our short-term mission team had come to this remote part of Ecuador. Then it dawned on me: God must really love these people if He would send His own Son to die for them. Surely, I could get through a scary bus ride to express that love with them.</p>\n<p>It ended up being such a joy to do short Bible lessons, share our testimonies and pray with the people who welcomed us in the various towns we visited each day.</p>\n<p>The apostle Paul was committed to telling others about Jesus so they too could put their trust in Him. In Romans 10:13 he says that all who call on Jesus &ldquo;will be saved.&rdquo; But, &ldquo;how can they believe in the one of whom they have not heard? And how can they hear without someone preaching to them? And how can anyone preach unless they are sent?&rdquo; (Romans 10:14-15).</p>\n<p>There are people all around us who don&rsquo;t know Christ. Let&rsquo;s ask God for the courage to share the Good News of Jesus with others, to pray with them and invite them to a church service or activity.</p>\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://odb.org/2026/03/01/\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80",
-      "smallThumbnail": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80",
-      "largeThumbnail": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80",
+      "thumbnail": "https://images.unsplash.com/photo-1508672019048-805c876b67e2?w=800&q=80",
+      "smallThumbnail": "https://images.unsplash.com/photo-1508672019048-805c876b67e2?w=800&q=80",
+      "largeThumbnail": "https://images.unsplash.com/photo-1508672019048-805c876b67e2?w=800&q=80",
       "commentsEnabled": false,
       "categories": [
         "Devotional"
       ],
       "images": [
         {
-          "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80",
+          "url": "https://images.unsplash.com/photo-1508672019048-805c876b67e2?w=800&q=80",
           "id": "img-947a496e434d"
         }
       ]
@@ -178,16 +106,16 @@
       "author": "Katara Patton",
       "summary": "Attending a conference, a woman noticed that her friend&mdash;the day&rsquo;s presenter&mdash;didn&rsquo;t look well. She approached the presenter, who replied, &ldquo;I&rsquo;m going to get through this presentation. If I don&rsquo;t feel better in the morning, I&rsquo;ll go to the doctor.&rdquo; T",
       "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Devotional | Our Daily Bread</span>\n                </div>\n                <p>Attending a conference, a woman noticed that her friend&mdash;the day&rsquo;s presenter&mdash;didn&rsquo;t look well. She approached the presenter, who replied, &ldquo;I&rsquo;m going to get through this presentation. If I don&rsquo;t feel better in the morning, I&rsquo;ll go to the doctor.&rdquo; The woman didn&rsquo;t forget about the presenter&rsquo;s promise. And although she had to leave the conference early, she asked another friend to check on her.</p>\n<p>In the morning, there was a knock at the presenter&rsquo;s hotel door. The second friend had come to drive her to the hospital. There was no backing out and&mdash;fortunately&mdash;she was given life-saving treatments in time. The persistence of friends apparently helped to save her life.</p>\n<p>Persistent friends can be a blessing, just like the men in Mark 2. They&rsquo;d apparently heard about the healing power of Jesus and that He&rsquo;d come to their town (v. 1). The people clamored to Christ and there was &ldquo;no room left&rdquo; for the men to get their paralyzed friend to Him (v. 2). They didn&rsquo;t let a crowd stop them from getting their friend the help he needed, however: &ldquo;They made an opening in the roof above Jesus by digging through it and then lowered . . . the man&rdquo; (v. 4) to Christ who healed him (vv. 11-12).</p>\n<p>Let&rsquo;s bring the needs of others to Jesus through persistent prayer. And as He provides what we need, let&rsquo;s strive to help and love them well.</p>\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://odb.org/2026/02/28/\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&q=80",
-      "smallThumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&q=80",
-      "largeThumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&q=80",
+      "thumbnail": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=800&q=80",
+      "smallThumbnail": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=800&q=80",
+      "largeThumbnail": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=800&q=80",
       "commentsEnabled": false,
       "categories": [
         "Devotional"
       ],
       "images": [
         {
-          "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&q=80",
+          "url": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=800&q=80",
           "id": "img-279a45f196f7"
         }
       ]
@@ -202,16 +130,16 @@
       "author": "Guest Contributor",
       "summary": "By John Cerniglia Have you ever watched the news and wondered: “Where are all these hateful extremists coming from?” You’re not alone. Powered by smartphones and online platforms, digital extremism is surging across the volatile Middle East and North Africa, with young people being radicalized on so",
       "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Teaching | Patheos Evangelical</span>\n                </div>\n                By John Cerniglia Have you ever watched the news and wondered: “Where are all these hateful extremists coming from?” You’re not alone. Powered by smartphones and online platforms, digital extremism is surging across the volatile Middle East and North Africa, with young people being radicalized on social media in alarming numbers. Deepfakes, manipulated imagery spreading [&#8230;]\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.patheos.com/blogs/evangelicalpulpit/2025/10/middle-east-digital-extremism-is-rising-can-it-be-stopped/\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://images.unsplash.com/photo-1475924156734-496f6cac6ec1?w=800&q=80",
-      "smallThumbnail": "https://images.unsplash.com/photo-1475924156734-496f6cac6ec1?w=800&q=80",
-      "largeThumbnail": "https://images.unsplash.com/photo-1475924156734-496f6cac6ec1?w=800&q=80",
+      "thumbnail": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=800&q=80",
+      "smallThumbnail": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=800&q=80",
+      "largeThumbnail": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=800&q=80",
       "commentsEnabled": false,
       "categories": [
         "Teaching"
       ],
       "images": [
         {
-          "url": "https://images.unsplash.com/photo-1475924156734-496f6cac6ec1?w=800&q=80",
+          "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=800&q=80",
           "id": "img-29e292435663"
         }
       ]
@@ -226,16 +154,16 @@
       "author": "Guest Contributor",
       "summary": "By John Cerniglia The Middle East is on fire — grappling with a series of complex, layered crises that seem unsolvable. As a New Yorker whose family lived through the tragedy and trauma of 9/11, I’m urging you not to reject the Middle East and its people as a “lost cause” in their moment of [&#8230;",
       "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Teaching | Patheos Evangelical</span>\n                </div>\n                By John Cerniglia The Middle East is on fire — grappling with a series of complex, layered crises that seem unsolvable. As a New Yorker whose family lived through the tragedy and trauma of 9/11, I’m urging you not to reject the Middle East and its people as a “lost cause” in their moment of [&#8230;]\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.patheos.com/blogs/evangelicalpulpit/2025/07/can-your-prayers-of-intercession-help-save-the-middle-east/\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&q=80",
-      "smallThumbnail": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&q=80",
-      "largeThumbnail": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&q=80",
+      "thumbnail": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80",
+      "smallThumbnail": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80",
+      "largeThumbnail": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80",
       "commentsEnabled": false,
       "categories": [
         "Teaching"
       ],
       "images": [
         {
-          "url": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&q=80",
+          "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80",
           "id": "img-4239a24445e3"
         }
       ]
@@ -250,16 +178,16 @@
       "author": "Harvest",
       "summary": "What looks like the end from our perspective is a new beginning from God’s perspective.\nThe post When One Door Closes appeared first on Harvest.",
       "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Devotional | Greg Laurie Daily Devotion</span>\n                </div>\n                <p>What looks like the end from our perspective is a new beginning from God’s perspective.</p>\n<p>The post <a href=\"https://harvest.org/resources/devotion/when-one-door-closes/\">When One Door Closes</a> appeared first on <a href=\"https://harvest.org\">Harvest</a>.</p>\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://harvest.org/resources/devotion/when-one-door-closes/\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?w=800&q=80",
-      "smallThumbnail": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?w=800&q=80",
-      "largeThumbnail": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?w=800&q=80",
+      "thumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&q=80",
+      "smallThumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&q=80",
+      "largeThumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&q=80",
       "commentsEnabled": false,
       "categories": [
         "Devotional"
       ],
       "images": [
         {
-          "url": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?w=800&q=80",
+          "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&q=80",
           "id": "img-f745816a100e"
         }
       ]
@@ -298,16 +226,16 @@
       "author": "Angela Fulton",
       "summary": "Before the Sunday-morning service on February 22, pastor Constantino Varas sensed something was wrong. Several members of his church, Iglesia Bautista Gracia &#38; Amor in Guadalajara, Mexico, sent text messages reporting problems getting to the building. These were not the expected disruptions caus",
       "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 News | Christianity Today</span>\n                </div>\n                <p>Before the Sunday-morning service on February 22, pastor Constantino Varas sensed something was wrong.</p>\n\n\n\n<p>Several members of his church, Iglesia Bautista Gracia &amp; Amor in Guadalajara, Mexico, sent text messages reporting problems getting to the building. These were not the expected disruptions caused by that morning’s <a href=\"https://www.zonadocs.mx/2026/02/25/despues-del-medio-maraton-la-ciudad-se-cerro-violencia-y-suspension-del-transporte-en-guadalajara/\">half marathon</a> but rather <a href=\"https://seguridad.nexos.com.mx/radiografia-de-los-narcobloqueos-en-mexico/\"><em>narcobloqueos</em></a>, or blockades consisting of burning cars, trucks, and buses set on fire by Mexican drug cartels.</p>\n\n\n\n<p>“I told them to try to go back home, stay safe, and pray,” Varas said. By the pastor’s count, at least 40 people—nearly half the congregation—couldn’t make it to church that morning due to the roadblocks. Although this type of disturbance is not uncommon—criminal cartels have used narcobloqueos for years as a strategy to demonstrate their local power and as a response to police operations—the extent of the blockades on Sunday was exceptional.</p>\n\n\n\n<p>Hours earlier, an operation involving the Mexican Air Force and special forces <a href=\"https://www.bbc.com/news/articles/cy4wywnrdd8o\">killed</a> Nemesio “El Mencho” Oseguera Cervantes, leader of the Cártel Jalisco Nueva Generación (CJNG) in Tapalpa, about 80 miles southwest of Guadalajara. Security forces also killed six other members of the criminal organization, according to a <a href=\"https://www.gob.mx/defensa/prensa/la-secretaria-de-la-defensa-nacional-informa-sobre-una-operacion-para-la-detencion-de-ruben-n-a-mencho\">statement</a> from Mexico’s defense secretary. The CJNG is one of the most <a href=\"https://www.dni.gov/nctc/terrorist_groups/cjng.html\">powerful</a> crime organization in the country, with more than 15,000 members. Last year, the US State Department officially designated it a <a href=\"https://www.state.gov/designation-of-international-cartels\">terrorist</a> organization.</p>\n\n\n\n<p>The cartel’s response began just hours later, with narcobloqueos and <a href=\"https://www.npr.org/2026/02/23/g-s1-111138/mexico-fears-more-violence-after-army-kills-leader-of-powerful-jalisco-cartel\">confrontations</a> with authorities across 20 of Mexico’s 31 states. Armed cartel members defended their fiery blockades and clashed with police and armed forces who were trying to clear the roads.</p>\n\n\n\n<p>By Monday, authorities <a href=\"https://www.theguardian.com/world/2026/feb/23/violence-erupts-mexico-military-kills-drug-cartel-boss-el-mencho-visual-guide\">acknowledged</a> that at least 25 members of the National Guard and 30 operatives from criminal groups had been killed. As the capital city of the Jalisco state, birthplace of the CJNG, Guadalajara was at the epicenter of the violence.</p>\n\n\n\n<p>Although only 50 church members occupied the padded wooden chairs of Gracia &amp; Amor church on Sunday, the 10 a.m. service still began on time. Half an hour in, as the worship band played “Confiando Plenamente en Dios” (Trusting Fully in God), people heard gunshots outside.</p>\n\n\n\n<p>Varas made a series of urgent decisions. Church members locked the doors to the church to prevent any armed assailants from entering. Staff called on Sunday school teachers to calm the children. The social media coordinator sent out a prayer request for the city on the church’s Facebook page.</p>\n\n\n\n<p>When Varas stepped up to the microphone for the sermon a little later, he first asked the congregation to take out their phones and send messages to family members to let them know everyone was safe. Before preaching his prepared sermon on 1 Thessalonians 2:13–19, he led the church in prayer for the population of Guadalajara; for the governor of Jalisco, Pablo Lemus; and for Mexican president Claudia <a href=\"https://www.christianitytoday.com/2024/06/mexico-election-claudia-sheinbaum-female-leadership-churche/\">Sheinbaum</a>.</p>\n\n\n\n<p>After the service, the congregation decided to remain in the church for another hour, waiting for news about what was happening outside. The worship band played again, and people took turns praying. At the end, they left in groups. Each family that departed the church committed to informing the others about the route they had taken and the street conditions.</p>\n\n\n\n<p>“When I left, there was no one on the streets. Everything was deserted,” Varas said. Earlier that morning, while they were in church, the state government had issued a code red alert, equivalent to a curfew.</p>\n\n\n\n<p>The curfew was lifted later that day. Yet schools remained closed for part of the week, and some stores stayed shut. “The city came to a standstill unlike anything we saw even during the pandemic,” Varas said. “There is an apparent calm, waiting for trouble.”</p>\n\n\n\n<p>Mexican Christians often face <a href=\"https://www.christianitytoday.com/2025/06/mexico-cartels-persecution/\">violence</a> caused by drug trafficking. Street evangelists and pastors are aware that sentinels working for local drug dealers frequently follow their steps. Young people in poor neighborhoods are targets of the cartels’ forced <a href=\"https://www.reuters.com/world/americas/how-mexicos-cartels-recruit-children-groom-them-into-killers-2025-05-28/\">recruitment</a>. It’s dangerous for everyone who lives in areas under the influence of cartels, but life can be particularly risky for those, like church leaders, whose role is to promote peace. The widespread presence of criminal groups has led Mexico to become the 30th most dangerous place to be a Christian, according to the <a href=\"https://www.opendoorsuk.org/persecution/world-watch-list/mexico/\">World Watch List</a>.</p>\n\n\n\n<p>Yet even those who are always under pressure of gang violence noted that the scale of this week’s events was unprecedented. Christians from different denominations united in prayer for the country and sought to support those who suffered from the blockades and the clashes.</p>\n\n\n\n<p>“All of this comes at a very high emotional cost,” said Israel Gonzalez, a psychologist and pastor of Iglesia Peña de Horeb in Monterrey. “Being under a gun’s sight, being in the middle of a road blocked by trucks on fire is terrible. All this and not knowing if there’s something better ahead is terrible. Our churches need to help those who don’t know Jesus to find hope in this landscape.”</p>\n\n\n\n<p>In a <a href=\"https://www.facebook.com/photo?fbid=769894692842739&amp;set=a.105999709232244\">statement</a> published on social media, bishop Enrique Treviño Cruz of the Anglican Diocese of Cuernavaca urged Christians to seek peace. “Jesus never promised us that life in this world would be a bed of roses. We are exposed to moments of affliction and conflict, but the certainty that Jesus triumphed over all evil should fill us with hope to persevere in prayer but also in action,” he wrote. “I especially urge you to encourage one another to remain in fervent prayer with the firm hope of finding the loving response of our Lord.”</p>\n\n\n\n<p>Another concern among churches is the spread of false information, which results in further tension and panic buying. Varas noted that on Monday, the city’s gas stations were empty, causing many to buy and stockpile fuel “out of fear of what the future might hold.”</p>\n\n\n\n<p>The College of Bishops of the Methodist Church of Mexico called for peace and asked believers not to spread fake news.</p>\n\n\n\n<p>“We exhort our churches to remain united, to avoid spreading fear and disinformation, and to be instruments of reconciliation in their surroundings, ‘endeavoring to keep the unity of the Spirit in the bond of peace’ (Ephesians 4:3),” the group said in a <a href=\"https://www.facebook.com/photo?fbid=920557067011443&amp;set=a.217830347284122\">statement</a>.</p>\n\n\n\n<p>Varas called on believers to take as their own God’s promise to Jerusalem in Zephaniah 3:15–16: “The Lord has taken away your punishment, he has turned back your enemy. The Lord, the King of Israel, is with you; never again will you fear any harm. On that day they will say to Jerusalem, ‘Do not fear, Zion; do not let your hands hang limp.’”</p>\n\n\n\n<p>“In this time of crisis, we hang on to God through prayer,” said Varas. “But I think this situation gives us an opportunity as Christians to transform prayer into a culture, not merely something to cling to during a crisis.”</p>\n\n\n\n<p class=\"is-style-article-bio\">Correction: An earlier version of this article misstated the level of government that issued the code red alert.</p>\n\n\n\n<p></p>\n<p>The post <a href=\"https://www.christianitytoday.com/2026/02/mexico-violence-cartel-el-mencho-church/\">How Mexican Cartel Violence Disrupted a Guadalajara Church</a> appeared first on <a href=\"https://www.christianitytoday.com\">Christianity Today</a>.</p>\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.christianitytoday.com/2026/02/mexico-violence-cartel-el-mencho-church/\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://images.unsplash.com/photo-1445445290350-18a3b86e0b5a?w=800&q=80",
-      "smallThumbnail": "https://images.unsplash.com/photo-1445445290350-18a3b86e0b5a?w=800&q=80",
-      "largeThumbnail": "https://images.unsplash.com/photo-1445445290350-18a3b86e0b5a?w=800&q=80",
+      "thumbnail": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&q=80",
+      "smallThumbnail": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&q=80",
+      "largeThumbnail": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&q=80",
       "commentsEnabled": false,
       "categories": [
         "News"
       ],
       "images": [
         {
-          "url": "https://images.unsplash.com/photo-1445445290350-18a3b86e0b5a?w=800&q=80",
+          "url": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&q=80",
           "id": "img-96d543d2c47b"
         }
       ]
@@ -322,16 +250,16 @@
       "author": "Tré Goins-Phillips",
       "summary": "Pray.",
       "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 News | Faithwire</span>\n                </div>\n                <p>NBC&#8217;s &#8220;Today&#8221; host Savannah Guthrie is reportedly returning to the network, even as her mother, Nancy, remains missing. The exact time of her return, though, is unclear.</p>\n\n\n\n<p>An unnamed source <a href=\"https://www.cnn.com/2026/02/26/media/savannah-guthrie-nancy-today-show-nbc\" rel=\"noreferrer noopener\" target=\"_blank\">told CNN</a> the cast and crew of &#8220;Today&#8221; will &#8220;welcome her back with open arms on her timeline,&#8221; noting the decision is entirely up to Guthrie.</p>\n\n\n\n<p><strong><em>LISTEN &amp; SUBSCRIBE to CBN’s Morning Podcast, Quick Start:</em></strong></p>\n\n\n\n\n\n\n\n<p>News of the co-anchor&#8217;s potential return comes as she acknowledged this week her mother, who has been missing for some four weeks after disappearing from her home near Tucson, Arizona, on Feb. 1, &#8220;may already be gone.&#8221;</p>\n\n\n\n<p>&#8220;She may have already gone home to the Lord that she loves and is dancing in heaven with her mom, and her dad, and with her beloved brother, Pierce, and with our daddy,&#8221; said Guthrie. &#8220;If this is what is to be, then we will accept it. But we need to know where she is. We need her to come home.&#8221;</p>\n\n\n\n<p>The 54-year-old journalist did, however, ask for continued prayers for her mother&#8217;s safe return. She also announced the family is increasing its reward for information leading to the recovery of the missing 84-year-old to $1 million. </p>\n\n\n\n<p>Every night without Nancy, the distraught anchor said, &#8220;has been agony,&#8221; telling followers the Guthrie family is &#8220;blowing on the embers of hope.&#8221;<a href=\"https://www.instagram.com/reel/DVJKU2wADV3/?utm_source=ig_embed&amp;utm_campaign=loading\" rel=\"noreferrer noopener\" target=\"_blank\"></a><a href=\"https://www.instagram.com/reel/DVJKU2wADV3/?utm_source=ig_embed&amp;utm_campaign=loading\" rel=\"noreferrer noopener\" target=\"_blank\"></a><a href=\"https://www.instagram.com/reel/DVJKU2wADV3/?utm_source=ig_embed&amp;utm_campaign=loading\" rel=\"noreferrer noopener\" target=\"_blank\"></a></p>\n\n\n\n<center><blockquote class=\"instagram-media\"><div style=\"padding: 16px;\"> <a href=\"https://www.instagram.com/reel/DVJKU2wADV3/?utm_source=ig_embed&amp;utm_campaign=loading\" style=\"line-height: 0; padding: 0 0; text-align: center; text-decoration: none; width: 100%;\" target=\"_blank\"> <div style=\"display: flex;\"> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 40px; margin-right: 14px; width: 40px;\"></div> <div style=\"display: flex;\"> <div style=\"background-color: #F4F4F4; border-radius: 4px; height: 14px; margin-bottom: 6px; width: 100px;\"></div> <div style=\"background-color: #F4F4F4; border-radius: 4px; height: 14px; width: 60px;\"></div></div></div><div style=\"padding: 19% 0;\"></div> <div style=\"display: block; height: 50px; margin: 0 auto 12px; width: 50px;\"></div><div style=\"padding-top: 8px;\"> <div style=\"color: #3897f0; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: 550; line-height: 18px;\">View this post on Instagram</div></div><div style=\"padding: 12.5% 0;\"></div> <div style=\"display: flex; margin-bottom: 14px;\"><div> <div></div> <div></div> <div></div></div><div style=\"margin-left: 8px;\"> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 20px; width: 20px;\"></div> <div></div></div><div style=\"margin-left: auto;\"> <div></div> <div></div> <div></div></div></div> <div style=\"display: flex; margin-bottom: 24px;\"> <div style=\"background-color: #F4F4F4; border-radius: 4px; height: 14px; margin-bottom: 6px; width: 224px;\"></div> <div style=\"background-color: #F4F4F4; border-radius: 4px; height: 14px; width: 144px;\"></div></div></a><p style=\"color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; line-height: 17px; margin-bottom: 0; margin-top: 8px; overflow: hidden; padding: 8px 0 7px; text-align: center; white-space: nowrap;\"><a href=\"https://www.instagram.com/reel/DVJKU2wADV3/?utm_source=ig_embed&amp;utm_campaign=loading\" style=\"color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: normal; line-height: 17px; text-decoration: none;\" target=\"_blank\">A post shared by Savannah Guthrie (@savannahguthrie)</a></p></div></blockquote>\n</center>\n\n\n\n<p>On Thursday, an update indicated the FBI continuing to search for Nancy.</p>\n\n\n\n<p>The U.S. Attorney&#8217;s Office for the District of Arizona <a href=\"https://www.facebook.com/share/p/1AwMe5HwMe/\" rel=\"noreferrer noopener\" target=\"_blank\">announced on Wednesday</a> that federal prosecutors accompanied special agents with the FBI&#8217;s field office in Phoenix to the Guthrie home to continue its investigation into her alleged kidnapping.</p>\n\n\n\n<p>&#8220;Federal prosecutors traditionally work with all levels of law enforcement and have done so throughout this investigation,&#8221; said U.S. Attorney Timothy Courchaine. &#8220;The United States Attorney&#8217;s Office, together with the FBI and every other law enforcement agency involved in finding Nancy, will go anywhere, do anything, and persevere always to find her.&#8221;</p>\n\n\n\n<p>Please continue to pray with us for the Guthrie family and for the law enforcement officers continuing to investigate Nancy&#8217;s case.</p>\n\n\n\n<p><em><strong>As the number of voices facing big-tech censorship continues to grow, please sign up for <a href=\"https://www.faithwire.com/newsletter/\" rel=\"noreferrer noopener\" target=\"_blank\">Faithwire’s daily newsletter</a> and download the <a href=\"https://www1.cbn.com/cbn-apps#cbn-news\" rel=\"noreferrer noopener\" target=\"_blank\">CBN News app</a>, developed by our parent company, to stay up-to-date with the latest news from a distinctly Christian perspective.</strong></em></p>\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.faithwire.com/2026/02/27/update-on-savannah-guthries-plans-investigation-into-nancys-disappearance-she-may-already-be-gone/\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://images.unsplash.com/photo-1508672019048-805c876b67e2?w=800&q=80",
-      "smallThumbnail": "https://images.unsplash.com/photo-1508672019048-805c876b67e2?w=800&q=80",
-      "largeThumbnail": "https://images.unsplash.com/photo-1508672019048-805c876b67e2?w=800&q=80",
+      "thumbnail": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?w=800&q=80",
+      "smallThumbnail": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?w=800&q=80",
+      "largeThumbnail": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?w=800&q=80",
       "commentsEnabled": false,
       "categories": [
         "News"
       ],
       "images": [
         {
-          "url": "https://images.unsplash.com/photo-1508672019048-805c876b67e2?w=800&q=80",
+          "url": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?w=800&q=80",
           "id": "img-5105c34ddc59"
         }
       ]
@@ -346,16 +274,16 @@
       "author": "Billy Hallowell",
       "summary": "\"God is in the fire.\"",
       "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 News | Faithwire</span>\n                </div>\n                <p>Cindy Bond has long been a staple in the faith-and-family-friendly entertainment space, spending decades telling powerful and important stories.</p>\n\n\n\n<p><strong><em>LISTEN &amp; SUBSCRIBE to CBN&#8217;s Morning Podcast, Quick Start:</em></strong></p>\n\n\n\n\n\n\n\n<p>Bond&#8217;s latest effort is &#8220;I Can Only Imagine 2,&#8221; a sequel to the popular 2018 movie based on the harrowing personal story of MercyMe frontman Bart Millard. </p>\n\n\n\n<p>The idea for the follow-up film came from a &#8220;Holy Spirit epiphany,&#8221; according to Bond.</p>\n\n\n\n<p>&#8220;I give God all the glory in heaven and on earth,&#8221; she told CBN News. &#8220;And, also, I give [singers] Bart Millard and Tim Timmons huge gratitude and thanks.&#8221;</p>\n\n\n\n<p>Bond recalled hearing the song &#8220;Even If&#8221; — the tune central to the &#8220;I Can Only Imagine 2&#8221; storyline — and felt something profound.</p>\n\n\n\n<p>&#8220;I&#8217;m a media missionary and I just got &#8230; like a still, small voice of God hitting me when I was listening to the song &#8216;Even If,&#8217; and I was weeping,&#8221; she said. &#8220;It just meant so much to me, and right then and there, that little, still small voice &#8230; it was clear that, &#8216;You, Cindy, need to make a movie using this song as the foundation.'&#8221;</p>\n\n\n\n<p>At the time, Bond didn&#8217;t know the story behind the song, a cancer journey Timmons faced that led him to seek solace in old hymns and in the message of God&#8217;s grace, regardless of life&#8217;s struggles. </p>\n\n\n\n<p>This Holy Spirit prompting wasn&#8217;t foreign to Bond, who said she had the same experience years ago when God dropped the idea on her for the first &#8220;I Can Only Imagine.&#8221;</p>\n\n\n\n<p>&#8220;I literally had a Holy Spirit epiphany to make a series of iconic movies based on iconic Christian songs to replicate that anointed worship experience that we have in church, but instead inside a movie theater,&#8221; Bond said. &#8220;That was the basis.&#8221;</p>\n\n\n\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n<div class=\"video-wrapper video-youtube\"></div>\n</div></figure>\n\n\n\n<p>Ultimately, Bond said she hopes the film, which opened in third place at $8 million over the weekend, will &#8220;bless people abundantly.&#8221; </p>\n\n\n\n<p>&#8220;The song, &#8216;Even If,&#8217; &#8230; the lyrics in that song were born out of true life experiences that Bart and Tim lived,&#8221; she said. &#8220;And, you know, to apply into our lives as we&#8217;re living on earth today, the hills and the valleys, trials and tribulations we all go through and how to manage through them that God is in the fire, God is in the storm, He never leaves us, He never forsakes us — and that, whatever we&#8217;re going through &#8230; there&#8217;s always hope.&#8221;</p>\n\n\n\n<p>Watch Bond speak more about these issues and find out more about &#8220;I Can Only Imagine 2.&#8221;</p>\n\n\n\n<p><em><strong>As the number of voices facing big-tech censorship continues to grow, please sign up for&nbsp;<a href=\"https://www.faithwire.com/newsletter/\" rel=\"noreferrer noopener\" target=\"_blank\">Faithwire’s daily newsletter</a>&nbsp;and download the&nbsp;<a href=\"https://www1.cbn.com/cbn-apps#cbn-news\" rel=\"noreferrer noopener\" target=\"_blank\">CBN News app</a>, developed by our parent company, to stay up-to-date with the latest news from a distinctly Christian perspective.</strong></em></p>\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.faithwire.com/2026/02/26/she-heard-god-say-make-this-movie-and-listened/\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=800&q=80",
-      "smallThumbnail": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=800&q=80",
-      "largeThumbnail": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=800&q=80",
+      "thumbnail": "https://images.unsplash.com/photo-1507692049790-de58290a4334?w=800&q=80",
+      "smallThumbnail": "https://images.unsplash.com/photo-1507692049790-de58290a4334?w=800&q=80",
+      "largeThumbnail": "https://images.unsplash.com/photo-1507692049790-de58290a4334?w=800&q=80",
       "commentsEnabled": false,
       "categories": [
         "News"
       ],
       "images": [
         {
-          "url": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=800&q=80",
+          "url": "https://images.unsplash.com/photo-1507692049790-de58290a4334?w=800&q=80",
           "id": "img-21a1bdd32461"
         }
       ]
@@ -370,16 +298,16 @@
       "author": "Emily Brown",
       "summary": "Spotify has finally answered the question literally nobody has ever asked: what if your playlist could follow you beyond the grave? The streaming giant teamed up with Liquid Death to create the Eternal Playlist Urn, a physical urn with a “discreet” Bluetooth speaker built into the lid. The companies",
       "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Culture | Relevant Magazine</span>\n                </div>\n                <p class=\"p1\">Spotify has finally answered the question literally nobody has ever asked: what if your playlist could follow you beyond the grave?</p>\n<p class=\"p1\">The streaming giant teamed up with Liquid Death to create the Eternal Playlist Urn, a physical urn with a “discreet” Bluetooth speaker built into the lid. The companies say it is “the world’s first wireless speaker designed to bring your music somewhere it’s never been before.” Translation: your remains can now come bundled with your most-played songs from 2017.</p>\n<p class=\"p1\">Spotify also launched an Eternal Playlist Generator for users, designed to build a soundtrack “for a lifetime…and beyond,” using your listening history and a short questionnaire. The prompts include “What’s your eternal vibe?” and “What’s your go-to ghost noise?”</p>\n<p class=\"p1\">So it looks like the future of your legacy depends on an app asking you to describe your mood about the afterlife.</p>\n<p>The Eternal Playlist Urn is <a href=\"https://newsroom.spotify.com/2026-02-24/liquid-death-eternal-playlist-urn/\">available in the U.S. for a limited time</a>.</p>\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://relevantmagazine.com/current/spotify-just-made-an-urn-that-will-play-your-music-for-eternity/\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=800&q=80",
-      "smallThumbnail": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=800&q=80",
-      "largeThumbnail": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=800&q=80",
+      "thumbnail": "https://images.unsplash.com/photo-1445445290350-18a3b86e0b5a?w=800&q=80",
+      "smallThumbnail": "https://images.unsplash.com/photo-1445445290350-18a3b86e0b5a?w=800&q=80",
+      "largeThumbnail": "https://images.unsplash.com/photo-1445445290350-18a3b86e0b5a?w=800&q=80",
       "commentsEnabled": false,
       "categories": [
         "Culture"
       ],
       "images": [
         {
-          "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=800&q=80",
+          "url": "https://images.unsplash.com/photo-1445445290350-18a3b86e0b5a?w=800&q=80",
           "id": "img-cb5a689368cf"
         }
       ]
@@ -418,16 +346,16 @@
       "author": "Bible Gateway",
       "summary": "Please visit Bible Gateway: News &#38; Knowledge for the latest articles and updates from Bible Gateway, including Bible-related news, information, and of course the reflections and excerpts you know and love from bestselling Christian authors, thinkers, pastors, and influencers.\nThe post The Bible",
       "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Bible Study | Bible Gateway Blog</span>\n                </div>\n                <p>Please visit <strong><a href=\"/learn\">Bible Gateway: News &amp; Knowledge</a></strong> for the latest articles and updates from Bible Gateway, including Bible-related news, information, and of course the reflections and excerpts you know and love from bestselling Christian authors, thinkers, pastors, and influencers.</p>\n<p>The post <a href=\"https://www.biblegateway.com/blog/2024/07/weve-moved/\" rel=\"nofollow\">The Bible Gateway Blog Has Moved!</a> appeared first on <a href=\"https://www.biblegateway.com/blog\" rel=\"nofollow\">Bible Gateway Blog</a>.</p>\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.biblegateway.com/blog/2024/07/weve-moved/\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&q=80",
-      "smallThumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&q=80",
-      "largeThumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&q=80",
+      "thumbnail": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=800&q=80",
+      "smallThumbnail": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=800&q=80",
+      "largeThumbnail": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=800&q=80",
       "commentsEnabled": false,
       "categories": [
         "Bible Study"
       ],
       "images": [
         {
-          "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&q=80",
+          "url": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=800&q=80",
           "id": "img-7fbf82c579be"
         }
       ]
@@ -538,16 +466,16 @@
       "author": "Bri",
       "summary": "Today on the show, our host, Bri, answers a listener's question: \"what grounds you after a mentally challenging day?\". Bri shares her top self-care strategies and tips to help you wind down after a tough day, drawing from her own experiences and focusing on mindfulness practices, meditation, deep br",
       "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Podcast | Theology in the Raw</span>\n                </div>\n                <p>Today on the show, our host, Bri, answers a listener's question: \"what grounds you after a mentally challenging day?\". Bri shares her top self-care strategies and tips to help you wind down after a tough day, drawing from her own experiences and focusing on mindfulness practices, meditation, deep breathing exercises, and more relaxation techniques for stress relief. We can release the energy that does not serve us and we can feel great and empowered, as we deserve to. Mental wellness and emotional wellbeing are some of the pillars of WellBriing, and we're so excited for you to be inspired by this episode.</p> <p>Extra bonus content: a special guided meditation inspired by this episode is available now, here on the WellBriing Podcast, titled \"Guided Meditation: Relaxing and Letting Go to Feel Empowered\". Visit our podcast feed to find it right next to this episode!</p> <p>Please follow the podcast and connect with us on all social platforms <a href=\"https://instagram.com/wellbriing\" rel=\"noopener\" target=\"_blank\">@wellbriing!</a> Connect with our host, Bri, on Instagram <a href=\"https://instagram.com/bri.healthy\" rel=\"noopener\" target=\"_blank\">@bri.healthy</a>. </p> <p>Have a beautiful, amazing day! Thank you for being here and for being you!</p>\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://5632bb7a-1776-4e60-8649-963b552cb855.libsyn.com/how-to-feel-better-after-a-mentally-challenging-day-tips-techniques-and-emotional-support\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://images.unsplash.com/photo-1445445290350-18a3b86e0b5a?w=800&q=80",
-      "smallThumbnail": "https://images.unsplash.com/photo-1445445290350-18a3b86e0b5a?w=800&q=80",
-      "largeThumbnail": "https://images.unsplash.com/photo-1445445290350-18a3b86e0b5a?w=800&q=80",
+      "thumbnail": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&q=80",
+      "smallThumbnail": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&q=80",
+      "largeThumbnail": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&q=80",
       "commentsEnabled": false,
       "categories": [
         "Podcast"
       ],
       "images": [
         {
-          "url": "https://images.unsplash.com/photo-1445445290350-18a3b86e0b5a?w=800&q=80",
+          "url": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&q=80",
           "id": "img-1e0952f8bec2"
         }
       ]
