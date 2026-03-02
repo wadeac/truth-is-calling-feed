@@ -27,11 +27,7 @@ TRUTH_IS_CALLING_YOUTUBE = {
     "max_items": 2,  # Pull 2 random Shorts from your channel
 }
 
-# Truth Is Calling website articles page
-TRUTH_IS_CALLING_ARTICLES = {
-    "url": "https://www.truthiscalling.us/httpswwwtruthiscallingusrevelation",
-    "max_items": 1,  # Pull 1 random article per day
-}
+# Truth Is Calling website articles — REMOVED (imagery sizes were wrong)
 
 # Christian RSS feed sources
 SOURCES = [
@@ -109,6 +105,20 @@ SOURCES = [
         "name": "Theology in the Raw",
         "url": "https://feeds.libsyn.com/468498/rss",
         "category": "Podcast",
+        "max_items": 1
+    },
+    # Word on Fire (Bishop Barron)
+    {
+        "name": "Word on Fire",
+        "url": "https://www.wordonfire.org/feed/",
+        "category": "Catholic Teaching",
+        "max_items": 2
+    },
+    # The Land and the Book (Moody Radio)
+    {
+        "name": "The Land and the Book",
+        "url": "https://www.omnycontent.com/d/playlist/a8cdbf10-d816-4c77-9e79-aa1c012547e1/02d05ecd-1701-49e4-9921-acaf00fb51b7/67835b49-1ea7-482b-8f6d-acaf00fb51ca/podcast.rss",
+        "category": "Bible & Prophecy",
         "max_items": 1
     },
 ]
@@ -544,26 +554,7 @@ def generate_feed():
     all_items.append(verse)
     print(f"  ✓ {verse['title']}")
 
-    # 2. Fetch Truth Is Calling's RANDOM YouTube Shorts (refresher content)
-    print("\n\u271d Fetching YOUR content (Truth Is Calling)...")
-    print("  \u2192 Random YouTube Shorts...", end=" ")
-    tic_shorts = fetch_truth_is_calling_shorts()
-    if tic_shorts:
-        all_items.extend(tic_shorts)
-        print(f"\u2713 ({len(tic_shorts)} random shorts)")
-    else:
-        print("\u2717 (no shorts found)")
-
-    # 2b. Fetch a random article from truthiscalling.us
-    print("  \u2192 Random Website Article...", end=" ")
-    tic_article = fetch_truth_is_calling_article()
-    if tic_article:
-        all_items.extend(tic_article)
-        print(f"\u2713 ({len(tic_article)} article)")
-    else:
-        print("\u2717 (no article found)")
-
-    # 3. Fetch from all RSS sources
+    # 2. Fetch from all RSS sources (these go right after the verse)
     print("\n📡 Fetching from Christian sources...")
     for source in SOURCES:
         print(f"  → {source['name']}...", end=" ")
@@ -574,7 +565,17 @@ def generate_feed():
         else:
             print("✗ (no items)")
 
-    # 3. Convert to Good Barber format
+    # 3. Fetch Truth Is Calling YouTube Shorts (placed at the END of the feed)
+    print("\n\u271d Fetching YOUR content (Truth Is Calling)...")
+    print("  \u2192 Random YouTube Shorts...", end=" ")
+    tic_shorts = fetch_truth_is_calling_shorts()
+    if tic_shorts:
+        all_items.extend(tic_shorts)
+        print(f"\u2713 ({len(tic_shorts)} random shorts — placed at end of feed)")
+    else:
+        print("\u2717 (no shorts found)")
+
+    # 4. Convert to Good Barber format
     print(f"\n📦 Building Good Barber feed with {len(all_items)} items...")
     gb_articles = []
     for i, item in enumerate(all_items):
@@ -637,7 +638,7 @@ def generate_feed():
         </div>
         <div class="footer">
             <p>Last updated: {datetime.now().strftime("%B %d, %Y at %I:%M %p")}</p>
-            <p>Feed auto-updates daily at midnight MST</p>
+            <p>Feed auto-updates every 8 hours</p>
         </div>
     </div>
 </body>
