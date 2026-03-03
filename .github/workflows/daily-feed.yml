@@ -2,7 +2,7 @@ name: Daily Christian Feed Update
 
 on:
   schedule:
-    - cron: '0 7 * * *'
+   - cron: '0 0,7,14,21 * * *'
   workflow_dispatch:
 
 permissions:
