@@ -121,6 +121,13 @@ SOURCES = [
         "category": "Bible & Prophecy",
         "max_items": 1
     },
+    # Jerusalem Post (Israel & Middle East news)
+    {
+        "name": "The Jerusalem Post",
+        "url": "https://rss.jpost.com/rss/rssfeedsfrontpage.aspx",
+        "category": "Israel & Middle East",
+        "max_items": 3
+    },
 ]
 
 # Daily Bible verses with themes (rotates by day of year)
@@ -546,24 +553,29 @@ def generate_feed():
     print(f"📅 Date: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print()
 
-    all_items = []
+    news_items = []  # News articles go first
+    other_items = []  # Everything else follows
 
-    # 1. Add Verse of the Day first
-    print("📖 Generating Verse of the Day...")
-    verse = get_daily_verse()
-    all_items.append(verse)
-    print(f"  ✓ {verse['title']}")
+    # News categories that should appear at the front
+    NEWS_CATEGORIES = {"News", "Israel & Middle East"}
 
-    # 2. Fetch from all RSS sources (these go right after the verse)
-    print("\n📡 Fetching from Christian sources...")
+    # 1. Fetch from all RSS sources
+    print("📡 Fetching from Christian sources...")
     for source in SOURCES:
         print(f"  → {source['name']}...", end=" ")
         items = fetch_feed(source)
         if items:
-            all_items.extend(items)
-            print(f"✓ ({len(items)} items)")
+            if source["category"] in NEWS_CATEGORIES:
+                news_items.extend(items)
+                print(f"✓ ({len(items)} items — NEWS, front of feed)")
+            else:
+                other_items.extend(items)
+                print(f"✓ ({len(items)} items)")
         else:
             print("✗ (no items)")
+
+    # Build combined list: News first, then everything else
+    all_items = news_items + other_items
 
     # 3. Fetch Truth Is Calling YouTube Shorts (placed at the END of the feed)
     print("\n\u271d Fetching YOUR content (Truth Is Calling)...")
