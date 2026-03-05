@@ -165,6 +165,29 @@ DAILY_VERSES = [
     {"verse": "Lamentations 3:22-23", "text": "The steadfast love of the Lord never ceases; his mercies never come to an end; they are new every morning; great is your faithfulness.", "theme": "Faithfulness"},
 ]
 
+# GitHub Pages base URL for fallback images
+GH_PAGES_BASE = "https://wadeac.github.io/truth-is-calling-feed/images"
+
+# High-quality fallback images by category (hosted on GitHub Pages)
+CATEGORY_FALLBACK_IMAGES = {
+    "News": f"{GH_PAGES_BASE}/feed-fallback-news.jpg",
+    "Israel & Middle East": f"{GH_PAGES_BASE}/feed-fallback-israel.jpg",
+    "Devotional": f"{GH_PAGES_BASE}/feed-fallback-devotional.jpg",
+    "Teaching": f"{GH_PAGES_BASE}/feed-fallback-teaching.jpg",
+    "Catholic Teaching": f"{GH_PAGES_BASE}/feed-fallback-teaching.jpg",
+    "Culture": f"{GH_PAGES_BASE}/feed-fallback-culture.jpg",
+    "Faith & Life": f"{GH_PAGES_BASE}/feed-fallback-culture.jpg",
+    "Leadership": f"{GH_PAGES_BASE}/feed-fallback-culture.jpg",
+    "Bible Study": f"{GH_PAGES_BASE}/feed-fallback-biblestudy.jpg",
+    "Bible & Prophecy": f"{GH_PAGES_BASE}/feed-fallback-prophecy.jpg",
+    "Podcast": f"{GH_PAGES_BASE}/feed-fallback-teaching.jpg",
+    "Video": f"{GH_PAGES_BASE}/feed-fallback-video.jpg",
+    "Your Shorts": f"{GH_PAGES_BASE}/feed-fallback-video.jpg",
+}
+
+# Generic fallback if category not found
+DEFAULT_FALLBACK_IMAGE = f"{GH_PAGES_BASE}/feed-fallback-devotional.jpg"
+
 # Verse-themed image URLs (royalty-free Christian imagery)
 VERSE_IMAGES = [
     "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?w=800&q=80",  # Bible open
@@ -178,6 +201,36 @@ VERSE_IMAGES = [
     "https://images.unsplash.com/photo-1475924156734-496f6cac6ec1?w=800&q=80",  # Sunbeam forest
     "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&q=80",  # Golden field
 ]
+
+
+def fetch_og_image(url):
+    """Try to fetch the og:image from an article page for high-resolution thumbnail."""
+    try:
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        }
+        resp = requests.get(url, headers=headers, timeout=8)
+        resp.raise_for_status()
+        soup = BeautifulSoup(resp.text, 'html.parser')
+        
+        # Try og:image first (usually 1200x630+)
+        og_img = soup.find('meta', attrs={'property': 'og:image'})
+        if og_img and og_img.get('content'):
+            img_url = og_img['content']
+            # Skip tiny placeholder images and data URIs
+            if img_url.startswith('http') and 'placeholder' not in img_url.lower() and '1x1' not in img_url:
+                return img_url
+        
+        # Try twitter:image as fallback
+        tw_img = soup.find('meta', attrs={'name': 'twitter:image'})
+        if tw_img and tw_img.get('content'):
+            img_url = tw_img['content']
+            if img_url.startswith('http'):
+                return img_url
+        
+        return None
+    except Exception:
+        return None
 
 
 def fetch_truth_is_calling_shorts():
@@ -417,19 +470,26 @@ def fetch_feed(source):
                     </div>
                     '''
             else:
-                # Try to extract first image from content for thumbnail
-                img_match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', content_html)
-                if img_match:
-                    item["thumbnail"] = img_match.group(1)
+                # STEP 1: Try og:image from the article page (highest quality, usually 1200x630+)
+                if item["url"]:
+                    og_image = fetch_og_image(item["url"])
+                    if og_image:
+                        item["thumbnail"] = og_image
 
-                # Also check for media:thumbnail or media:content
+                # STEP 2: Try to extract image from RSS content HTML
+                if not item["thumbnail"]:
+                    img_match = re.search(r'<img[^>]+src=["\']([^"\']+ )["\']', content_html)
+                    if img_match:
+                        item["thumbnail"] = img_match.group(1)
+
+                # STEP 3: Check for media:thumbnail or media:content in RSS
                 if not item["thumbnail"]:
                     if hasattr(entry, "media_thumbnail") and entry.media_thumbnail:
                         item["thumbnail"] = entry.media_thumbnail[0].get("url", "")
                     elif hasattr(entry, "media_content") and entry.media_content:
                         item["thumbnail"] = entry.media_content[0].get("url", "")
 
-                # Check enclosures
+                # STEP 4: Check enclosures
                 if not item["thumbnail"] and hasattr(entry, "enclosures") and entry.enclosures:
                     for enc in entry.enclosures:
                         if enc.get("type", "").startswith("image/"):
@@ -513,10 +573,10 @@ def build_gb_article(item, index):
     item_id = hashlib.md5(unique_str.encode()).hexdigest()[:12]
 
     thumbnail = item.get("thumbnail", "")
-    # Use a fallback image if no thumbnail
+    # Use high-quality category-specific fallback image if no thumbnail found
     if not thumbnail:
-        fallback_idx = index % len(VERSE_IMAGES)
-        thumbnail = VERSE_IMAGES[fallback_idx]
+        category = item.get("category", "")
+        thumbnail = CATEGORY_FALLBACK_IMAGES.get(category, DEFAULT_FALLBACK_IMAGE)
 
     article = {
         "id": item_id,
