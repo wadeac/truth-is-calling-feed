@@ -145,13 +145,37 @@
       ]
     },
     {
+      "id": "2a5866caa4a9",
+      "type": "article",
+      "subtype": "custom",
+      "title": "Hezbollah instructed to attack Lebanese army if it intervenes in conflict, source tells 'Post'",
+      "url": "https://www.jpost.com/middle-east/article-889303",
+      "date": "2026-03-09T08:09:07+00:00",
+      "author": "BY AMICHAI STEIN",
+      "summary": "An Israeli source added to the Post that UN Special Coordinator for Lebanon Joanna Wronecka will arrive in Israel on Monday amid the ongoing escalation.",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"Hezbollah terrorists march in the funeral of senior terrorist Haytham Ali Tabatabai, others killed in IDF airstrike, in Beirut, November 24, 2025; illustrative. (photo credit: REUTERS/MOHAMED AZAKIR)\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2498,w_3747/706943\" title=\"Hezbollah terrorists march in the funeral of senior terrorist Haytham Ali Tabatabai, others killed in IDF airstrike, in Beirut, November 24, 2025; illustrative. (photo credit: REUTERS/MOHAMED AZAKIR)\" /><br />An Israeli source added to the Post that UN Special Coordinator for Lebanon Joanna Wronecka will arrive in Israel on Monday amid the ongoing escalation.<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/middle-east/article-889303\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/706943",
+      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/706943",
+      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/706943",
+      "commentsEnabled": false,
+      "categories": [
+        "Israel & Middle East"
+      ],
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/706943",
+          "id": "img-2a5866caa4a9"
+        }
+      ]
+    },
+    {
       "id": "133153bf41fd",
       "type": "article",
       "subtype": "custom",
       "title": "WATCH: Khamenei's son Mojtaba named as new supreme leader of Iran, state media announces",
       "url": "https://www.jpost.com/middle-east/iran-news/article-889215",
       "date": "2026-03-08T11:09:01+00:00",
-      "author": "BY DANIELLE GREYMAN-KENNARD AND REUTERS",
+      "author": "BY DANIELLE GREYMAN-KENNARD AND JERUSALEM POST STAFF AND REUTERS",
       "summary": "Mojtaba was a mid-ranking cleric, but with close ties to the Islamic Revolutionary Guard Corps • Iran's ideology frowns on hereditary succession • IDF will 'pursue every successor'",
       "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"Mojtaba Khamenei, son of former Iranian supreme leader Ayatollah Ali Khamenei. (photo credit: SCREENSHOT/X, SECTION 27A COPYRIGHT ACT)\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/709695\" title=\"Mojtaba Khamenei, son of former Iranian supreme leader Ayatollah Ali Khamenei. (photo credit: SCREENSHOT/X, SECTION 27A COPYRIGHT ACT)\" /><br />Mojtaba was a mid-ranking cleric, but with close ties to the Islamic Revolutionary Guard Corps • Iran's ideology frowns on hereditary succession • IDF will 'pursue every successor'<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/middle-east/iran-news/article-889215\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
       "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/709695",
@@ -169,50 +193,26 @@
       ]
     },
     {
-      "id": "9845a2dd6445",
+      "id": "2f0b38a7b14b",
       "type": "article",
       "subtype": "custom",
-      "title": "Iran unleashing unprecedented terror campaign against Israelis abroad, senior official warns",
-      "url": "https://www.jpost.com/diaspora/article-889282",
-      "date": "2026-03-08T21:43:54+00:00",
-      "author": "BY AMICHAI STEIN",
-      "summary": "National Security Council official confirms travel warnings raised for Armenia, Azerbaijan, and Georgia, describing a \"fundamental change\" in Tehran’s approach.",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"Iranians rally as Muslims attend Friday prayer, in Tehran, Iran, March 6, 2026 (photo credit: MAJID ASGARIPOUR/WANA (WEST ASIA NEWS AGENCY) VIA REUTERS)\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3648,w_5472/710359\" title=\"Iranians rally as Muslims attend Friday prayer, in Tehran, Iran, March 6, 2026 (photo credit: MAJID ASGARIPOUR/WANA (WEST ASIA NEWS AGENCY) VIA REUTERS)\" /><br />National Security Council official confirms travel warnings raised for Armenia, Azerbaijan, and Georgia, describing a \"fundamental change\" in Tehran’s approach.<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/diaspora/article-889282\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/710359",
-      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/710359",
-      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/710359",
+      "title": "Iranian missile fragment hits central Israel, one moderately injured from flying rocks",
+      "url": "https://www.jpost.com/israel-news/article-889295",
+      "date": "2026-03-09T02:25:09+00:00",
+      "author": "BY MAYA ZANGER-NADIS",
+      "summary": "Magen David Adom provided first-aid treatment on site and evacuated the injured woman for further treatment, reporting her condition as stable.",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"Magen David Adom paramedics at the scene of a missile hit, March 9, 2026. (photo credit: MAGEN DAVID ADOM)\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_900,w_1600/710490\" title=\"Magen David Adom paramedics at the scene of a missile hit, March 9, 2026. (photo credit: MAGEN DAVID ADOM)\" /><br />Magen David Adom provided first-aid treatment on site and evacuated the injured woman for further treatment, reporting her condition as stable. <br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/israel-news/article-889295\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/710490",
+      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/710490",
+      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/710490",
       "commentsEnabled": false,
       "categories": [
         "Israel & Middle East"
       ],
       "images": [
         {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/710359",
-          "id": "img-9845a2dd6445"
-        }
-      ]
-    },
-    {
-      "id": "d0364499cf2b",
-      "type": "article",
-      "subtype": "custom",
-      "title": "Iranian debris damages UAE petrol facility, drones damage Bahraini residences, injure civilians",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-889293",
-      "date": "2026-03-09T00:51:22+00:00",
-      "author": "BY JAMES GENN",
-      "summary": "The Fujairah Emirate did not appear to clarify whether the damage to the FOIZ facility was caused by debris from an intercepted missile or drone.",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"Fire and smoke rise in the Fujairah Oil Industry Zone, caused by debris after interception of a drone by air defenses, UAE, March 4, 2026; illustrative. (photo credit: REUTERS/Amr Alfiky TPX IMAGES OF THE DAY)\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1248,w_1872/710486\" title=\"Fire and smoke rise in the Fujairah Oil Industry Zone, caused by debris after interception of a drone by air defenses, UAE, March 4, 2026; illustrative. (photo credit: REUTERS/Amr Alfiky TPX IMAGES OF THE DAY)\" /><br />The Fujairah Emirate did not appear to clarify whether the damage to the FOIZ facility was caused by debris from an intercepted missile or drone.<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/middle-east/iran-news/article-889293\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/710486",
-      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/710486",
-      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/710486",
-      "commentsEnabled": false,
-      "categories": [
-        "Israel & Middle East"
-      ],
-      "images": [
-        {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/710486",
-          "id": "img-d0364499cf2b"
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/710490",
+          "id": "img-2f0b38a7b14b"
         }
       ]
     },
@@ -313,26 +313,26 @@
       ]
     },
     {
-      "id": "f165d536dd64",
+      "id": "ada4acd3802d",
       "type": "article",
       "subtype": "custom",
-      "title": "Circumstantially Speaking",
-      "url": "https://harvest.org/resources/devotion/circumstantially-speaking/",
-      "date": "2026-03-07T08:01:47+00:00",
+      "title": "Set Your Affairs in Order",
+      "url": "https://harvest.org/resources/devotion/set-your-affairs-in-order/",
+      "date": "2026-03-09T07:01:49+00:00",
       "author": "Harvest",
-      "summary": "God speaks to us through circumstances in our lives.\nThe post Circumstantially Speaking appeared first on Harvest.",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Devotional | Greg Laurie Daily Devotion</span>\n                </div>\n                <p>God speaks to us through circumstances in our lives.</p>\n<p>The post <a href=\"https://harvest.org/resources/devotion/circumstantially-speaking/\">Circumstantially Speaking</a> appeared first on <a href=\"https://harvest.org\">Harvest</a>.</p>\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://harvest.org/resources/devotion/circumstantially-speaking/\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://harvest.org/wp-content/uploads/MKTG_MARCH_2026_Daily_Devo_NOCOPY-06.jpg",
-      "smallThumbnail": "https://harvest.org/wp-content/uploads/MKTG_MARCH_2026_Daily_Devo_NOCOPY-06.jpg",
-      "largeThumbnail": "https://harvest.org/wp-content/uploads/MKTG_MARCH_2026_Daily_Devo_NOCOPY-06.jpg",
+      "summary": "To avoid regret at the end of our lives, we must prioritize the things that truly matter throughout our lives.\nThe post Set Your Affairs in Order appeared first on Harvest.",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Devotional | Greg Laurie Daily Devotion</span>\n                </div>\n                <p>To avoid regret at the end of our lives, we must prioritize the things that truly matter throughout our lives.</p>\n<p>The post <a href=\"https://harvest.org/resources/devotion/set-your-affairs-in-order/\">Set Your Affairs in Order</a> appeared first on <a href=\"https://harvest.org\">Harvest</a>.</p>\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://harvest.org/resources/devotion/set-your-affairs-in-order/\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://harvest.org/wp-content/uploads/MKTG_MARCH_2026_Daily_Devo_NOCOPY-07.jpg",
+      "smallThumbnail": "https://harvest.org/wp-content/uploads/MKTG_MARCH_2026_Daily_Devo_NOCOPY-07.jpg",
+      "largeThumbnail": "https://harvest.org/wp-content/uploads/MKTG_MARCH_2026_Daily_Devo_NOCOPY-07.jpg",
       "commentsEnabled": false,
       "categories": [
         "Devotional"
       ],
       "images": [
         {
-          "url": "https://harvest.org/wp-content/uploads/MKTG_MARCH_2026_Daily_Devo_NOCOPY-06.jpg",
-          "id": "img-f165d536dd64"
+          "url": "https://harvest.org/wp-content/uploads/MKTG_MARCH_2026_Daily_Devo_NOCOPY-07.jpg",
+          "id": "img-ada4acd3802d"
         }
       ]
     },
@@ -505,6 +505,30 @@
       ]
     },
     {
+      "id": "48a205c68f02",
+      "type": "article",
+      "subtype": "custom",
+      "title": "Monday, March 9, 2026",
+      "url": "https://www.wordonfire.org/reflections/a-lent2026-wk3-monday/",
+      "date": "2026-03-09T05:01:00+00:00",
+      "author": "Bishop Robert Barron",
+      "summary": "Bishop Robert Barron\n\nFriends, in today’s Gospel, Jesus’s hometown rejects him as a prophet. And I want to say a word about your role as a prophet.",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Catholic Teaching | Word on Fire</span>\n                </div>\n                <p><a href=\"https://www.wordonfire.org/author/bishop-robert-barron/\">Bishop Robert Barron</a></p>\n<figure><img alt=\"DGR Eng\" class=\"attachment-medium size-medium wp-post-image\" height=\"360\" src=\"https://woforgmedia.wordonfire.org/wp-content/uploads/2022/04/15100403/dgr_image_16x9-640x360.png\" style=\"margin-bottom: 15px;\" width=\"640\" /></figure>\n<h2 class=\"wp-block-heading\" id=\"h-daily-reading\">Daily Reading</h2>\n\n\n\n<h5 class=\"wp-block-heading\" id=\"h-first-reading\">First Reading</h5>\n\n\n\n<h6 class=\"wp-block-heading\" id=\"h-2-kings-5-1-15ab\">2 Kings 5:1-15ab</h6>\n\n\n\n<p>Naaman, commander of the army of the king of Aram, was a great man and in high favor with his master, because by him the Lord had given victory to Aram. The man, though a mighty warrior, suffered from leprosy. Now the Arameans on one of their raids had taken a young girl captive from the land of Israel, and she served Naaman’s wife. She said to her mistress, “If only my lord were with the prophet who is in Samaria! He would cure him of his leprosy.” So Naaman went in and told his lord just what the girl from the land of Israel had said. And the king of Aram said, “Go then, and I will send along a letter to the king of Israel.”<br /><br />He went, taking with him ten talents of silver, six thousand shekels of gold, and ten sets of garments. He brought the letter to the king of Israel, which read, “When this letter reaches you, know that I have sent to you my servant Naaman, that you may cure him of his leprosy.” When the king of Israel read the letter, he tore his clothes and said, “Am I God, to give death or life, that this man sends word to me to cure a man of his leprosy? Just look and see how he is trying to pick a quarrel with me.”<br /><br />But when Elisha the man of God heard that the king of Israel had torn his clothes, he sent a message to the king, “Why have you torn your clothes? Let him come to me, that he may learn that there is a prophet in Israel.” So Naaman came with his horses and chariots, and halted at the entrance of Elisha’s house. Elisha sent a messenger to him, saying, “Go, wash in the Jordan seven times, and your flesh shall be restored and you shall be clean.” But Naaman became angry and went away, saying, “I thought that for me he would surely come out, and stand and call on the name of the Lord his God, and would wave his hand over the spot, and cure the leprosy! Are not Abana and Pharpar, the rivers of Damascus, better than all the waters of Israel? Could I not wash in them, and be clean?” He turned and went away in a rage. But his servants approached and said to him, “Father, if the prophet had commanded you to do something difficult, would you not have done it? How much more, when all he said to you was, ‘Wash, and be clean’?” So he went down and immersed himself seven times in the Jordan, according to the word of the man of God; his flesh was restored like the flesh of a young boy, and he was clean.<br /><br />Then he returned to the man of God, he and all his company; he came and stood before him and said, “Now I know that there is no God in all the earth except in Israel; please accept a present from your servant.”</p>\n\n\n\n<h5 class=\"wp-block-heading\" id=\"h-psalm\">Psalm</h5>\n\n\n\n<h6 class=\"wp-block-heading\" id=\"h-psalm-42-2-3-43-3-4\">Psalm 42:2, 3; 43:3, 4</h6>\n\n\n\n<blockquote class=\"wp-block-quote is-layout-flow wp-block-quote-is-layout-flow\">\n<p>My soul thirsts for God,<br />    for the living God.<br />When shall I come and behold<br />    the face of God?<br />My tears have been my food<br />    day and night,<br />while people say to me continually,<br />    “Where is your God?”<br />O send out your light and your truth;<br />    let them lead me;<br />let them bring me to your holy hill<br />    and to your dwelling.<br />Then I will go to the altar of God,<br />    to God my exceeding joy;<br />and I will praise you with the harp,<br />    O God, my God.</p>\n</blockquote>\n\n\n\n<h5 class=\"wp-block-heading\" id=\"h-gospel-reading\">Gospel Reading</h5>\n\n\n\n<h6 class=\"wp-block-heading\" id=\"h-luke-4-24-30\">Luke 4:24-30</h6>\n\n\n\n<p>And he said, “Truly I tell you, no prophet is accepted in the prophet’s hometown. But the truth is, there were many widows in Israel in the time of Elijah, when the heaven was shut up three years and six months, and there was a severe famine over all the land; yet Elijah was sent to none of them except to a widow at Zarephath in Sidon. There were also many lepers in Israel in the time of the prophet Elisha, and none of them was cleansed except Naaman the Syrian.” When they heard this, all in the synagogue were filled with rage. They got up, drove him out of the town, and led him to the brow of the hill on which their town was built, so that they might hurl him off the cliff. But he passed through the midst of them and went on his way.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"h-reflection\">Reflection</h2>\n\n\n\n<p>Friends, in today’s Gospel, Jesus’s hometown rejects him as a prophet. And I want to say a word about your role as a prophet.<br /><br />When most laypeople hear about prophecy, they sit back and their eyes glaze over. “That’s something for the priests and the bishops to worry about; they’re the modern-day prophets. I don’t have that call or that responsibility.”<br /><br />Well, think again! Vatican II emphasized the universal call to holiness, rooted in the dynamics of baptism. Every baptized person is conformed unto Christ—priest, prophet, and king. Whenever you assist at Mass, you are exercising your priestly office, participating in the worship of God. Whenever you direct your kids to discover their mission in the Church, or provide guidance to someone in the spiritual life, you are exercising your kingly office.<br /><br />As a baptized individual, you are commissioned as a prophet—which is to say, a speaker of God’s truth. And the prophetic word is not your own. It is not the result of your own meditations on the spiritual life, as valuable and correct as those may be. The prophetic word is the word of God given to you by God.</p>\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.wordonfire.org/reflections/a-lent2026-wk3-monday/\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-teaching.jpg",
+      "smallThumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-teaching.jpg",
+      "largeThumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-teaching.jpg",
+      "commentsEnabled": false,
+      "categories": [
+        "Catholic Teaching"
+      ],
+      "images": [
+        {
+          "url": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-teaching.jpg",
+          "id": "img-48a205c68f02"
+        }
+      ]
+    },
+    {
       "id": "ffd26b98816c",
       "type": "article",
       "subtype": "custom",
@@ -525,30 +549,6 @@
         {
           "url": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-teaching.jpg",
           "id": "img-ffd26b98816c"
-        }
-      ]
-    },
-    {
-      "id": "f517944f9e9e",
-      "type": "article",
-      "subtype": "custom",
-      "title": "Jon Guerra’s ‘Jesus’ Takes Us Back to the Manifesto: The Sermon on the Mount",
-      "url": "https://www.wordonfire.org/articles/jon-guerras-jesus-takes-us-back-to-the-manifesto-the-sermon-on-the-mount/",
-      "date": "2026-03-07T12:00:00+00:00",
-      "author": "Matthew Becklo",
-      "summary": "Matthew Becklo\n\nA return to Jesus’s manifesto is in order—and \"Jesus\" will help.",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Catholic Teaching | Word on Fire</span>\n                </div>\n                <p><a href=\"https://www.wordonfire.org/author/matthew-becklo/\">Matthew Becklo</a></p>\n<figure><img alt=\"\" class=\"attachment-medium size-medium wp-post-image\" height=\"360\" src=\"https://woforgmedia.wordonfire.org/wp-content/uploads/2026/03/06143852/Jesusjonguerra-360x360.jpg\" style=\"margin-bottom: 15px;\" width=\"360\" /></figure>\n<p></p>\n\n\n\n<p class=\"has-drop-cap\">During the three Sundays of Ordinary Time before the beginning of Lent, Catholics attending Mass heard Gospel readings taken from the fifth chapter of Matthew. This is the beginning of the famous “Sermon on the Mount,” which runs all the way through chapter seven and comprises the longest sermon of Jesus recorded in the Gospels.&nbsp;</p>\n\n\n\n<p>This sermon—a distillation of the whole of Christ’s teaching—thus hangs over the whole of our Lenten season of prayer, fasting, and almsgiving. And why shouldn’t it? St. Augustine in the fourth century called it the perfect guide to the Christian life; Servant of God Dorothy Day in the twentieth century called it the “manifesto” of Catholics in general—and of the Catholic Worker Movement in particular. Like Lent itself, the sermon invites us to get back to basics: Who is Jesus to me? What does it mean to be his disciple? Am I living in his kingdom, here and now? If not, how do I start? If so, where am I still holding back?&nbsp;</p>\n\n\n\n<p>These are the same questions at the heart of a beautiful album from singer-songwriter Jon Guerra titled, simply enough, <a href=\"https://www.youtube.com/watch?v=vUMB_fyuyFw&amp;list=OLAK5uy_l6ICn7y62TiXPUB4Jq6gZqhCYoTQxu700\" rel=\"noreferrer noopener\" target=\"_blank\"><em>Jesus</em></a>. The record draws consistently and creatively from Christ’s teachings in the Gospels, but the Sermon on the Mount shines forth in a special way, challenging us to see his words afresh. </p>\n\n\n\n<p>Guerra—born near LA, raised between Houston and Chicago, and based now in Austin—has roots in the Evangelical world but has since become Anglican, referencing both Scripture and C. S. Lewis (and even Thomas Aquinas) with ease. And his music displays a similar breadth: Having started out writing jingles for commercials, he’s also composed music for <a href=\"https://youtu.be/k7AURswCVOw\" rel=\"noreferrer noopener\" target=\"_blank\">Terrence Malick’s 2019 film <em>A Hidden Life</em></a> about Bl. Franz Jägerstätter—and, apparently, Malick’s forthcoming film about Christ titled <em>The Way of the Wind</em>. </p>\n\n\n\n<figure class=\"wp-block-pullquote alignwide\"><blockquote><p>At the heart of it all is always “the Lord of Crucifixion”—his words, his example, his invitation.</p></blockquote></figure>\n\n\n\n<p>His album <em>Jesus</em> comes on the heels of <a href=\"https://jonguerra.bandcamp.com/album/american-gospel\" rel=\"noreferrer noopener\" target=\"_blank\"><em>American Gospel</em></a>, a three-track EP resisting the instrumentalization of the Christian faith for worldly ends—a theme, incidentally, underscored in <a href=\"https://www.ncregister.com/cna/bishop-varden-dont-use-the-gospel-as-a-weapon\" rel=\"noreferrer noopener\" target=\"_blank\">Bishop Erik Varden’s first Lenten meditation for Pope Leo and the curia in Rome</a>. The motif first emerged in Guerra’s 2020 cri de coeur <a href=\"https://youtu.be/vdqgDclXPpw\" rel=\"noreferrer noopener\" target=\"_blank\">“Citizens”</a>: “What is the meaning of Christian in this American life?” he sings in his searching tenor. “I look around and I wonder ever if I heard it right.” By the 2024 EP, Guerra looked with exasperation at the whole circus of politics and media—from the power-hungry glitterati to speech-policing rioters, from Fox News to <em>The</em> <em>New York Times</em>—and how far so much of it is from the heart of the Gospel. The EP ends with a desperate plea: “God what we need only you can give it / We need the truth, and only you can speak it . . . We need someone to save us, someone to change us, someone like Jesus.” </p>\n\n\n\n<p>Enter <em>Jesus</em>.&nbsp;</p>\n\n\n\n<p>While Guerra doesn’t lay aside the charged social commentary on the album entirely—<a href=\"https://youtu.be/-STPbRAen7I\" rel=\"noreferrer noopener\" target=\"_blank\">“Reckoner” (An Axe Laid at the Root)”</a> casts a prophetic word, with Isaiah and John the Baptist, over our techno-futuristic fog—the album’s primary aim is to rediscover what Jesus taught and, more fundamentally, <em>who</em> Jesus is. “A couple of years ago I felt I needed to be reacquainted with Jesus,” he writes in a note accompanying the album. “And so I began cyclically reading through the Gospels, in different translations. The repetition became prayerful and then generative: little song fragments started coming. . . . My hope for you is that the songs would feel like an encounter with Christ.” </p>\n\n\n\n<p>This is precisely what the album feels like. But Guerra doesn’t just set passages of Scripture to song; he creatively weaves their phrases together, finding his way along the fundamental trajectories of the Gospel truth, all of them still so very counterintuitive and, let’s face it, difficult: forgiveness, humility, self-sacrifice, poverty. “The Christian ideal has not been tried and found wanting,” Chesterton famously quipped. “It has been found difficult; and left untried.” Guerra also frames this Christian ideal in a contemporary and, at times, even personal register, wrestling with issues like technology (“The phone in my pocket was sold like a gain to me”), immigration (“I was born the only child of child immigrants”), and even financial security (“I want a nest egg for a rainy day / Stocks and bonds and real estate”).&nbsp;</p>\n\n\n\n<p>But at the heart of it all is always “the Lord of Crucifixion”—his words, his example, his invitation. In sharp contrast to the declarations of many a public figure donning the mantle of Christianity, Guerra’s message would be instantly recognizable to St. Paul and St. Francis of Assisi, to the Church and Desert Fathers. These songs are Christian songs.&nbsp;&nbsp;</p>\n\n\n\n<p><em>Jesus</em> is one of those rare albums where not a single track is a skippable throwaway—not even the sole instrumental at the midway point, <a href=\"https://youtu.be/zvcs7W0iWiE\" rel=\"noreferrer noopener\" target=\"_blank\">“The Death of Lazarus.”</a> It opens with a gorgeous meditation on the prologue of John and, as Dante envisioned, “the love that moves the sun and the other stars” (<a href=\"https://youtu.be/c4DasJM5ECc\" rel=\"noreferrer noopener\" target=\"_blank\">“In the Beginning Was Love”</a>), and closes with the title track, whose verses search through poetic signs but whose chorus simply intones the holy name (<a href=\"https://youtu.be/l6-JsoF6TPs\" rel=\"noreferrer noopener\" target=\"_blank\">“Jesus”</a>). In between are unforgettable meditations on smallness (<a href=\"https://youtu.be/Ty_QuO97WCw\" rel=\"noreferrer noopener\" target=\"_blank\">“Who Is Greatest?”</a>), ascesis (<a href=\"https://youtu.be/OGc3pE2FMP8\" rel=\"noreferrer noopener\" target=\"_blank\">“Take Up Your Cross”</a>), anxiety (<a href=\"https://youtu.be/7sbnkrCnU8I\" rel=\"noreferrer noopener\" target=\"_blank\">“I See the Birds”</a>), trust (<a href=\"https://youtu.be/m15j0zPcGI4\" rel=\"noreferrer noopener\" target=\"_blank\">“The Lord Is My Shepherd”</a>), wealth (<a href=\"https://youtu.be/CrGsj3z3QAQ\" rel=\"noreferrer noopener\" target=\"_blank\">“Where Your Treasure Is”</a>), repentance (<a href=\"https://youtu.be/8gcERMeg6jM\" rel=\"noreferrer noopener\" target=\"_blank\">“The Prayer God Always Answers”</a>), suffering (<a href=\"https://youtu.be/4LqutiAFKXI\" rel=\"noreferrer noopener\" target=\"_blank\">“Gethsemane”</a>) and—that deepest heart of Christ’s great Sermon, and the true test of Christian discipleship—<a href=\"https://youtu.be/VxlCkLdK9cc\" rel=\"noreferrer noopener\" target=\"_blank\">the love of enemies</a>.</p>\n\n\n\n                    \n<section class=\"in-article-featured in-article-featured in-article-featured-block_e13bc8ce8f0fd0a6927724300298508d in-article-featured-block_e13bc8ce8f0fd0a6927724300298508d the-story-of-all-stories\" id=\"in-article-featured-block_e13bc8ce8f0fd0a6927724300298508d\">\n\n    \n    <div class=\"in-article-featured-content ad-on-right\">\n\n                    \n            <a href=\"https://book.wordonfire.org/the-story-of-all-stories\">\n                <div class=\"in-article-featured-image\">\n                    <img alt=\"Story of All Stories Children&#039;s Bible\" class=\"attachment-thumbnail size-thumbnail\" height=\"180\" src=\"https://woforgmedia.wordonfire.org/wp-content/uploads/2025/10/10095738/SOAS-3-144x180.jpg\" width=\"144\" />                </div>\n            </a>\n        \n        <div class=\"in-article-featured-other-content with-image\">\n                            \n                                            <div class=\"featured-title sp-pb-xs-e\">\n                            The Story of All Stories                        </div>\n                    \n                    \n                    \n                    \n                    \n                \n                    \n                    \n                                            <a class=\"featured-cta-button cta-button the-story-of-all-stories \" href=\"https://book.wordonfire.org/the-story-of-all-stories\" id=\"the-story-of-all-stories\">\n                            Get Your Story Bible                        </a>\n                    \n                    \n                    \n                                    </div>\n    </div>\n</section>\n            \n\n\n\n<p>In <a href=\"https://youtu.be/N26I-De7Vf0\" rel=\"noreferrer noopener\" target=\"_blank\">an interview with Russell Moore for <em>Christianity Today</em></a>, Moore asks Guerra which of the Beatitudes—the eight “Blesseds” that begin the Sermon on the Mount and, in many ways, summarize the great summary—is most countercultural in America today. After a long pause, Guerra answers: “Blessed are the meek” and “Blessed are the pure.” It’s a very good answer—one that cuts against the idols of both right and left. </p>\n\n\n\n<p>But at the end of the day, isn’t every single one of them overwhelmingly countercultural? Is poverty of spirit the engine of social media? Are mourning and mercy the subjects of bingeworthy TV? Is peace a key theme of our politics? The hunger and thirst for righteousness the great passion of our thought leaders? Does the reviling of those bearing the name of “Jesus” into the public square inspire in us more than a scoff or shrug? Is the persecution of Christians in faraway lands even on our radar at all?&nbsp;</p>\n\n\n\n<p>Of course, if the reports and studies are any indication, the tides of culture may be changing. Gen Z—raised on the empty promises of secularism and the disorientation of the digital age—is more and more <a href=\"https://www.wordonfire.org/articles/its-true-young-people-are-seeking-the-faith/\">turning to Christ and the Church</a> for answers. Will they find refuge in the wounded side of Christ, living by every word that comes from the mouth of God? Or will they fall for a counterfeit, one of the many antichrists whose spirit—even if it means keeping a thin carapace of “Christianity”—is simply to do away with Christ? In short: Will they become citizens of the city of God or remain stuck in the city of Man?  </p>\n\n\n\n<p>A return to Jesus’s manifesto is in order—and <em>Jesus</em> will help.&nbsp;</p>\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.wordonfire.org/articles/jon-guerras-jesus-takes-us-back-to-the-manifesto-the-sermon-on-the-mount/\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-teaching.jpg",
-      "smallThumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-teaching.jpg",
-      "largeThumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-teaching.jpg",
-      "commentsEnabled": false,
-      "categories": [
-        "Catholic Teaching"
-      ],
-      "images": [
-        {
-          "url": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-teaching.jpg",
-          "id": "img-f517944f9e9e"
         }
       ]
     },
@@ -577,50 +577,50 @@
       ]
     },
     {
-      "id": "6cb15ebe2e00",
+      "id": "695cbb9ac7e8",
       "type": "article",
       "subtype": "custom",
-      "title": "✝ Punch or Die! #history #biblestudy #shorts #bible #christianshorts #christianity   #storytime #fyp",
-      "url": "https://www.youtube.com/shorts/w0iGdgj36mg",
-      "date": "2026-03-09T01:45:37.002407+00:00",
+      "title": "✝ The Hidden Message in His Last Words #mystery #ancient  #biblestudy #bible #christianshorts #shorts",
+      "url": "https://www.youtube.com/shorts/FoZHBk905h8",
+      "date": "2026-03-09T07:47:55.166989+00:00",
       "author": "Truth Is Calling",
-      "summary": "Watch this YouTube Short from Truth Is Calling: Punch or Die! #history #biblestudy #shorts #bible #christianshorts #christianity   #storytime #fyp",
-      "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | YouTube Short</span>\n                </div>\n                <p><strong>Punch or Die! #history #biblestudy #shorts #bible #christianshorts #christianity   #storytime #fyp</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"560\" \n                    src=\"https://www.youtube.com/embed/w0iGdgj36mg\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\"><a href=\"https://www.youtube.com/shorts/w0iGdgj36mg\" style=\"color: #c9a84c; font-weight: bold;\">Watch on YouTube →</a></p>\n            </div>\n            ",
-      "thumbnail": "https://img.youtube.com/vi/w0iGdgj36mg/maxresdefault.jpg",
-      "smallThumbnail": "https://img.youtube.com/vi/w0iGdgj36mg/maxresdefault.jpg",
-      "largeThumbnail": "https://img.youtube.com/vi/w0iGdgj36mg/maxresdefault.jpg",
+      "summary": "Watch this YouTube Short from Truth Is Calling: The Hidden Message in His Last Words #mystery #ancient  #biblestudy #bible #christianshorts #shorts",
+      "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | YouTube Short</span>\n                </div>\n                <p><strong>The Hidden Message in His Last Words #mystery #ancient  #biblestudy #bible #christianshorts #shorts</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"560\" \n                    src=\"https://www.youtube.com/embed/FoZHBk905h8\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\"><a href=\"https://www.youtube.com/shorts/FoZHBk905h8\" style=\"color: #c9a84c; font-weight: bold;\">Watch on YouTube →</a></p>\n            </div>\n            ",
+      "thumbnail": "https://img.youtube.com/vi/FoZHBk905h8/maxresdefault.jpg",
+      "smallThumbnail": "https://img.youtube.com/vi/FoZHBk905h8/maxresdefault.jpg",
+      "largeThumbnail": "https://img.youtube.com/vi/FoZHBk905h8/maxresdefault.jpg",
       "commentsEnabled": false,
       "categories": [
         "Your Shorts"
       ],
       "images": [
         {
-          "url": "https://img.youtube.com/vi/w0iGdgj36mg/maxresdefault.jpg",
-          "id": "img-6cb15ebe2e00"
+          "url": "https://img.youtube.com/vi/FoZHBk905h8/maxresdefault.jpg",
+          "id": "img-695cbb9ac7e8"
         }
       ]
     },
     {
-      "id": "1b3cd2104e64",
+      "id": "02b97d6ab043",
       "type": "article",
       "subtype": "custom",
-      "title": "✝ Massacre of the Innocents \\u0026 the Prophecies Behind It #jesuschrist #reels #christianshorts #bible",
-      "url": "https://www.youtube.com/shorts/byoM10H2Vw4",
-      "date": "2026-03-09T01:45:37.002429+00:00",
+      "title": "✝ Why Christ’s Birth Marked the Turning Point of History #jesuschrist #bible #christianshorts #jesus",
+      "url": "https://www.youtube.com/shorts/c7fVYFFRJFI",
+      "date": "2026-03-09T07:47:55.167010+00:00",
       "author": "Truth Is Calling",
-      "summary": "Watch this YouTube Short from Truth Is Calling: Massacre of the Innocents \\u0026 the Prophecies Behind It #jesuschrist #reels #christianshorts #bible",
-      "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | YouTube Short</span>\n                </div>\n                <p><strong>Massacre of the Innocents \\u0026 the Prophecies Behind It #jesuschrist #reels #christianshorts #bible</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"560\" \n                    src=\"https://www.youtube.com/embed/byoM10H2Vw4\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\"><a href=\"https://www.youtube.com/shorts/byoM10H2Vw4\" style=\"color: #c9a84c; font-weight: bold;\">Watch on YouTube →</a></p>\n            </div>\n            ",
-      "thumbnail": "https://img.youtube.com/vi/byoM10H2Vw4/maxresdefault.jpg",
-      "smallThumbnail": "https://img.youtube.com/vi/byoM10H2Vw4/maxresdefault.jpg",
-      "largeThumbnail": "https://img.youtube.com/vi/byoM10H2Vw4/maxresdefault.jpg",
+      "summary": "Watch this YouTube Short from Truth Is Calling: Why Christ’s Birth Marked the Turning Point of History #jesuschrist #bible #christianshorts #jesus",
+      "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | YouTube Short</span>\n                </div>\n                <p><strong>Why Christ’s Birth Marked the Turning Point of History #jesuschrist #bible #christianshorts #jesus</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"560\" \n                    src=\"https://www.youtube.com/embed/c7fVYFFRJFI\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\"><a href=\"https://www.youtube.com/shorts/c7fVYFFRJFI\" style=\"color: #c9a84c; font-weight: bold;\">Watch on YouTube →</a></p>\n            </div>\n            ",
+      "thumbnail": "https://img.youtube.com/vi/c7fVYFFRJFI/maxresdefault.jpg",
+      "smallThumbnail": "https://img.youtube.com/vi/c7fVYFFRJFI/maxresdefault.jpg",
+      "largeThumbnail": "https://img.youtube.com/vi/c7fVYFFRJFI/maxresdefault.jpg",
       "commentsEnabled": false,
       "categories": [
         "Your Shorts"
       ],
       "images": [
         {
-          "url": "https://img.youtube.com/vi/byoM10H2Vw4/maxresdefault.jpg",
-          "id": "img-1b3cd2104e64"
+          "url": "https://img.youtube.com/vi/c7fVYFFRJFI/maxresdefault.jpg",
+          "id": "img-02b97d6ab043"
         }
       ]
     }
