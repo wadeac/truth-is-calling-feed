@@ -145,6 +145,54 @@
       ]
     },
     {
+      "id": "a4204e93c6dc",
+      "type": "article",
+      "subtype": "custom",
+      "title": "IDF Chief of Staff suspends battalion that accosted CNN news team in West Bank",
+      "url": "https://www.jpost.com/israel-news/article-891582",
+      "date": "2026-03-30T03:03:06+00:00",
+      "author": "BY DANYA SAPERSTEIN",
+      "summary": "The battalion’s operational deployment will be suspended until it has undergone “a process aimed at reinforcing its professional and ethical foundations,” the IDF wrote.",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"The IDF detained a group of CNN journalists in the West Bank on Friday, as shown by footage from the US-based news outlet. March 28, 2026. (photo credit: SCREENSHOT/X/@CNN)\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_747,w_921/713665\" title=\"The IDF detained a group of CNN journalists in the West Bank on Friday, as shown by footage from the US-based news outlet. March 28, 2026. (photo credit: SCREENSHOT/X/@CNN)\" /><br />The battalion’s operational deployment will be suspended until it has undergone “a process aimed at reinforcing its professional and ethical foundations,” the IDF wrote. <br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/israel-news/article-891582\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/713665",
+      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/713665",
+      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/713665",
+      "commentsEnabled": false,
+      "categories": [
+        "Israel & Middle East"
+      ],
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/713665",
+          "id": "img-a4204e93c6dc"
+        }
+      ]
+    },
+    {
+      "id": "e298215d990e",
+      "type": "article",
+      "subtype": "custom",
+      "title": "Iran threatens US, Israel-linked universities across Middle East",
+      "url": "https://www.jpost.com/middle-east/article-891581",
+      "date": "2026-03-30T02:43:06+00:00",
+      "author": "BY SETH J. FRANTZMAN",
+      "summary": "According to Rudaw media, the IRGC threatened that all Israeli and US-tied universities in the region have been deemed \"legitimate targets\" in the ongoing war.",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"People stand at the main gate entrance of the American University of Beirut (AUB), in Beirut, Lebanon, January 21, 2021. (photo credit: REUTERS/MOHAMED AZAKIR)\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2830,w_4164/713860\" title=\"People stand at the main gate entrance of the American University of Beirut (AUB), in Beirut, Lebanon, January 21, 2021. (photo credit: REUTERS/MOHAMED AZAKIR)\" /><br />According to Rudaw media, the IRGC threatened that all Israeli and US-tied universities in the region have been deemed \"legitimate targets\" in the ongoing war.<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/middle-east/article-891581\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/713860",
+      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/713860",
+      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/713860",
+      "commentsEnabled": false,
+      "categories": [
+        "Israel & Middle East"
+      ],
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/713860",
+          "id": "img-e298215d990e"
+        }
+      ]
+    },
+    {
       "id": "5b58a1d6b396",
       "type": "article",
       "subtype": "custom",
@@ -169,50 +217,26 @@
       ]
     },
     {
-      "id": "b1fa408f6ac7",
+      "id": "86eb3490386d",
       "type": "article",
       "subtype": "custom",
-      "title": "US considers Iran operation as Pakistan hosts regional peace talks focused on Hormuz",
-      "url": "https://www.jpost.com/middle-east/article-891553",
-      "date": "2026-03-29T20:16:12+00:00",
-      "author": "BY AMICHAI STEIN AND REUTERS",
-      "summary": "In recent days, US officials have indicated in closed-door discussions that “if the Iranians do not pursue a diplomatic path, there will be escalation, including the possibility of a ground operation",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"US President Donald Trump speaks during the National Republican Congressional Committee (NRCC) annual fundraising dinner in Washington, March 25, 2026. (photo credit: REUTERS/KEN CEDENO)\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3408,w_5112/713390\" title=\"US President Donald Trump speaks during the National Republican Congressional Committee (NRCC) annual fundraising dinner in Washington, March 25, 2026. (photo credit: REUTERS/KEN CEDENO)\" /><br />In recent days, US officials have indicated in closed-door discussions that “if the Iranians do not pursue a diplomatic path, there will be escalation, including the possibility of a ground operation<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/middle-east/article-891553\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/713390",
-      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/713390",
-      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/713390",
+      "title": "Keep Going by Faith",
+      "url": "https://odb.org/2026/03/30/",
+      "date": "2026-03-30T00:00:00+00:00",
+      "author": "Patricia Raybon",
+      "summary": "To become a lawyer in California, Maxcy Filer had to pass the state&rsquo;s grueling, three-day bar exam. So he took it not once, not twice, but forty-eight times before passing the tough test. His goal? To advocate for the underprivileged in Compton, his beloved city. Between his first and last att",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Devotional | Our Daily Bread</span>\n                </div>\n                <p>To become a lawyer in California, Maxcy Filer had to pass the state&rsquo;s grueling, three-day bar exam. So he took it not once, not twice, but forty-eight times before passing the tough test. His goal? To advocate for the underprivileged in Compton, his beloved city. Between his first and last attempts at passing the exam&mdash;across twenty-five years&mdash;Filer and his wife raised seven children, all who went to college. When Filer was sworn in, the judge said: &ldquo;Three words about Maxcy Filer: perseverance, perseverance, perseverance.&rdquo;&nbsp;&nbsp;</p>\n<p>His story prompts me to think of people in the Bible who persevered. The writer of Hebrews recognized some: Noah, who &ldquo;by his faith . . . became heir of the righteousness that is in keeping with faith&rdquo; (11:7). Or Abraham, Isaac, Jacob (vv. 8-21), Moses (vv. 23-28), and others. Such examples inspire us.</p>\n<p>The writer then exhorts believers in Christ: &ldquo;Since we are surrounded by such a great cloud of witnesses, let us throw off everything that hinders and the sin that so easily entangles&rdquo; (12:1). We then read, &ldquo;Let us run with perseverance the race marked out for us&rdquo; (v. 1). How will we do this? By &ldquo;fixing our eyes on Jesus, the pioneer and perfecter of faith&rdquo; (v. 2). As we consider Christ&rsquo;s sacrifice for us, &ldquo;[we] will not grow weary and lose heart&rdquo; (v. 3.)</p>\n<p>Challenges to our faith give us opportunity to endure in His name. In His power, we persevere.</p>\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://odb.org/2026/03/30/\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
+      "smallThumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
+      "largeThumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
       "commentsEnabled": false,
       "categories": [
-        "Israel & Middle East"
+        "Devotional"
       ],
       "images": [
         {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/713390",
-          "id": "img-b1fa408f6ac7"
-        }
-      ]
-    },
-    {
-      "id": "e0815b213ded",
-      "type": "article",
-      "subtype": "custom",
-      "title": "Latin Patriarch of Jerusalem prevented from entering Church of Holy Sepulchre by Israel Police",
-      "url": "https://www.jpost.com/christianworld/article-891522",
-      "date": "2026-03-29T16:00:23+00:00",
-      "author": "BY TZVI JASPER AND ASHER SMITH",
-      "summary": "Israel's Foreign Ministry and the Prime Minister's Office announced that the police would be working on a security plan to enable the church leaders to worship at the holy site in upcoming days.",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"LATIN PATRIARCH of Jerusalem, Cardinal Pierbattista Pizzaballa, shakes hands with a person, as he passes through an Israeli checkpoint to attend Christmas celebrations in Bethlehem, in the West Bank, on Christmas Eve, December 24, 2025. (photo credit: REUTERS/AMMAR AWAD)\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4000,w_6000/713772\" title=\"LATIN PATRIARCH of Jerusalem, Cardinal Pierbattista Pizzaballa, shakes hands with a person, as he passes through an Israeli checkpoint to attend Christmas celebrations in Bethlehem, in the West Bank, on Christmas Eve, December 24, 2025. (photo credit: REUTERS/AMMAR AWAD)\" /><br />Israel's Foreign Ministry and the Prime Minister's Office announced that the police would be working on a security plan to enable the church leaders to worship at the holy site in upcoming days.<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/christianworld/article-891522\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/713772",
-      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/713772",
-      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/713772",
-      "commentsEnabled": false,
-      "categories": [
-        "Israel & Middle East"
-      ],
-      "images": [
-        {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/713772",
-          "id": "img-e0815b213ded"
+          "url": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
+          "id": "img-86eb3490386d"
         }
       ]
     },
@@ -237,30 +261,6 @@
         {
           "url": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
           "id": "img-f5c1062ecb34"
-        }
-      ]
-    },
-    {
-      "id": "a6e876a55d95",
-      "type": "article",
-      "subtype": "custom",
-      "title": "Praying God’s Promises",
-      "url": "https://odb.org/2026/03/28/",
-      "date": "2026-03-28T00:00:00+00:00",
-      "author": "Matt Lucas",
-      "summary": "&ldquo;No, you can&rsquo;t go to the lake,&rdquo; I said to my daughter with my head tucked under the sink as I fixed a broken pipe. &ldquo;Dad, you promised that after I had finished my chores, I could go,&rdquo; she reminded me. I&rsquo;d forgotten what I had said because I was preoccupied. My pro",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Devotional | Our Daily Bread</span>\n                </div>\n                <p>&ldquo;No, you can&rsquo;t go to the lake,&rdquo; I said to my daughter with my head tucked under the sink as I fixed a broken pipe. &ldquo;Dad, you promised that after I had finished my chores, I could go,&rdquo; she reminded me. I&rsquo;d forgotten what I had said because I was preoccupied. My problem blinded me to my promise.&nbsp;</p>\n<p>As my daughter did with me, the psalmist reminded God of His promises.&nbsp;&ldquo;Remember your word to your servant,&rdquo; he wrote, &ldquo;for you have given me hope&rdquo; (119:49). Thankfully, we don&rsquo;t have a heavenly Father who&rsquo;s distracted and forgetful. We can come to Him not only with our hurts, problems, and disappointments but also in confidence knowing He&rsquo;s a good Father: &ldquo;My comfort in my suffering is this: Your promise preserves my life&rdquo; (v. 50).&nbsp;&nbsp;</p>\n<p>God invites us to meditate on the Scriptures so we can remind Him of His promises&mdash;not because He forgets but because He desires that we know Him well. That&rsquo;s why the psalmist says, &ldquo;I remember, Lord, your ancient laws, and I find comfort in them. . . . Your decrees are the theme of my song&rdquo; (vv. 52, 54).</p>\n<p>Because of my distractions, my daughter needed to remind me of my promise. When she did, I gladly let her go to the lake. We can be thankful that our heavenly Father is never preoccupied or too busy. He loves to hear us pray His words back to Him.&nbsp;</p>\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://odb.org/2026/03/28/\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
-      "smallThumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
-      "largeThumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
-      "commentsEnabled": false,
-      "categories": [
-        "Devotional"
-      ],
-      "images": [
-        {
-          "url": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
-          "id": "img-a6e876a55d95"
         }
       ]
     },
@@ -577,50 +577,50 @@
       ]
     },
     {
-      "id": "36c60f4b79e4",
+      "id": "ad409fb21722",
       "type": "article",
       "subtype": "custom",
-      "title": "✝ Satanic Trends the Church Is Secretly Accepting",
-      "url": "https://www.youtube.com/shorts/jTI27IPaIOg",
-      "date": "2026-03-29T21:27:32.486331+00:00",
+      "title": "✝ A Forgotten Pattern in the Life of Christ #jesus #jesuschrist #bible #christian #christmas #history",
+      "url": "https://www.youtube.com/shorts/zvX2b8MHzx0",
+      "date": "2026-03-30T02:00:27.542734+00:00",
       "author": "Truth Is Calling",
-      "summary": "Watch this YouTube Short from Truth Is Calling: Satanic Trends the Church Is Secretly Accepting",
-      "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | YouTube Short</span>\n                </div>\n                <p><strong>Satanic Trends the Church Is Secretly Accepting</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"560\" \n                    src=\"https://www.youtube.com/embed/jTI27IPaIOg\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\"><a href=\"https://www.youtube.com/shorts/jTI27IPaIOg\" style=\"color: #c9a84c; font-weight: bold;\">Watch on YouTube →</a></p>\n            </div>\n            ",
-      "thumbnail": "https://img.youtube.com/vi/jTI27IPaIOg/maxresdefault.jpg",
-      "smallThumbnail": "https://img.youtube.com/vi/jTI27IPaIOg/maxresdefault.jpg",
-      "largeThumbnail": "https://img.youtube.com/vi/jTI27IPaIOg/maxresdefault.jpg",
+      "summary": "Watch this YouTube Short from Truth Is Calling: A Forgotten Pattern in the Life of Christ #jesus #jesuschrist #bible #christian #christmas #history",
+      "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | YouTube Short</span>\n                </div>\n                <p><strong>A Forgotten Pattern in the Life of Christ #jesus #jesuschrist #bible #christian #christmas #history</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"560\" \n                    src=\"https://www.youtube.com/embed/zvX2b8MHzx0\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\"><a href=\"https://www.youtube.com/shorts/zvX2b8MHzx0\" style=\"color: #c9a84c; font-weight: bold;\">Watch on YouTube →</a></p>\n            </div>\n            ",
+      "thumbnail": "https://img.youtube.com/vi/zvX2b8MHzx0/maxresdefault.jpg",
+      "smallThumbnail": "https://img.youtube.com/vi/zvX2b8MHzx0/maxresdefault.jpg",
+      "largeThumbnail": "https://img.youtube.com/vi/zvX2b8MHzx0/maxresdefault.jpg",
       "commentsEnabled": false,
       "categories": [
         "Your Shorts"
       ],
       "images": [
         {
-          "url": "https://img.youtube.com/vi/jTI27IPaIOg/maxresdefault.jpg",
-          "id": "img-36c60f4b79e4"
+          "url": "https://img.youtube.com/vi/zvX2b8MHzx0/maxresdefault.jpg",
+          "id": "img-ad409fb21722"
         }
       ]
     },
     {
-      "id": "a7cecf99971d",
+      "id": "91a8ad24abcb",
       "type": "article",
       "subtype": "custom",
-      "title": "✝ The Man Who Sought Jesus at Night… and What Happened Next",
-      "url": "https://www.youtube.com/shorts/JqjDa4hBeBM",
-      "date": "2026-03-29T21:27:32.486354+00:00",
+      "title": "✝ What Stirred the Lord’s Wrath? 6 Warnings Every Christian Must Hear #history #faith #jesuschrist",
+      "url": "https://www.youtube.com/shorts/3A4GxeTYcps",
+      "date": "2026-03-30T02:00:27.542873+00:00",
       "author": "Truth Is Calling",
-      "summary": "Watch this YouTube Short from Truth Is Calling: The Man Who Sought Jesus at Night… and What Happened Next",
-      "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | YouTube Short</span>\n                </div>\n                <p><strong>The Man Who Sought Jesus at Night… and What Happened Next</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"560\" \n                    src=\"https://www.youtube.com/embed/JqjDa4hBeBM\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\"><a href=\"https://www.youtube.com/shorts/JqjDa4hBeBM\" style=\"color: #c9a84c; font-weight: bold;\">Watch on YouTube →</a></p>\n            </div>\n            ",
-      "thumbnail": "https://img.youtube.com/vi/JqjDa4hBeBM/maxresdefault.jpg",
-      "smallThumbnail": "https://img.youtube.com/vi/JqjDa4hBeBM/maxresdefault.jpg",
-      "largeThumbnail": "https://img.youtube.com/vi/JqjDa4hBeBM/maxresdefault.jpg",
+      "summary": "Watch this YouTube Short from Truth Is Calling: What Stirred the Lord’s Wrath? 6 Warnings Every Christian Must Hear #history #faith #jesuschrist",
+      "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | YouTube Short</span>\n                </div>\n                <p><strong>What Stirred the Lord’s Wrath? 6 Warnings Every Christian Must Hear #history #faith #jesuschrist</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"560\" \n                    src=\"https://www.youtube.com/embed/3A4GxeTYcps\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\"><a href=\"https://www.youtube.com/shorts/3A4GxeTYcps\" style=\"color: #c9a84c; font-weight: bold;\">Watch on YouTube →</a></p>\n            </div>\n            ",
+      "thumbnail": "https://img.youtube.com/vi/3A4GxeTYcps/maxresdefault.jpg",
+      "smallThumbnail": "https://img.youtube.com/vi/3A4GxeTYcps/maxresdefault.jpg",
+      "largeThumbnail": "https://img.youtube.com/vi/3A4GxeTYcps/maxresdefault.jpg",
       "commentsEnabled": false,
       "categories": [
         "Your Shorts"
       ],
       "images": [
         {
-          "url": "https://img.youtube.com/vi/JqjDa4hBeBM/maxresdefault.jpg",
-          "id": "img-a7cecf99971d"
+          "url": "https://img.youtube.com/vi/3A4GxeTYcps/maxresdefault.jpg",
+          "id": "img-91a8ad24abcb"
         }
       ]
     }
