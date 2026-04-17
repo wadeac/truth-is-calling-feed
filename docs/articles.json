@@ -145,54 +145,6 @@
       ]
     },
     {
-      "id": "ac0f28e7ce75",
-      "type": "article",
-      "subtype": "custom",
-      "title": "US intends to lead Hezbollah disarmament, senior Israeli official tells 'Post' - exclusive",
-      "url": "https://www.jpost.com/israel-news/article-893321",
-      "date": "2026-04-16T23:02:18+00:00",
-      "author": "BY AMICHAI STEIN",
-      "summary": "The official added that the current ceasefire terms are significantly better than those in November 2024, describing the situation as “much improved.\"",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"IDF soldiers operating in southern Lebanon, April 10, 2026. (photo credit: IDF SPOKESPERSON UNIT)\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_852,w_1280/715449\" title=\"IDF soldiers operating in southern Lebanon, April 10, 2026. (photo credit: IDF SPOKESPERSON UNIT)\" /><br />The official added that the current ceasefire terms are significantly better than those in November 2024, describing the situation as “much improved.\"<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/israel-news/article-893321\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/715449",
-      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/715449",
-      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/715449",
-      "commentsEnabled": false,
-      "categories": [
-        "Israel & Middle East"
-      ],
-      "images": [
-        {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/715449",
-          "id": "img-ac0f28e7ce75"
-        }
-      ]
-    },
-    {
-      "id": "6cdd2862563f",
-      "type": "article",
-      "subtype": "custom",
-      "title": "Israel, Lebanon agree to ten-day ceasefire, Netanyahu confirms",
-      "url": "https://www.jpost.com/middle-east/article-893291",
-      "date": "2026-04-16T18:46:44+00:00",
-      "author": "BY GOLDIE KATZ AND AMICHAI STEIN",
-      "summary": "IDF to maintain positions in southern Lebanon during truce, Israeli official tells 'Post' • Trump invites Netanyahu, Aoun for historic White House talks after separate phone calls",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"An armoured Israeli military vehicle operates inside Israel, near the Israel-Lebanon border, April 15, 2026. (photo credit: REUTERS/FLORION GOGA)\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3667,w_5500/716584\" title=\"An armoured Israeli military vehicle operates inside Israel, near the Israel-Lebanon border, April 15, 2026. (photo credit: REUTERS/FLORION GOGA)\" /><br />IDF to maintain positions in southern Lebanon during truce, Israeli official tells 'Post' • Trump invites Netanyahu, Aoun for historic White House talks after separate phone calls<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/middle-east/article-893291\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/716584",
-      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/716584",
-      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/716584",
-      "commentsEnabled": false,
-      "categories": [
-        "Israel & Middle East"
-      ],
-      "images": [
-        {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/716584",
-          "id": "img-6cdd2862563f"
-        }
-      ]
-    },
-    {
       "id": "c35a65ee8162",
       "type": "article",
       "subtype": "custom",
@@ -217,6 +169,78 @@
       ]
     },
     {
+      "id": "ac0f28e7ce75",
+      "type": "article",
+      "subtype": "custom",
+      "title": "US intends to lead Hezbollah disarmament, senior Israeli official tells 'Post' - exclusive",
+      "url": "https://www.jpost.com/israel-news/article-893321",
+      "date": "2026-04-16T23:02:18+00:00",
+      "author": "BY AMICHAI STEIN",
+      "summary": "The official added that the current ceasefire terms are significantly better than those in November 2024, describing the situation as “much improved.\"",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"IDF soldiers operating in southern Lebanon, April 10, 2026. (photo credit: IDF SPOKESPERSON UNIT)\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_852,w_1280/715449\" title=\"IDF soldiers operating in southern Lebanon, April 10, 2026. (photo credit: IDF SPOKESPERSON UNIT)\" /><br />The official added that the current ceasefire terms are significantly better than those in November 2024, describing the situation as “much improved.\"<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/israel-news/article-893321\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/715449",
+      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/715449",
+      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/715449",
+      "commentsEnabled": false,
+      "categories": [
+        "Israel & Middle East"
+      ],
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/715449",
+          "id": "img-ac0f28e7ce75"
+        }
+      ]
+    },
+    {
+      "id": "d32a2cdc4d85",
+      "type": "article",
+      "subtype": "custom",
+      "title": "US to delay weapons deliveries to some European countries due to Iran war, sources say",
+      "url": "https://www.jpost.com/international/article-893325",
+      "date": "2026-04-17T02:14:06+00:00",
+      "author": "BY REUTERS",
+      "summary": "The sources, who spoke on condition of anonymity as the communications were not public, said several European countries will be affected, including in the Baltic region and in Scandinavia.",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"Members of a ground crew work to load a cruise missile into a US Air Force Boeing B-52 Stratofortress at RAF Fairford airbase, used by United States Air Force (USAF) personnel, amid the US–Israeli conflict with Iran, in Fairford, Gloucestershire, Britain, March 14, 2026. (photo credit: REUTERS/Jack Taylor)\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2585,w_3877/714658\" title=\"Members of a ground crew work to load a cruise missile into a US Air Force Boeing B-52 Stratofortress at RAF Fairford airbase, used by United States Air Force (USAF) personnel, amid the US–Israeli conflict with Iran, in Fairford, Gloucestershire, Britain, March 14, 2026. (photo credit: REUTERS/Jack Taylor)\" /><br />The sources, who spoke on condition of anonymity as the communications were not public, said several European countries will be affected, including in the Baltic region and in Scandinavia.<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/international/article-893325\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/714658",
+      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/714658",
+      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/714658",
+      "commentsEnabled": false,
+      "categories": [
+        "Israel & Middle East"
+      ],
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/714658",
+          "id": "img-d32a2cdc4d85"
+        }
+      ]
+    },
+    {
+      "id": "4b495831a9c7",
+      "type": "article",
+      "subtype": "custom",
+      "title": "Strength to Endure",
+      "url": "https://odb.org/2026/04/17/",
+      "date": "2026-04-17T00:00:00+00:00",
+      "author": "Arthur Jackson",
+      "summary": "Mark&mdash;a marathoner and a dedicated pastor who served two churches over the span of thirty-five years&mdash;recently retired. One gift presented to him was a pair of new running shoes. I ran with Mark once over twenty years ago, but throughout his life, he&rsquo;s run the 26.2-mile race in numer",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Devotional | Our Daily Bread</span>\n                </div>\n                <p>Mark&mdash;a marathoner and a dedicated pastor who served two churches over the span of thirty-five years&mdash;recently retired. One gift presented to him was a pair of new running shoes. I ran with Mark once over twenty years ago, but throughout his life, he&rsquo;s run the 26.2-mile race in numerous cities across the country. At his retirement celebration, people from the community and the churches he served also expressed their appreciation for Mark&rsquo;s faithfulness. Because of God&rsquo;s power and grace, Mark finished well.</p>\n<p>Life&rsquo;s more like a marathon than a sprint. At times we experience fatigue and we feel like giving up. Yet God&rsquo;s grace and strength are unending for those who trust Him. As the imprisoned apostle Paul neared the finish line of life (2 Timothy 4:6), he encouraged his prot&eacute;g&eacute; Timothy, &ldquo;I have fought the good fight,&nbsp;I have finished the race,&nbsp;I have kept the faith&rdquo; (v. 7). Life&rsquo;s paths take us to different places. But regardless of where we are on life&rsquo;s journey, it&rsquo;s always good to remember that faith-filled endurance is essential and rewarding (v. 8); that God is the source of our strength (v. 17); and that, by His grace, he &ldquo;will bring [us] safely to his heavenly kingdom&rdquo; (v. 18).</p>\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://odb.org/2026/04/17/\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
+      "smallThumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
+      "largeThumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
+      "commentsEnabled": false,
+      "categories": [
+        "Devotional"
+      ],
+      "images": [
+        {
+          "url": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
+          "id": "img-4b495831a9c7"
+        }
+      ]
+    },
+    {
       "id": "702678c66206",
       "type": "article",
       "subtype": "custom",
@@ -237,30 +261,6 @@
         {
           "url": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
           "id": "img-702678c66206"
-        }
-      ]
-    },
-    {
-      "id": "f66ab28450a3",
-      "type": "article",
-      "subtype": "custom",
-      "title": "Agents of a Higher King",
-      "url": "https://odb.org/2026/04/15/",
-      "date": "2026-04-15T00:00:00+00:00",
-      "author": "Mike Wittmer",
-      "summary": "Anna and her husband lived in Argentina with their two children. They kept to themselves and spoke only fluent Spanish. But they weren&rsquo;t Argentines. They were sleeper agents, spies who&rsquo;d been born in another country. They&rsquo;d mastered blending into their host culture, down to how to",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Devotional | Our Daily Bread</span>\n                </div>\n                <p>Anna and her husband lived in Argentina with their two children. They kept to themselves and spoke only fluent Spanish. But they weren&rsquo;t Argentines. They were sleeper agents, spies who&rsquo;d been born in another country. They&rsquo;d mastered blending into their host culture, down to how to hold their forks. But a change in their civil registry aroused suspicion, and eventually the couple was caught. As the family was being flown to their true homeland, Anna looked at her eleven-year-old daughter. How would she break the news that they weren&rsquo;t who her daughter thought?</p>\n<p>Believers in Jesus have a citizenship even more vital. We&rsquo;re agents of a higher king, for &ldquo;our citizenship is in heaven&rdquo; (Philippians 3:20). The citizens of Philippi were proud of their Roman citizenship; they loyally served Rome as they lived in Philippi. Paul said their loyalty stretched even further. Their highest allegiance was to Jesus, who ruled Rome and Philippi from heaven.</p>\n<p>Unlike Anna and her husband, we&rsquo;re not working secretly against our host country. We&rsquo;re openly working for its good. Our loyalty to Jesus prompts us to serve our neighbors and pray for &ldquo;all those in authority, that we may live . . . in all godliness&rdquo; (1 Timothy 2:2). With God&rsquo;s help we will &ldquo;seek the peace and prosperity&rdquo; of our city. We will &ldquo;pray to the <span>Lord</span> for it, because if it prospers,&rdquo; we &ldquo;too will prosper&rdquo; (Jeremiah 29:7).</p>\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://odb.org/2026/04/15/\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
-      "smallThumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
-      "largeThumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
-      "commentsEnabled": false,
-      "categories": [
-        "Devotional"
-      ],
-      "images": [
-        {
-          "url": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
-          "id": "img-f66ab28450a3"
         }
       ]
     },
@@ -361,26 +361,26 @@
       ]
     },
     {
-      "id": "426ae37ffa48",
+      "id": "d00a6d61dc27",
       "type": "article",
       "subtype": "custom",
-      "title": "Franklin Graham Says Trump Would Not ‘Knowingly Depict Himself as Jesus Christ’",
-      "url": "https://churchleaders.com/news/2216296-franklin-graham-donald-trump-depict-jesus-christ.html",
-      "date": "2026-04-16T17:40:54+00:00",
+      "title": "Lee Strobel Hopes Church Leaders Use ‘The Story of Everything’ To Reach the ‘Spiritually Curious’",
+      "url": "https://churchleaders.com/news/2216304-lee-strobel-church-leaders-the-story-of-everything-spiritually-curious.html",
+      "date": "2026-04-16T22:41:29+00:00",
       "author": "Jessica Mouser",
-      "summary": "Franklin Graham said he does not believe President Donald Trump “would knowingly depict himself as Jesus Christ.\"",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Leadership | Church Leaders</span>\n                </div>\n                <p><img alt=\"Franklin Graham\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"428\" src=\"https://cdn.churchleaders.com/wp-content/uploads/2026/04/franklin-graham-donald-trump-jesus.jpg\" width=\"642\" /></p>Franklin Graham said he does not believe President Donald Trump “would knowingly depict himself as Jesus Christ.\"\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://churchleaders.com/news/2216296-franklin-graham-donald-trump-depict-jesus-christ.html\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://cdn.churchleaders.com/wp-content/uploads/2026/04/franklin-graham-donald-trump-jesus.jpg",
-      "smallThumbnail": "https://cdn.churchleaders.com/wp-content/uploads/2026/04/franklin-graham-donald-trump-jesus.jpg",
-      "largeThumbnail": "https://cdn.churchleaders.com/wp-content/uploads/2026/04/franklin-graham-donald-trump-jesus.jpg",
+      "summary": "Lee Strobel explains how church leaders can use \"The Story of Everything\" to reach the spiritually curious and to strengthen believers.",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Leadership | Church Leaders</span>\n                </div>\n                <p><img alt=\"lee strobel\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"428\" src=\"https://cdn.churchleaders.com/wp-content/uploads/2026/04/lee-strobel-the-story-of-everything.jpg\" width=\"642\" /></p>Lee Strobel explains how church leaders can use \"The Story of Everything\" to reach the spiritually curious and to strengthen believers.\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://churchleaders.com/news/2216304-lee-strobel-church-leaders-the-story-of-everything-spiritually-curious.html\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://cdn.churchleaders.com/wp-content/uploads/2026/04/lee-strobel-the-story-of-everything.jpg",
+      "smallThumbnail": "https://cdn.churchleaders.com/wp-content/uploads/2026/04/lee-strobel-the-story-of-everything.jpg",
+      "largeThumbnail": "https://cdn.churchleaders.com/wp-content/uploads/2026/04/lee-strobel-the-story-of-everything.jpg",
       "commentsEnabled": false,
       "categories": [
         "Leadership"
       ],
       "images": [
         {
-          "url": "https://cdn.churchleaders.com/wp-content/uploads/2026/04/franklin-graham-donald-trump-jesus.jpg",
-          "id": "img-426ae37ffa48"
+          "url": "https://cdn.churchleaders.com/wp-content/uploads/2026/04/lee-strobel-the-story-of-everything.jpg",
+          "id": "img-d00a6d61dc27"
         }
       ]
     },
@@ -457,30 +457,6 @@
       ]
     },
     {
-      "id": "51770208030d",
-      "type": "article",
-      "subtype": "custom",
-      "title": "1st Commandment: No Other Gods",
-      "url": "https://www.youtube.com/watch?v=JGI8nNVkZpA",
-      "date": "2026-04-13T16:02:29+00:00",
-      "author": "BibleProject",
-      "summary": "The 10 Commandments are the first terms of God’s covenant with Israel and an invitation for them to be his representatives to all nations. Watch this video and explore the significance of the origin of the 10 Commandments and the meaning of the 1st Commandment.\n\nIn this video, you will learn …\n\nThe",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Video | The Bible Project</span>\n                </div>\n                \n                    <div style=\"text-align:center;\">\n                        <p><strong>1st Commandment: No Other Gods</strong></p>\n                        <p>From The Bible Project</p>\n                        <iframe width=\"100%\" height=\"315\" \n                            src=\"https://www.youtube.com/embed/JGI8nNVkZpA\" \n                            frameborder=\"0\" allowfullscreen></iframe>\n                        <p>The 10 Commandments are the first terms of God’s covenant with Israel and an invitation for them to be his representatives to all nations. Watch this video and explore the significance of the origin of the 10 Commandments and the meaning of the 1st Commandment.\n\nIn this video, you will learn …\n\nThe</p>\n                        <p><a href=\"https://www.youtube.com/watch?v=JGI8nNVkZpA\">Watch on YouTube</a></p>\n                    </div>\n                    \n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.youtube.com/watch?v=JGI8nNVkZpA\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://img.youtube.com/vi/JGI8nNVkZpA/maxresdefault.jpg",
-      "smallThumbnail": "https://img.youtube.com/vi/JGI8nNVkZpA/maxresdefault.jpg",
-      "largeThumbnail": "https://img.youtube.com/vi/JGI8nNVkZpA/maxresdefault.jpg",
-      "commentsEnabled": false,
-      "categories": [
-        "Video"
-      ],
-      "images": [
-        {
-          "url": "https://img.youtube.com/vi/JGI8nNVkZpA/maxresdefault.jpg",
-          "id": "img-51770208030d"
-        }
-      ]
-    },
-    {
       "id": "1e0952f8bec2",
       "type": "article",
       "subtype": "custom",
@@ -490,16 +466,16 @@
       "author": "Bri",
       "summary": "Today on the show, our host, Bri, answers a listener's question: \"what grounds you after a mentally challenging day?\". Bri shares her top self-care strategies and tips to help you wind down after a tough day, drawing from her own experiences and focusing on mindfulness practices, meditation, deep br",
       "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Podcast | Theology in the Raw</span>\n                </div>\n                <p>Today on the show, our host, Bri, answers a listener's question: \"what grounds you after a mentally challenging day?\". Bri shares her top self-care strategies and tips to help you wind down after a tough day, drawing from her own experiences and focusing on mindfulness practices, meditation, deep breathing exercises, and more relaxation techniques for stress relief. We can release the energy that does not serve us and we can feel great and empowered, as we deserve to. Mental wellness and emotional wellbeing are some of the pillars of WellBriing, and we're so excited for you to be inspired by this episode.</p> <p>Extra bonus content: a special guided meditation inspired by this episode is available now, here on the WellBriing Podcast, titled \"Guided Meditation: Relaxing and Letting Go to Feel Empowered\". Visit our podcast feed to find it right next to this episode!</p> <p>Please follow the podcast and connect with us on all social platforms <a href=\"https://instagram.com/wellbriing\" rel=\"noopener\" target=\"_blank\">@wellbriing!</a> Connect with our host, Bri, on Instagram <a href=\"https://instagram.com/bri.healthy\" rel=\"noopener\" target=\"_blank\">@bri.healthy</a>. </p> <p>Have a beautiful, amazing day! Thank you for being here and for being you!</p>\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://5632bb7a-1776-4e60-8649-963b552cb855.libsyn.com/how-to-feel-better-after-a-mentally-challenging-day-tips-techniques-and-emotional-support\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-teaching.jpg",
-      "smallThumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-teaching.jpg",
-      "largeThumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-teaching.jpg",
+      "thumbnail": "http://assets.libsyn.com/content/149430408?height=250&width=250&overlay=true",
+      "smallThumbnail": "http://assets.libsyn.com/content/149430408?height=250&width=250&overlay=true",
+      "largeThumbnail": "http://assets.libsyn.com/content/149430408?height=250&width=250&overlay=true",
       "commentsEnabled": false,
       "categories": [
         "Podcast"
       ],
       "images": [
         {
-          "url": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-teaching.jpg",
+          "url": "http://assets.libsyn.com/content/149430408?height=250&width=250&overlay=true",
           "id": "img-1e0952f8bec2"
         }
       ]
@@ -577,50 +553,50 @@
       ]
     },
     {
-      "id": "d8949b49991b",
+      "id": "35423180218d",
       "type": "article",
       "subtype": "custom",
-      "title": "✝ A Forgotten Pattern in the Life of Christ #jesus #jesuschrist #bible #christian #christmas #history",
-      "url": "https://www.youtube.com/shorts/zvX2b8MHzx0",
-      "date": "2026-04-16T21:38:12.319787+00:00",
+      "title": "✝ The One Word That Reveals Who You Believe Jesus Is",
+      "url": "https://www.youtube.com/shorts/bvceZ0rrmZ4",
+      "date": "2026-04-17T02:04:31.767872+00:00",
       "author": "Truth Is Calling",
-      "summary": "Watch this YouTube Short from Truth Is Calling: A Forgotten Pattern in the Life of Christ #jesus #jesuschrist #bible #christian #christmas #history",
-      "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | YouTube Short</span>\n                </div>\n                <p><strong>A Forgotten Pattern in the Life of Christ #jesus #jesuschrist #bible #christian #christmas #history</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"560\" \n                    src=\"https://www.youtube.com/embed/zvX2b8MHzx0\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\"><a href=\"https://www.youtube.com/shorts/zvX2b8MHzx0\" style=\"color: #c9a84c; font-weight: bold;\">Watch on YouTube →</a></p>\n            </div>\n            ",
-      "thumbnail": "https://img.youtube.com/vi/zvX2b8MHzx0/maxresdefault.jpg",
-      "smallThumbnail": "https://img.youtube.com/vi/zvX2b8MHzx0/maxresdefault.jpg",
-      "largeThumbnail": "https://img.youtube.com/vi/zvX2b8MHzx0/maxresdefault.jpg",
+      "summary": "Watch this YouTube Short from Truth Is Calling: The One Word That Reveals Who You Believe Jesus Is",
+      "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | YouTube Short</span>\n                </div>\n                <p><strong>The One Word That Reveals Who You Believe Jesus Is</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"560\" \n                    src=\"https://www.youtube.com/embed/bvceZ0rrmZ4\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\"><a href=\"https://www.youtube.com/shorts/bvceZ0rrmZ4\" style=\"color: #c9a84c; font-weight: bold;\">Watch on YouTube →</a></p>\n            </div>\n            ",
+      "thumbnail": "https://img.youtube.com/vi/bvceZ0rrmZ4/maxresdefault.jpg",
+      "smallThumbnail": "https://img.youtube.com/vi/bvceZ0rrmZ4/maxresdefault.jpg",
+      "largeThumbnail": "https://img.youtube.com/vi/bvceZ0rrmZ4/maxresdefault.jpg",
       "commentsEnabled": false,
       "categories": [
         "Your Shorts"
       ],
       "images": [
         {
-          "url": "https://img.youtube.com/vi/zvX2b8MHzx0/maxresdefault.jpg",
-          "id": "img-d8949b49991b"
+          "url": "https://img.youtube.com/vi/bvceZ0rrmZ4/maxresdefault.jpg",
+          "id": "img-35423180218d"
         }
       ]
     },
     {
-      "id": "9a2836a508a0",
+      "id": "d189272a78f1",
       "type": "article",
       "subtype": "custom",
-      "title": "✝ The Scarlet Worm Prophecy | Psalm 22, the Cross, and the Hidden Gospel in Creation #history #bible",
-      "url": "https://www.youtube.com/shorts/eNLq1dOIZqs",
-      "date": "2026-04-16T21:38:12.319807+00:00",
+      "title": "✝ Near Christ, BUT Not With Him #facts #history #biblestudy #christianshorts #shorts #viral #tiktok",
+      "url": "https://www.youtube.com/shorts/CvGLf103viQ",
+      "date": "2026-04-17T02:04:31.767893+00:00",
       "author": "Truth Is Calling",
-      "summary": "Watch this YouTube Short from Truth Is Calling: The Scarlet Worm Prophecy | Psalm 22, the Cross, and the Hidden Gospel in Creation #history #bible",
-      "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | YouTube Short</span>\n                </div>\n                <p><strong>The Scarlet Worm Prophecy | Psalm 22, the Cross, and the Hidden Gospel in Creation #history #bible</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"560\" \n                    src=\"https://www.youtube.com/embed/eNLq1dOIZqs\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\"><a href=\"https://www.youtube.com/shorts/eNLq1dOIZqs\" style=\"color: #c9a84c; font-weight: bold;\">Watch on YouTube →</a></p>\n            </div>\n            ",
-      "thumbnail": "https://img.youtube.com/vi/eNLq1dOIZqs/maxresdefault.jpg",
-      "smallThumbnail": "https://img.youtube.com/vi/eNLq1dOIZqs/maxresdefault.jpg",
-      "largeThumbnail": "https://img.youtube.com/vi/eNLq1dOIZqs/maxresdefault.jpg",
+      "summary": "Watch this YouTube Short from Truth Is Calling: Near Christ, BUT Not With Him #facts #history #biblestudy #christianshorts #shorts #viral #tiktok",
+      "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | YouTube Short</span>\n                </div>\n                <p><strong>Near Christ, BUT Not With Him #facts #history #biblestudy #christianshorts #shorts #viral #tiktok</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"560\" \n                    src=\"https://www.youtube.com/embed/CvGLf103viQ\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\"><a href=\"https://www.youtube.com/shorts/CvGLf103viQ\" style=\"color: #c9a84c; font-weight: bold;\">Watch on YouTube →</a></p>\n            </div>\n            ",
+      "thumbnail": "https://img.youtube.com/vi/CvGLf103viQ/maxresdefault.jpg",
+      "smallThumbnail": "https://img.youtube.com/vi/CvGLf103viQ/maxresdefault.jpg",
+      "largeThumbnail": "https://img.youtube.com/vi/CvGLf103viQ/maxresdefault.jpg",
       "commentsEnabled": false,
       "categories": [
         "Your Shorts"
       ],
       "images": [
         {
-          "url": "https://img.youtube.com/vi/eNLq1dOIZqs/maxresdefault.jpg",
-          "id": "img-9a2836a508a0"
+          "url": "https://img.youtube.com/vi/CvGLf103viQ/maxresdefault.jpg",
+          "id": "img-d189272a78f1"
         }
       ]
     }
