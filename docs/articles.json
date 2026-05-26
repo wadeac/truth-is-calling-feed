@@ -145,6 +145,30 @@
       ]
     },
     {
+      "id": "75fb54941fad",
+      "type": "article",
+      "subtype": "custom",
+      "title": "US strikes Iranian boats, missile launch sites in 'self defense', says CENTCOM - Fox News",
+      "url": "https://www.jpost.com/international/article-897292",
+      "date": "2026-05-26T02:30:02+00:00",
+      "author": "BY ARIELLA ROITMAN",
+      "summary": "'US Central Command continues to defend our forces while using restraint during the ongoing ceasefire,' CENTCOM spokesperson Navy Captain Tim Hawkins said.",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"US Navy sailors transfer ordnance on the flight deck of the Nimitz-class aircraft carrier USS Abraham Lincoln in the Arabian Sea, February 27, 2026. (photo credit: U.S. Navy/Handout via REUTERS)\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4000,w_6000/709108\" title=\"US Navy sailors transfer ordnance on the flight deck of the Nimitz-class aircraft carrier USS Abraham Lincoln in the Arabian Sea, February 27, 2026. (photo credit: U.S. Navy/Handout via REUTERS)\" /><br />'US Central Command continues to defend our forces while using restraint during the ongoing ceasefire,' CENTCOM spokesperson Navy Captain Tim Hawkins said.<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/international/article-897292\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/709108",
+      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/709108",
+      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/709108",
+      "commentsEnabled": false,
+      "categories": [
+        "Israel & Middle East"
+      ],
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/709108",
+          "id": "img-75fb54941fad"
+        }
+      ]
+    },
+    {
       "id": "d0f81149b71e",
       "type": "article",
       "subtype": "custom",
@@ -169,50 +193,50 @@
       ]
     },
     {
-      "id": "cf715e818cd1",
+      "id": "0eeb527eafe2",
       "type": "article",
       "subtype": "custom",
-      "title": "Trump demands Saudi Arabia, Qatar, Pakistan join Abraham Accords as part of Iran deal",
-      "url": "https://www.jpost.com/international/article-897249",
-      "date": "2026-05-25T15:38:52+00:00",
-      "author": "BY AARON GLICK",
-      "summary": "\"By copy of this TRUTH, I am asking my Representatives to begin, and successfully complete, the process of signing these Countries into the already Historic Abraham Accords,\" said Trump.",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"US President Donald Trump delivers a speech about the economy at Rockland Community College Fieldhouse in Suffern, New York, on May 22, 2026.  (photo credit: Brendan SMIALOWSKI / AFP via Getty Images)\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/722589\" title=\"US President Donald Trump delivers a speech about the economy at Rockland Community College Fieldhouse in Suffern, New York, on May 22, 2026.  (photo credit: Brendan SMIALOWSKI / AFP via Getty Images)\" /><br />\"By copy of this TRUTH, I am asking my Representatives to begin, and successfully complete, the process of signing these Countries into the already Historic Abraham Accords,\" said Trump.<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/international/article-897249\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/722589",
-      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/722589",
-      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/722589",
+      "title": "IDF strikes Hezbollah infrastructure targets as Home Front Command tightens northern guidelines",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-897290",
+      "date": "2026-05-26T00:52:57+00:00",
+      "author": "BY ARIELLA ROITMAN",
+      "summary": "The IDF began increasing strikes on Hezbollah following Prime Minister Benjamin Netanyahu's instructions to \"hit the gas\" on attacks against the terror group.",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"Israeli soldiers take position during a Hezbollah attack near the Israeli border with Lebanon in northern Israel, May 19, 2026. (photo credit: AYAL MARGOLIN/FLASH90)\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3000,w_4500/722643\" title=\"Israeli soldiers take position during a Hezbollah attack near the Israeli border with Lebanon in northern Israel, May 19, 2026. (photo credit: AYAL MARGOLIN/FLASH90)\" /><br />The IDF began increasing strikes on Hezbollah following Prime Minister Benjamin Netanyahu's instructions to \"hit the gas\" on attacks against the terror group. <br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/israel-news/defense-news/article-897290\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/722643",
+      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/722643",
+      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/722643",
       "commentsEnabled": false,
       "categories": [
         "Israel & Middle East"
       ],
       "images": [
         {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/722589",
-          "id": "img-cf715e818cd1"
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/722643",
+          "id": "img-0eeb527eafe2"
         }
       ]
     },
     {
-      "id": "ebef3cafa64a",
+      "id": "ae66762e134d",
       "type": "article",
       "subtype": "custom",
-      "title": "Trump ally says Saudi Crown Prince MBS told him he could recognize Israel ‘today’",
-      "url": "https://www.jpost.com/middle-east/article-897270",
-      "date": "2026-05-25T18:54:52+00:00",
-      "author": "BY JERUSALEM POST STAFF",
-      "summary": "According to the Prince, his father, King Salman, remained the primary obstacle.",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"US President Donald Trump and Saudi Crown Prince and Prime Minister Mohammed bin Salman look at portraits at the &quot;Presidential Walk of Fame&quot; in the Colonnade at the White House in Washington, DC, November 18, 2025. (photo credit: REUTERS/EVELYN HOCKSTEIN)\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4117,w_6173/707421\" title=\"US President Donald Trump and Saudi Crown Prince and Prime Minister Mohammed bin Salman look at portraits at the &quot;Presidential Walk of Fame&quot; in the Colonnade at the White House in Washington, DC, November 18, 2025. (photo credit: REUTERS/EVELYN HOCKSTEIN)\" /><br />According to the Prince, his father, King Salman, remained the primary obstacle.<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/middle-east/article-897270\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/707421",
-      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/707421",
-      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/707421",
+      "title": "Acting with Integrity",
+      "url": "https://odb.org/2026/05/26/",
+      "date": "2026-05-26T00:00:00+00:00",
+      "author": "Marvin Williams",
+      "summary": "In a moment of distraction, Sarah unknowingly dropped her diamond engagement ring into a homeless man&rsquo;s cup. Billy Ray, the panhandler who was given the ring, had it appraised and considered selling it. But he chose honesty and returned it to Sarah when she came back a few days later. Sarah an",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Devotional | Our Daily Bread</span>\n                </div>\n                <p>In a moment of distraction, Sarah unknowingly dropped her diamond engagement ring into a homeless man&rsquo;s cup. Billy Ray, the panhandler who was given the ring, had it appraised and considered selling it. But he chose honesty and returned it to Sarah when she came back a few days later. Sarah and her husband set up a fund so donations could be made to help Billy Ray, which led to an outpouring of generosity from others. Billy Ray received financial and legal counsel and was eventually able to buy a home. He was also reunited with his long-lost family.</p>\n<p>When we practice integrity, we please God and inspire others. Solomon says God delighted in his integrity: \"The Lord detests lying lips, but He delights in people who are trustworthy&rdquo; (Proverbs 12:22). He uses strong language to describe God&rsquo;s view of dishonesty&mdash;He <em>detests</em> it. When God&rsquo;s people lie or &ldquo;deceit is in [their] hearts&rdquo; (v. 20), it defies Him and goes against His character. In contrast, when His people have &ldquo;truthful lips&rdquo; (v. 19) and deal faithfully, it brings Him joy. So treating others well is more than just telling the truth&mdash;it reflects God&rsquo;s own character. And in a world where deception can seem profitable, our integrity is something He &ldquo;delights in&rdquo; (v. 22).</p>\n<p>Let&rsquo;s commit to act with integrity as God helps us. Even if the world doesn&rsquo;t notice, He&rsquo;s delighted when we walk in His ways.</p>\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://odb.org/2026/05/26/\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
+      "smallThumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
+      "largeThumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
       "commentsEnabled": false,
       "categories": [
-        "Israel & Middle East"
+        "Devotional"
       ],
       "images": [
         {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/707421",
-          "id": "img-ebef3cafa64a"
+          "url": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
+          "id": "img-ae66762e134d"
         }
       ]
     },
@@ -237,30 +261,6 @@
         {
           "url": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
           "id": "img-1ba5c6d3601c"
-        }
-      ]
-    },
-    {
-      "id": "2f3c949b211b",
-      "type": "article",
-      "subtype": "custom",
-      "title": "The Answers God Provides",
-      "url": "https://odb.org/2026/05/24/",
-      "date": "2026-05-24T00:00:00+00:00",
-      "author": "Elisa Morgan",
-      "summary": "&ldquo;What&rsquo;s my birthmother&rsquo;s name?&rdquo; My seven-year-old daughter&rsquo;s sincere question pierced my heart. Ours had been a private adoption where we were provided only the most basic of information about her parents: height, weight, age, color of hair and eyes. How was I to respon",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Devotional | Our Daily Bread</span>\n                </div>\n                <p>&ldquo;What&rsquo;s my birthmother&rsquo;s name?&rdquo; My seven-year-old daughter&rsquo;s sincere question pierced my heart. Ours had been a private adoption where we were provided only the most basic of information about her parents: height, weight, age, color of hair and eyes. How was I to respond? The question felt impossible! I drew in a breath and prayed, &ldquo;God, what do I say?&rdquo; A sentence tumbled out of my mouth, &ldquo;What would you like her name to be?&rdquo; She beamed at me and proclaimed, &ldquo;Madeline!&rdquo; &ldquo;Then, Madeline it is!&rdquo; I declared. In just a few minutes, I believe God had provided an answer when I didn&rsquo;t have one.&nbsp;</p>\n<p>In the years after His death, Jesus&rsquo; followers would encounter great challenges where they needed God&rsquo;s answers in seemingly impossible situations. In John 14, Jesus promised He would not leave them alone but would come to them with help (v. 18). Further, God would provide an ongoing flow of help: &ldquo;The Advocate, the Holy Spirit, whom the Father will send in my name, will teach you all things and will remind you of everything I have said to you&rdquo; (v. 26).</p>\n<p>Sometimes the questions we face seem impossible to answer. We need God&rsquo;s help and answers with our children, our work, our neighbors and our world. When we don&rsquo;t have the answers, He can provide them.</p>\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://odb.org/2026/05/24/\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
-      "smallThumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
-      "largeThumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
-      "commentsEnabled": false,
-      "categories": [
-        "Devotional"
-      ],
-      "images": [
-        {
-          "url": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
-          "id": "img-2f3c949b211b"
         }
       ]
     },
@@ -457,30 +457,6 @@
       ]
     },
     {
-      "id": "7b69dbee845a",
-      "type": "article",
-      "subtype": "custom",
-      "title": "7th Commandment: Do Not Commit Adultery",
-      "url": "https://www.youtube.com/watch?v=Pyk64lwOLpw",
-      "date": "2026-05-25T15:59:55+00:00",
-      "author": "BibleProject",
-      "summary": "Why is honoring and protecting marriage so important that God put “don’t commit adultery” in the 10 Commandments? Watch and explore the wisdom of the 7th Commandment.\n\nIn this video, you will learn . . .\n\n• The meaning of lo’ tin’aph, the Hebrew words for “don’t commit adultery”\n• How we “image” God",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Video | The Bible Project</span>\n                </div>\n                \n                    <div style=\"text-align:center;\">\n                        <p><strong>7th Commandment: Do Not Commit Adultery</strong></p>\n                        <p>From The Bible Project</p>\n                        <iframe width=\"100%\" height=\"315\" \n                            src=\"https://www.youtube.com/embed/Pyk64lwOLpw\" \n                            frameborder=\"0\" allowfullscreen></iframe>\n                        <p>Why is honoring and protecting marriage so important that God put “don’t commit adultery” in the 10 Commandments? Watch and explore the wisdom of the 7th Commandment.\n\nIn this video, you will learn . . .\n\n• The meaning of lo’ tin’aph, the Hebrew words for “don’t commit adultery”\n• How we “image” God</p>\n                        <p><a href=\"https://www.youtube.com/watch?v=Pyk64lwOLpw\">Watch on YouTube</a></p>\n                    </div>\n                    \n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.youtube.com/watch?v=Pyk64lwOLpw\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://img.youtube.com/vi/Pyk64lwOLpw/maxresdefault.jpg",
-      "smallThumbnail": "https://img.youtube.com/vi/Pyk64lwOLpw/maxresdefault.jpg",
-      "largeThumbnail": "https://img.youtube.com/vi/Pyk64lwOLpw/maxresdefault.jpg",
-      "commentsEnabled": false,
-      "categories": [
-        "Video"
-      ],
-      "images": [
-        {
-          "url": "https://img.youtube.com/vi/Pyk64lwOLpw/maxresdefault.jpg",
-          "id": "img-7b69dbee845a"
-        }
-      ]
-    },
-    {
       "id": "1e0952f8bec2",
       "type": "article",
       "subtype": "custom",
@@ -577,50 +553,50 @@
       ]
     },
     {
-      "id": "33bd75f54743",
+      "id": "0d583051ba1e",
       "type": "article",
       "subtype": "custom",
-      "title": "✝ You Can't Outvote God",
-      "url": "https://www.youtube.com/shorts/Jb5zAT0ask0",
-      "date": "2026-05-25T22:04:13.367681+00:00",
+      "title": "✝ Massacre of the Innocents \\u0026 the Prophecies Behind It #jesuschrist #reels #christianshorts #bible",
+      "url": "https://www.youtube.com/shorts/byoM10H2Vw4",
+      "date": "2026-05-26T02:42:01.776319+00:00",
       "author": "Truth Is Calling",
-      "summary": "Watch this YouTube Short from Truth Is Calling: You Can't Outvote God",
-      "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | YouTube Short</span>\n                </div>\n                <p><strong>You Can&#x27;t Outvote God</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"560\" \n                    src=\"https://www.youtube.com/embed/Jb5zAT0ask0\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\"><a href=\"https://www.youtube.com/shorts/Jb5zAT0ask0\" style=\"color: #c9a84c; font-weight: bold;\">Watch on YouTube →</a></p>\n            </div>\n            ",
-      "thumbnail": "https://img.youtube.com/vi/Jb5zAT0ask0/maxresdefault.jpg",
-      "smallThumbnail": "https://img.youtube.com/vi/Jb5zAT0ask0/maxresdefault.jpg",
-      "largeThumbnail": "https://img.youtube.com/vi/Jb5zAT0ask0/maxresdefault.jpg",
+      "summary": "Watch this YouTube Short from Truth Is Calling: Massacre of the Innocents \\u0026 the Prophecies Behind It #jesuschrist #reels #christianshorts #bible",
+      "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | YouTube Short</span>\n                </div>\n                <p><strong>Massacre of the Innocents \\u0026 the Prophecies Behind It #jesuschrist #reels #christianshorts #bible</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"560\" \n                    src=\"https://www.youtube.com/embed/byoM10H2Vw4\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\"><a href=\"https://www.youtube.com/shorts/byoM10H2Vw4\" style=\"color: #c9a84c; font-weight: bold;\">Watch on YouTube →</a></p>\n            </div>\n            ",
+      "thumbnail": "https://img.youtube.com/vi/byoM10H2Vw4/maxresdefault.jpg",
+      "smallThumbnail": "https://img.youtube.com/vi/byoM10H2Vw4/maxresdefault.jpg",
+      "largeThumbnail": "https://img.youtube.com/vi/byoM10H2Vw4/maxresdefault.jpg",
       "commentsEnabled": false,
       "categories": [
         "Your Shorts"
       ],
       "images": [
         {
-          "url": "https://img.youtube.com/vi/Jb5zAT0ask0/maxresdefault.jpg",
-          "id": "img-33bd75f54743"
+          "url": "https://img.youtube.com/vi/byoM10H2Vw4/maxresdefault.jpg",
+          "id": "img-0d583051ba1e"
         }
       ]
     },
     {
-      "id": "8ad40d44025d",
+      "id": "2af41e697964",
       "type": "article",
       "subtype": "custom",
-      "title": "✝ The Feast That Destroyed a Nation",
-      "url": "https://www.youtube.com/shorts/4_hdboJgfp8",
-      "date": "2026-05-25T22:04:13.367699+00:00",
+      "title": "✝ The Hidden Psalm our Lord Sang at the Last Supper | The Hymn Before the Cross...",
+      "url": "https://www.youtube.com/shorts/6n6yNIPObWg",
+      "date": "2026-05-26T02:42:01.776342+00:00",
       "author": "Truth Is Calling",
-      "summary": "Watch this YouTube Short from Truth Is Calling: The Feast That Destroyed a Nation",
-      "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | YouTube Short</span>\n                </div>\n                <p><strong>The Feast That Destroyed a Nation</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"560\" \n                    src=\"https://www.youtube.com/embed/4_hdboJgfp8\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\"><a href=\"https://www.youtube.com/shorts/4_hdboJgfp8\" style=\"color: #c9a84c; font-weight: bold;\">Watch on YouTube →</a></p>\n            </div>\n            ",
-      "thumbnail": "https://img.youtube.com/vi/4_hdboJgfp8/maxresdefault.jpg",
-      "smallThumbnail": "https://img.youtube.com/vi/4_hdboJgfp8/maxresdefault.jpg",
-      "largeThumbnail": "https://img.youtube.com/vi/4_hdboJgfp8/maxresdefault.jpg",
+      "summary": "Watch this YouTube Short from Truth Is Calling: The Hidden Psalm our Lord Sang at the Last Supper | The Hymn Before the Cross...",
+      "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | YouTube Short</span>\n                </div>\n                <p><strong>The Hidden Psalm our Lord Sang at the Last Supper | The Hymn Before the Cross...</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"560\" \n                    src=\"https://www.youtube.com/embed/6n6yNIPObWg\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\"><a href=\"https://www.youtube.com/shorts/6n6yNIPObWg\" style=\"color: #c9a84c; font-weight: bold;\">Watch on YouTube →</a></p>\n            </div>\n            ",
+      "thumbnail": "https://img.youtube.com/vi/6n6yNIPObWg/maxresdefault.jpg",
+      "smallThumbnail": "https://img.youtube.com/vi/6n6yNIPObWg/maxresdefault.jpg",
+      "largeThumbnail": "https://img.youtube.com/vi/6n6yNIPObWg/maxresdefault.jpg",
       "commentsEnabled": false,
       "categories": [
         "Your Shorts"
       ],
       "images": [
         {
-          "url": "https://img.youtube.com/vi/4_hdboJgfp8/maxresdefault.jpg",
-          "id": "img-8ad40d44025d"
+          "url": "https://img.youtube.com/vi/6n6yNIPObWg/maxresdefault.jpg",
+          "id": "img-2af41e697964"
         }
       ]
     }
