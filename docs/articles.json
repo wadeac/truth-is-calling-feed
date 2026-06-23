@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "ce635a11057b",
+      "type": "article",
+      "subtype": "custom",
+      "title": "What Christians Should Know About the Supreme Court’s ‘Landor’ Ruling",
+      "url": "https://www.christianitytoday.com/2026/06/supreme-court-landor-ruling-religious-freedom/",
+      "date": "2026-06-23T20:15:05+00:00",
+      "author": "tberglund@christianitytoday.com",
+      "summary": "The US Supreme Court ended its run of favorable religious freedom decisions today, ruling against a prisoner who had faced discrimination from state officials on account of his beliefs. The decision is narrow and speaks to a more technical question than the details may suggest, but the outcome is di",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 News | Christianity Today</span>\n                </div>\n                <p>The US Supreme Court ended its run of favorable religious freedom decisions today, ruling against a prisoner who had faced discrimination from state officials on account of his beliefs. The decision is narrow and speaks to a more technical question than the details may suggest, but the outcome is discouraging for those seeking more robust <a class=\"more-link\" href=\"https://www.christianitytoday.com/2026/06/supreme-court-landor-ruling-religious-freedom/\">Read more...</a></p>\n<p>The post <a href=\"https://www.christianitytoday.com/2026/06/supreme-court-landor-ruling-religious-freedom/\">What Christians Should Know About the Supreme Court’s ‘Landor’ Ruling</a> appeared first on <a href=\"https://www.christianitytoday.com\">Christianity Today</a>.</p>\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.christianitytoday.com/2026/06/supreme-court-landor-ruling-religious-freedom/\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://www.christianitytoday.com/wp-content/uploads/2026/06/scotus-decision-landor-inmate.jpg?resize=1200,628",
+      "smallThumbnail": "https://www.christianitytoday.com/wp-content/uploads/2026/06/scotus-decision-landor-inmate.jpg?resize=1200,628",
+      "largeThumbnail": "https://www.christianitytoday.com/wp-content/uploads/2026/06/scotus-decision-landor-inmate.jpg?resize=1200,628",
+      "commentsEnabled": false,
+      "categories": [
+        "News"
+      ],
+      "images": [
+        {
+          "url": "https://www.christianitytoday.com/wp-content/uploads/2026/06/scotus-decision-landor-inmate.jpg?resize=1200,628",
+          "id": "img-ce635a11057b"
+        }
+      ]
+    },
+    {
       "id": "501c9e385681",
       "type": "article",
       "subtype": "custom",
@@ -21,30 +45,6 @@
         {
           "url": "https://www.christianitytoday.com/wp-content/uploads/2026/04/behind-the-story-article.jpg?resize=1200,628",
           "id": "img-501c9e385681"
-        }
-      ]
-    },
-    {
-      "id": "de0f09e8c023",
-      "type": "article",
-      "subtype": "custom",
-      "title": "No, No, Yes, Maybe",
-      "url": "https://www.christianitytoday.com/2026/06/letter-to-the-editor/",
-      "date": "2026-06-23T10:00:00+00:00",
-      "author": "Grant Dutro",
-      "summary": "We run a few letters to the editor in the limited space every issue of our print magazine provides. We want to run more, and not as public relations for ourselves but as evidence of a willingness to listen. I don’t want to encourage irritation, but my tendency is to run more negative than positive R",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 News | Christianity Today</span>\n                </div>\n                <p>We run a few letters to the editor in the limited space every issue of our print magazine provides. We want to run more, and not as public relations for ourselves but as evidence of a willingness to listen. I don’t want to encourage irritation, but my tendency is to run more negative than positive <a class=\"more-link\" href=\"https://www.christianitytoday.com/2026/06/letter-to-the-editor/\">Read more...</a></p>\n<p>The post <a href=\"https://www.christianitytoday.com/2026/06/letter-to-the-editor/\">No, No, Yes, Maybe</a> appeared first on <a href=\"https://www.christianitytoday.com\">Christianity Today</a>.</p>\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.christianitytoday.com/2026/06/letter-to-the-editor/\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://www.christianitytoday.com/wp-content/uploads/2026/04/behind-the-story-article.jpg?resize=1200,628",
-      "smallThumbnail": "https://www.christianitytoday.com/wp-content/uploads/2026/04/behind-the-story-article.jpg?resize=1200,628",
-      "largeThumbnail": "https://www.christianitytoday.com/wp-content/uploads/2026/04/behind-the-story-article.jpg?resize=1200,628",
-      "commentsEnabled": false,
-      "categories": [
-        "News"
-      ],
-      "images": [
-        {
-          "url": "https://www.christianitytoday.com/wp-content/uploads/2026/04/behind-the-story-article.jpg?resize=1200,628",
-          "id": "img-de0f09e8c023"
         }
       ]
     },
@@ -97,87 +97,87 @@
       ]
     },
     {
-      "id": "fb592b5e2f99",
+      "id": "d0fe717f1250",
       "type": "article",
       "subtype": "custom",
-      "title": "UK Prime Minister Steps Down from Position Less Than 2 Years after Election",
-      "url": "https://www.crosswalk.com/headlines/contributors/guest-commentary/uk-prime-minister-steps-down-from-position-less-than-2-years-after-election.html",
-      "date": "2026-06-23T15:10:00+00:00",
-      "author": "Amber Ginter",
-      "summary": "The dramatic resignation of a UK Prime Minister under immense party pressure, citing economic stagnation and rising social tensions.",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 News | Christian Headlines</span>\n                </div>\n                The dramatic resignation of a UK Prime Minister under immense party pressure, citing economic stagnation and rising social tensions.\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.crosswalk.com/headlines/contributors/guest-commentary/uk-prime-minister-steps-down-from-position-less-than-2-years-after-election.html\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://media.swncdn.com/via/images/2026/06/23/46606/46606-uk-prime_source_file.jpg",
-      "smallThumbnail": "https://media.swncdn.com/via/images/2026/06/23/46606/46606-uk-prime_source_file.jpg",
-      "largeThumbnail": "https://media.swncdn.com/via/images/2026/06/23/46606/46606-uk-prime_source_file.jpg",
+      "title": "Homeschool Parents in Brazil Sentenced to 50 Days in Jail for Educating Their Own Children",
+      "url": "https://www.crosswalk.com/headlines/contributors/michael-foust/homeschool-parents-in-brazil-sentenced-to-50-days-in-jail-for-educating-their-own-children.html",
+      "date": "2026-06-23T19:35:00+00:00",
+      "author": "Michael Foust",
+      "summary": "Two Brazilian parents face jail time for homeschooling their daughters, sparking global concern over parental rights and educational freedom.",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 News | Christian Headlines</span>\n                </div>\n                Two Brazilian parents face jail time for homeschooling their daughters, sparking global concern over parental rights and educational freedom.\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.crosswalk.com/headlines/contributors/michael-foust/homeschool-parents-in-brazil-sentenced-to-50-days-in-jail-for-educating-their-own-children.html\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://media.swncdn.com/via/images/2023/10/31/33339/33339-untitled-design-84_source_file.jpg",
+      "smallThumbnail": "https://media.swncdn.com/via/images/2023/10/31/33339/33339-untitled-design-84_source_file.jpg",
+      "largeThumbnail": "https://media.swncdn.com/via/images/2023/10/31/33339/33339-untitled-design-84_source_file.jpg",
       "commentsEnabled": false,
       "categories": [
         "News"
       ],
       "images": [
         {
-          "url": "https://media.swncdn.com/via/images/2026/06/23/46606/46606-uk-prime_source_file.jpg",
-          "id": "img-fb592b5e2f99"
+          "url": "https://media.swncdn.com/via/images/2023/10/31/33339/33339-untitled-design-84_source_file.jpg",
+          "id": "img-d0fe717f1250"
         }
       ]
     },
     {
-      "id": "db116a481631",
+      "id": "ce9c3686869a",
       "type": "article",
       "subtype": "custom",
-      "title": "Judge Given 640K after Refusing to Officiate Same Sex Wedding",
-      "url": "https://www.crosswalk.com/headlines/contributors/guest-commentary/judge-given-640k-after-refusing-to-officiate-same-sex-wedding.html",
-      "date": "2026-06-23T15:00:00+00:00",
-      "author": "Amber Ginter",
-      "summary": "A Texas judge, initially disciplined for religious objections to officiating same-sex weddings, has won a significant legal victory of $640,000 after successfully arguing her rights under the Texas Religious Freedom Restoration Act.",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 News | Christian Headlines</span>\n                </div>\n                A Texas judge, initially disciplined for religious objections to officiating same-sex weddings, has won a significant legal victory of $640,000 after successfully arguing her rights under the Texas Religious Freedom Restoration Act.\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.crosswalk.com/headlines/contributors/guest-commentary/judge-given-640k-after-refusing-to-officiate-same-sex-wedding.html\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://media.swncdn.com/via/12404-gay-rainbow-flag-behind-judge-gavel-and-law-b.jpg",
-      "smallThumbnail": "https://media.swncdn.com/via/12404-gay-rainbow-flag-behind-judge-gavel-and-law-b.jpg",
-      "largeThumbnail": "https://media.swncdn.com/via/12404-gay-rainbow-flag-behind-judge-gavel-and-law-b.jpg",
+      "title": "Was America Founded as a Christian Nation? Historian Says the Answer Is Complicated",
+      "url": "https://www.crosswalk.com/headlines/contributors/michael-foust/was-america-founded-as-a-christian-nation-historian-says-the-answer-is-complicated.html",
+      "date": "2026-06-23T17:55:00+00:00",
+      "author": "Michael Foust",
+      "summary": "Was America founded as a Christian or secular nation? A historian argues the answer is complex, acknowledging Christianity's profound influence while highlighting the deliberate choice to establish religious liberty over a state church.",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 News | Christian Headlines</span>\n                </div>\n                Was America founded as a Christian or secular nation? A historian argues the answer is complex, acknowledging Christianity's profound influence while highlighting the deliberate choice to establish religious liberty over a state church.\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.crosswalk.com/headlines/contributors/michael-foust/was-america-founded-as-a-christian-nation-historian-says-the-answer-is-complicated.html\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://media.swncdn.com/via/images/2024/07/05/36736/36736-text-article-image-1200-x-627-px-2_source_file.jpg",
+      "smallThumbnail": "https://media.swncdn.com/via/images/2024/07/05/36736/36736-text-article-image-1200-x-627-px-2_source_file.jpg",
+      "largeThumbnail": "https://media.swncdn.com/via/images/2024/07/05/36736/36736-text-article-image-1200-x-627-px-2_source_file.jpg",
       "commentsEnabled": false,
       "categories": [
         "News"
       ],
       "images": [
         {
-          "url": "https://media.swncdn.com/via/12404-gay-rainbow-flag-behind-judge-gavel-and-law-b.jpg",
-          "id": "img-db116a481631"
+          "url": "https://media.swncdn.com/via/images/2024/07/05/36736/36736-text-article-image-1200-x-627-px-2_source_file.jpg",
+          "id": "img-ce9c3686869a"
         }
       ]
     },
     {
-      "id": "4b77ceb511be",
+      "id": "2172ff80090c",
       "type": "article",
       "subtype": "custom",
-      "title": "Haredi leaders say they will support Knesset dissolution if no progress made on draft bills",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-900296",
-      "date": "2026-06-23T18:22:29+00:00",
-      "author": "BY JERUSALEM POST STAFF",
-      "summary": "According to their statement, Netanyahu \"made it clear at the meeting that he is committed to approving the laws and will work to advance them quickly.\"",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"Shas chairman MK Arye Deri attends the State Comptroller elections at the plenum of the Knesset, in Jerusalem, June 3, 2026. (photo credit: YONATAN SINDEL/FLASH90)\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2061,w_3091/724827\" title=\"Shas chairman MK Arye Deri attends the State Comptroller elections at the plenum of the Knesset, in Jerusalem, June 3, 2026. (photo credit: YONATAN SINDEL/FLASH90)\" /><br />According to their statement, Netanyahu \"made it clear at the meeting that he is committed to approving the laws and will work to advance them quickly.\"<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/israel-news/politics-and-diplomacy/article-900296\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/724827",
-      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/724827",
-      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/724827",
+      "title": "New UN inquiry: Israel 'deliberately' killed Palestinian children, resulting in genocide",
+      "url": "https://www.jpost.com/middle-east/article-900287",
+      "date": "2026-06-23T18:01:20+00:00",
+      "author": "BY MATHILDA HELLER AND YONAH JEREMY BOB",
+      "summary": "A UN-backed commission report accuses Israel of severe violations against Palestinian children in Gaza and the West Bank, prompting a strong Israeli rebuttal.",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\" IDF soldiers seen operating in the northern Gaza Strip, April 13, 2025 (photo credit: IDF SPOKESPERSON\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/658974\" /><br />A UN-backed commission report accuses Israel of severe violations against Palestinian children in Gaza and the West Bank, prompting a strong Israeli rebuttal.<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/middle-east/article-900287\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/658974",
+      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/658974",
+      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/658974",
       "commentsEnabled": false,
       "categories": [
         "Israel & Middle East"
       ],
       "images": [
         {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/724827",
-          "id": "img-4b77ceb511be"
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/658974",
+          "id": "img-2172ff80090c"
         }
       ]
     },
     {
-      "id": "d5c0cac24cec",
+      "id": "1b9a0a5fa489",
       "type": "article",
       "subtype": "custom",
-      "title": "Israel-Lebanon negotiations resume in Washington after Hezbollah claims IDF violated ceasefire",
+      "title": "Israel-Lebanon talks begin in Washington, focus on first Hezbollah withdrawal zones",
       "url": "https://www.jpost.com/middle-east/article-900262",
       "date": "2026-06-23T16:45:29+00:00",
       "author": "BY JAMES GENN AND TOBIAS HOLCMAN",
-      "summary": "Hezbollah claimed that the IDF \"violated\" the ceasefire, saying that soldiers opened fire with \"automatic weapons towards a group of civilians\" near Nabatiya at approximately 11:30 a.m.",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"Israeli Ambassador to the U.S. Yechiel Leiter and Lebanese Ambassador to the US Nada Hamadeh. (photo credit: REUTERS/Nathan Howard)\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_5496,w_8326/726820\" title=\"Israeli Ambassador to the U.S. Yechiel Leiter and Lebanese Ambassador to the US Nada Hamadeh. (photo credit: REUTERS/Nathan Howard)\" /><br />Hezbollah claimed that the IDF \"violated\" the ceasefire, saying that soldiers opened fire with \"automatic weapons towards a group of civilians\" near Nabatiya at approximately 11:30 a.m.<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/middle-east/article-900262\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "summary": "At the onset of the talks, Lebanese President Joseph Aoun said that his government would “accept nothing less than the end of the Israeli occupation in southern Lebanon.”",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"Israeli Ambassador to the U.S. Yechiel Leiter and Lebanese Ambassador to the US Nada Hamadeh. (photo credit: REUTERS/Nathan Howard)\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/726820\" title=\"Israeli Ambassador to the U.S. Yechiel Leiter and Lebanese Ambassador to the US Nada Hamadeh. (photo credit: REUTERS/Nathan Howard)\" /><br />At the onset of the talks, Lebanese President Joseph Aoun said that his government would “accept nothing less than the end of the Israeli occupation in southern Lebanon.”<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/middle-east/article-900262\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
       "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/726820",
       "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/726820",
       "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/726820",
@@ -188,31 +188,31 @@
       "images": [
         {
           "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/726820",
-          "id": "img-d5c0cac24cec"
+          "id": "img-1b9a0a5fa489"
         }
       ]
     },
     {
-      "id": "78b9081f475f",
+      "id": "0a27036eb392",
       "type": "article",
       "subtype": "custom",
-      "title": "IAEA inspections in Iran need to be fundamentally different after Iran was bombed - analysis",
-      "url": "https://www.jpost.com/middle-east/article-900297",
-      "date": "2026-06-23T18:13:50+00:00",
+      "title": "IDF kills Hezbollah operatives in two small incidents, but ceasefire holds",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-900309",
+      "date": "2026-06-23T20:51:53+00:00",
       "author": "BY YONAH JEREMY BOB",
-      "summary": "It will probably take weeks if not months of using special engineering machines as well as special protective suits to retrieve and dispose of the 60% enriched uranium.",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\" IAEA Director-General Rafael Grossi holds a news conference after the first day of the agency\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4000,w_6000/667120\" /><br />It will probably take weeks if not months of using special engineering machines as well as special protective suits to retrieve and dispose of the 60% enriched uranium.<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/middle-east/article-900297\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/667120",
-      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/667120",
-      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/667120",
+      "summary": "All of this was taking place just as Jerusalem and Beirut kicked off another round of direct talks in Washington addressing a wide range of issues.",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\" IDF operatives in Lebanon, February 3, 2025. (photo credit: IDF)\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1066,w_1600/647449\" title=\" IDF operatives in Lebanon, February 3, 2025. (photo credit: IDF)\" /><br />All of this was taking place just as Jerusalem and Beirut kicked off another round of direct talks in Washington addressing a wide range of issues.<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/israel-news/defense-news/article-900309\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/647449",
+      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/647449",
+      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/647449",
       "commentsEnabled": false,
       "categories": [
         "Israel & Middle East"
       ],
       "images": [
         {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/667120",
-          "id": "img-78b9081f475f"
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/647449",
+          "id": "img-0a27036eb392"
         }
       ]
     },
@@ -337,26 +337,50 @@
       ]
     },
     {
-      "id": "96c7db67db69",
+      "id": "d8f6c995da6c",
       "type": "article",
       "subtype": "custom",
-      "title": "When Science Raises Questions Only God Can Answer",
-      "url": "https://churchleaders.com/wellness/2219231-lee-strobe-science-questions-god-answer.html",
-      "date": "2026-06-22T22:48:09+00:00",
-      "author": "Jason Daye",
-      "summary": "Lee Strobel explores how modern scientific discovery is not eliminating the need for God, but exposing questions that science cannot resolve.",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Leadership | Church Leaders</span>\n                </div>\n                <p><img alt=\"lee strobel\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"428\" src=\"https://cdn.churchleaders.com/wp-content/uploads/2026/06/lee-strobel-not-accident.jpg\" width=\"642\" /></p>Lee Strobel explores how modern scientific discovery is not eliminating the need for God, but exposing questions that science cannot resolve.\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://churchleaders.com/wellness/2219231-lee-strobe-science-questions-god-answer.html\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://cdn.churchleaders.com/wp-content/uploads/2026/06/lee-strobel-not-accident.jpg",
-      "smallThumbnail": "https://cdn.churchleaders.com/wp-content/uploads/2026/06/lee-strobel-not-accident.jpg",
-      "largeThumbnail": "https://cdn.churchleaders.com/wp-content/uploads/2026/06/lee-strobel-not-accident.jpg",
+      "title": "Fred Hammond’s Tiny Desk Concert Was a Celebration of His Gospel Legacy",
+      "url": "https://relevantmagazine.com/culture/music/fred-hammonds-tiny-desk-concert-was-a-celebration-of-his-gospel-legacy/",
+      "date": "2026-06-23T18:24:58+00:00",
+      "author": "Emily Brown",
+      "summary": "More than 40 years into a career that helped shape modern gospel music, Fred Hammond finally made his long-overdue NPR Tiny Desk debut — and he made the most of it. As part of NPR’s Black Music Month series celebrating the legacy of BET, Hammond delivered a career-spanning set that touched nearly ev",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Culture | Relevant Magazine</span>\n                </div>\n                <p class=\"p1\">More than 40 years into a career that helped shape modern gospel music, Fred Hammond finally made his long-overdue NPR Tiny Desk debut — and he made the most of it.</p>\n<p class=\"p1\">As part of NPR’s Black Music Month series celebrating the legacy of BET, Hammond delivered a career-spanning set that touched nearly every era of his journey, from his days with Commissioned to the praise-and-worship anthems that have become staples in churches around the world.</p>\n<p class=\"p1\">The set opened with the recent track “Love Never Fails” before moving through favorites like “Celebrate (He Lives)” and “They That Wait.” Hammond also revisited his Commissioned roots with “Running Back to You,” the group’s 1986 hit that remains one of the most beloved songs in gospel music.</p>\n<p class=\"p1\">From there, the energy only built. Hammond performed “Jesus Be a Fence Around Me,” “No Weapon,” “You Are the Living Word” and “Let the Praise Begin,” drawing enthusiastic responses from the packed room. By the time he reached “We’re Blessed,” the audience was singing along so loudly you almost forget you&#8217;re in an office and not a Sunday morning service.</p>\n<p class=\"p1\">At one point, Hammond looked around the room and joked, “Tiny knows how to party in the Holy Ghost!”</p>\n<p class=\"p1\">For longtime fans, the performance served as a reminder of just how deep Hammond’s catalog runs. Few artists have had a bigger impact on contemporary gospel and praise-and-worship music, and the Tiny Desk format gave him space to move seamlessly between songs that have soundtracked church services, and personal devotion times for generations.</p>\n<p class=\"p1\">Watch the full set here:</p>\n<div class=\"flex-video widescreen youtube\"></div>\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://relevantmagazine.com/culture/music/fred-hammonds-tiny-desk-concert-was-a-celebration-of-his-gospel-legacy/\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://relevantmagazine.com/wp-content/uploads/2026/06/hf_20260623_180545_b642c283-82dc-43e9-b9eb-b3a4e2ddf084-1100x738.png",
+      "smallThumbnail": "https://relevantmagazine.com/wp-content/uploads/2026/06/hf_20260623_180545_b642c283-82dc-43e9-b9eb-b3a4e2ddf084-1100x738.png",
+      "largeThumbnail": "https://relevantmagazine.com/wp-content/uploads/2026/06/hf_20260623_180545_b642c283-82dc-43e9-b9eb-b3a4e2ddf084-1100x738.png",
+      "commentsEnabled": false,
+      "categories": [
+        "Culture"
+      ],
+      "images": [
+        {
+          "url": "https://relevantmagazine.com/wp-content/uploads/2026/06/hf_20260623_180545_b642c283-82dc-43e9-b9eb-b3a4e2ddf084-1100x738.png",
+          "id": "img-d8f6c995da6c"
+        }
+      ]
+    },
+    {
+      "id": "f6b6b162464d",
+      "type": "article",
+      "subtype": "custom",
+      "title": "Francis Chan: When Family Quietly Becomes an Idol",
+      "url": "https://churchleaders.com/pastors/videos-for-pastors/275963-francis-chan-idolizing-family.html",
+      "date": "2026-06-23T21:37:55+00:00",
+      "author": "Megan Briggs",
+      "summary": "According to Francis Chan family is easy to idolize. It's a temptation all of us face when we marry and have children.",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Leadership | Church Leaders</span>\n                </div>\n                <p><img alt=\"Francis Chan family\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"428\" src=\"https://cdn.churchleaders.com/wp-content/uploads/2018/12/idolize-family.jpg\" width=\"642\" /></p>According to Francis Chan family is easy to idolize. It's a temptation all of us face when we marry and have children.\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://churchleaders.com/pastors/videos-for-pastors/275963-francis-chan-idolizing-family.html\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://cdn.churchleaders.com/wp-content/uploads/2018/12/idolize-family.jpg",
+      "smallThumbnail": "https://cdn.churchleaders.com/wp-content/uploads/2018/12/idolize-family.jpg",
+      "largeThumbnail": "https://cdn.churchleaders.com/wp-content/uploads/2018/12/idolize-family.jpg",
       "commentsEnabled": false,
       "categories": [
         "Leadership"
       ],
       "images": [
         {
-          "url": "https://cdn.churchleaders.com/wp-content/uploads/2026/06/lee-strobel-not-accident.jpg",
-          "id": "img-96c7db67db69"
+          "url": "https://cdn.churchleaders.com/wp-content/uploads/2018/12/idolize-family.jpg",
+          "id": "img-f6b6b162464d"
         }
       ]
     },
@@ -553,12 +577,12 @@
       ]
     },
     {
-      "id": "358611158bc1",
+      "id": "9ef57d966a92",
       "type": "article",
       "subtype": "custom",
       "title": "✝ Satanic Trends the Church Is Secretly Accepting",
       "url": "https://www.youtube.com/shorts/jTI27IPaIOg",
-      "date": "2026-06-23T16:24:26.706730+00:00",
+      "date": "2026-06-23T22:08:41.064145+00:00",
       "author": "Truth Is Calling",
       "summary": "Watch this YouTube Short from Truth Is Calling: Satanic Trends the Church Is Secretly Accepting",
       "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | YouTube Short</span>\n                </div>\n                <p><strong>Satanic Trends the Church Is Secretly Accepting</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"560\" \n                    src=\"https://www.youtube.com/embed/jTI27IPaIOg\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\"><a href=\"https://www.youtube.com/shorts/jTI27IPaIOg\" style=\"color: #c9a84c; font-weight: bold;\">Watch on YouTube →</a></p>\n            </div>\n            ",
@@ -572,17 +596,17 @@
       "images": [
         {
           "url": "https://img.youtube.com/vi/jTI27IPaIOg/maxresdefault.jpg",
-          "id": "img-358611158bc1"
+          "id": "img-9ef57d966a92"
         }
       ]
     },
     {
-      "id": "712b7e5b4130",
+      "id": "99a4223e59dc",
       "type": "article",
       "subtype": "custom",
       "title": "✝ The Scarlet Worm Prophecy | Psalm 22, the Cross, and the Hidden Gospel in Creation #history #bible",
       "url": "https://www.youtube.com/shorts/eNLq1dOIZqs",
-      "date": "2026-06-23T16:24:26.706751+00:00",
+      "date": "2026-06-23T22:08:41.064165+00:00",
       "author": "Truth Is Calling",
       "summary": "Watch this YouTube Short from Truth Is Calling: The Scarlet Worm Prophecy | Psalm 22, the Cross, and the Hidden Gospel in Creation #history #bible",
       "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | YouTube Short</span>\n                </div>\n                <p><strong>The Scarlet Worm Prophecy | Psalm 22, the Cross, and the Hidden Gospel in Creation #history #bible</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"560\" \n                    src=\"https://www.youtube.com/embed/eNLq1dOIZqs\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\"><a href=\"https://www.youtube.com/shorts/eNLq1dOIZqs\" style=\"color: #c9a84c; font-weight: bold;\">Watch on YouTube →</a></p>\n            </div>\n            ",
@@ -596,7 +620,7 @@
       "images": [
         {
           "url": "https://img.youtube.com/vi/eNLq1dOIZqs/maxresdefault.jpg",
-          "id": "img-712b7e5b4130"
+          "id": "img-99a4223e59dc"
         }
       ]
     }
