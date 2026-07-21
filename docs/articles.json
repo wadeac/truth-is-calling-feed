@@ -145,13 +145,13 @@
       ]
     },
     {
-      "id": "4afee5865213",
+      "id": "3d0f45edb6a5",
       "type": "article",
       "subtype": "custom",
-      "title": "US CENTCOM begins tenth night of strikes on Iran, explosions heard in country's south",
+      "title": "US CENTCOM completes tenth night of strikes on Iran after explosions sound in country's south",
       "url": "https://www.jpost.com/middle-east/iran-news/article-903119",
       "date": "2026-07-20T23:42:54+00:00",
-      "author": "BY JERUSALEM POST STAFF",
+      "author": "BY ESTHER DAVIS AND ARIELLA ROITMAN",
       "summary": "Explosions in Bandar Abbas, Sirik Island, and Qeshm were reported as US Central Command announced its tenth day of strikes against Iran.",
       "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"Smoke rises from an explosion at an unknown location, during what US Central Command (CENTCOM) says are strikes on Iran, in this still image taken from a handout video released on July 19, 2026. (photo credit: US CENTRAL COMMAND/HANDOUT VIA REUTERS)\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2152,w_3814/730572\" title=\"Smoke rises from an explosion at an unknown location, during what US Central Command (CENTCOM) says are strikes on Iran, in this still image taken from a handout video released on July 19, 2026. (photo credit: US CENTRAL COMMAND/HANDOUT VIA REUTERS)\" /><br />Explosions in Bandar Abbas, Sirik Island, and Qeshm were reported as US Central Command announced its tenth day of strikes against Iran. <br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/middle-east/iran-news/article-903119\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
       "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/730572",
@@ -164,7 +164,31 @@
       "images": [
         {
           "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/730572",
-          "id": "img-4afee5865213"
+          "id": "img-3d0f45edb6a5"
+        }
+      ]
+    },
+    {
+      "id": "8e5632e6d69e",
+      "type": "article",
+      "subtype": "custom",
+      "title": "IRGC claims it targeted three US military bases in Kuwait, Iranian state TV says",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-903121",
+      "date": "2026-07-21T00:58:40+00:00",
+      "author": "BY ARIELLA ROITMAN AND ESTHER DAVIS",
+      "summary": "The Kuwaiti army confirmed it had intercepted the incoming missile and drone attacks and urged citizens to continue to adhere to safety guidelines.",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"A drone view shows Kuwait City, February 28, 2026. (photo credit: Stephanie McGehee/Reuters)\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2304,w_4096/730734\" title=\"A drone view shows Kuwait City, February 28, 2026. (photo credit: Stephanie McGehee/Reuters)\" /><br />The Kuwaiti army confirmed it had intercepted the incoming missile and drone attacks and urged citizens to continue to adhere to safety guidelines.<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/middle-east/iran-news/article-903121\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/730734",
+      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/730734",
+      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/730734",
+      "commentsEnabled": false,
+      "categories": [
+        "Israel & Middle East"
+      ],
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/730734",
+          "id": "img-8e5632e6d69e"
         }
       ]
     },
@@ -193,26 +217,26 @@
       ]
     },
     {
-      "id": "5b330ce37c47",
+      "id": "553e4eca416c",
       "type": "article",
       "subtype": "custom",
-      "title": "Hundreds of haredim protest outside military prison following draft dodger arrest",
-      "url": "https://www.jpost.com/israel-news/article-903115",
-      "date": "2026-07-20T22:01:13+00:00",
-      "author": "BY JERUSALEM POST STAFF",
-      "summary": "The arrested hassidic man had earlier arrived at a draft office to arrange an exemption from service before being sentenced to 20 days in prison, according to the report.",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"Thousands of Ultra-Orthodox Jewish men from the Gur (Hasidic dynasty) protest outside Military Prison near Kfar Yona, central Israel, against the jailing of seminary students who failed to comply with an army recruitment order, July 20, 2026. (photo credit: Tal Gal/Flash90)\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2422,w_3633/730727\" title=\"Thousands of Ultra-Orthodox Jewish men from the Gur (Hasidic dynasty) protest outside Military Prison near Kfar Yona, central Israel, against the jailing of seminary students who failed to comply with an army recruitment order, July 20, 2026. (photo credit: Tal Gal/Flash90)\" /><br />The arrested hassidic man had earlier arrived at a draft office to arrange an exemption from service before being sentenced to 20 days in prison, according to the report.<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/israel-news/article-903115\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/730727",
-      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/730727",
-      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/730727",
+      "title": "Walking Like Jesus",
+      "url": "https://odb.org/2026/07/21/",
+      "date": "2026-07-21T00:00:00+00:00",
+      "author": "Leslie Koh",
+      "summary": "Ben had bought pirated computer software for years, simply because it was cheaper. Even though it was illegal and broke copyright laws, he didn&rsquo;t fell that it was morally wrong. After all, everyone did it, and why should he buy expensive original software? Who would check?\nAfter hearing a talk",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Devotional | Our Daily Bread</span>\n                </div>\n                <p>Ben had bought pirated computer software for years, simply because it was cheaper. Even though it was illegal and broke copyright laws, he didn&rsquo;t fell that it was morally wrong. After all, everyone did it, and why should he buy expensive original software? Who would check?</p>\n<p>After hearing a talk on daily examples of living by God&rsquo;s standards, however, Ben, a new believer growing in the faith, began to wonder, <em>What does it mean to do the right thing?</em></p>\n<p>Ben decided to replace all his software with original versions. It cost a lot more, but, as he explained to his friends, &ldquo;God knows. And He calls us to do what&rsquo;s right, <em>right</em>?&rdquo;</p>\n<p>In Amos 7, God reminded the Israelites that His standards were impartial and absolute. There was to be no compromise: they applied to all, including His favored nation. His laws and moral standards were like &ldquo;a plumb line&rdquo; (v. 8)&mdash;a weighted line used by builders to ensure structural integrity by showing if a wall wasn&rsquo;t being built perfectly vertical.</p>\n<p>While He may extend mercy, God can&rsquo;t compromise His justice&mdash;which is why He sent His Son Jesus to die in our place as payment for our sin. The Bible shows us whether we&rsquo;re walking in His way or not. By His grace, God helps those who believe in Jesus to live in a way that pleases Him and brings honor to Him&mdash;to do what&rsquo;s right.</p>\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://odb.org/2026/07/21/\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
+      "smallThumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
+      "largeThumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
       "commentsEnabled": false,
       "categories": [
-        "Israel & Middle East"
+        "Devotional"
       ],
       "images": [
         {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/730727",
-          "id": "img-5b330ce37c47"
+          "url": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
+          "id": "img-553e4eca416c"
         }
       ]
     },
@@ -237,30 +261,6 @@
         {
           "url": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
           "id": "img-7e5039894373"
-        }
-      ]
-    },
-    {
-      "id": "43681dd50d07",
-      "type": "article",
-      "subtype": "custom",
-      "title": "The God Who Saves",
-      "url": "https://odb.org/2026/07/19/",
-      "date": "2026-07-19T00:00:00+00:00",
-      "author": "Amy Boucher Pye",
-      "summary": "Sentenced to life in prison, Vic shared with friends his sense of longing. When they said that Jesus would fill the empty spaces in Vic&rsquo;s life, he mocked their statements. To Vic, Jesus being a man who died yet still lived today seemed fantastical. Although skeptical, sometime later he began l",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Devotional | Our Daily Bread</span>\n                </div>\n                <p>Sentenced to life in prison, Vic shared with friends his sense of longing. When they said that Jesus would fill the empty spaces in Vic&rsquo;s life, he mocked their statements. To Vic, Jesus being a man who died yet still lived today seemed fantastical. Although skeptical, sometime later he began listening to a Christian radio station and even reading the Bible. Eventually, he asked God to reveal Himself to him.</p>\n<p>&nbsp;</p>\n<p>Vic&rsquo;s anxieties and fears began to fade. He reflected, &ldquo;Physically, I was incarcerated in a prison with two massive cage-like fences keeping me in, but mentally I was free and protected like Daniel when he was in the den with the lions.&rdquo; Shortly thereafter, he received Jesus as his Savior.</p>\n<p>Vic read the Old Testament story of Daniel, an exile from Judah who was thrown into a den with lions. Daniel had refused to stop praying to God three times a day, even when the king signed an edict disallowing all prayer for thirty days except to himself (Daniel 6:6&ndash;10). The king was &ldquo;greatly distressed&rdquo; and regretted having to punish him with a certain death by the lions (vv. 14, 16). But God, revealing His power and authority, kept Daniel safe, and &ldquo;the king was overjoyed&rdquo; (v. 23).</p>\n<p>Whatever our circumstances, including great hardship, God never leaves us. We need only to turn to Him.</p>\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://odb.org/2026/07/19/\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
-      "smallThumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
-      "largeThumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
-      "commentsEnabled": false,
-      "categories": [
-        "Devotional"
-      ],
-      "images": [
-        {
-          "url": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
-          "id": "img-43681dd50d07"
         }
       ]
     },
@@ -337,26 +337,50 @@
       ]
     },
     {
-      "id": "da7bb9831415",
+      "id": "c15ccc35b93d",
       "type": "article",
       "subtype": "custom",
-      "title": "Disgraced Preacher Steven Lawson Removed From Conference Lineup After Declining Speaking Invite",
-      "url": "https://churchleaders.com/news/2220300-steven-lawson-contending-for-the-faith-speaking.html",
-      "date": "2026-07-20T21:39:51+00:00",
-      "author": "Jesse T. Jackson",
-      "summary": "Disgraced minister Dr. Steven Lawson was mistakenly listed as a speaker at an upcoming pastors conference in November.",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Leadership | Church Leaders</span>\n                </div>\n                <p><img alt=\"Steven Lawson\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"461\" src=\"https://cdn.churchleaders.com/wp-content/uploads/2026/07/lawson-steven-conf.jpg\" width=\"691\" /></p>Disgraced minister Dr. Steven Lawson was mistakenly listed as a speaker at an upcoming pastors conference in November.\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://churchleaders.com/news/2220300-steven-lawson-contending-for-the-faith-speaking.html\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://cdn.churchleaders.com/wp-content/uploads/2026/07/lawson-steven-conf.jpg",
-      "smallThumbnail": "https://cdn.churchleaders.com/wp-content/uploads/2026/07/lawson-steven-conf.jpg",
-      "largeThumbnail": "https://cdn.churchleaders.com/wp-content/uploads/2026/07/lawson-steven-conf.jpg",
+      "title": "Chance the Rapper Will Be Featured on Jon Keith’s New Album",
+      "url": "https://relevantmagazine.com/culture/music/chance-the-rapper-will-be-featured-on-jon-keiths-new-album/",
+      "date": "2026-07-20T20:18:22+00:00",
+      "author": "Emily Brown",
+      "summary": "Christian artist Jon Keith has announced AND FLY, the sequel to his 2024 album GROW WINGS, and it’s bringing a stacked list of collaborators with it. Leading the guest list is Chance the Rapper, who appears on the track “IT’S TIME” in what marks his first Christian hip-hop collaboration. The album a",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Culture | Relevant Magazine</span>\n                </div>\n                <p class=\"p1\">Christian artist Jon Keith has announced <span class=\"s1\"><i>AND FLY</i></span>, the sequel to his 2024 album <span class=\"s1\"><i>GROW WINGS</i></span>, and it’s bringing a stacked list of collaborators with it.</p>\n<p class=\"p1\">Leading the guest list is Chance the Rapper, who appears on the track “IT’S TIME” in what marks his first Christian hip-hop collaboration. The album also features DaniLeigh, Torey D’Shaun, Dell Mac, Eris Ford, Aklesso and Aaron Cole, with production from Grammy-winning artist Tenroc.</p>\n<p class=\"p1\">Keith unveiled the album alongside the release of “KILLERS,” a new music video that follows previously released singles “NEW ME” and “DANCING ON YOUR OWN.”</p>\n<p class=\"p2\"><i>AND FLY</i><span class=\"s2\"> releases Aug. 7.</span></p>\n<div class=\"flex-video widescreen youtube\"></div>\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://relevantmagazine.com/culture/music/chance-the-rapper-will-be-featured-on-jon-keiths-new-album/\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://relevantmagazine.com/wp-content/uploads/2026/07/chance-1.jpg",
+      "smallThumbnail": "https://relevantmagazine.com/wp-content/uploads/2026/07/chance-1.jpg",
+      "largeThumbnail": "https://relevantmagazine.com/wp-content/uploads/2026/07/chance-1.jpg",
+      "commentsEnabled": false,
+      "categories": [
+        "Culture"
+      ],
+      "images": [
+        {
+          "url": "https://relevantmagazine.com/wp-content/uploads/2026/07/chance-1.jpg",
+          "id": "img-c15ccc35b93d"
+        }
+      ]
+    },
+    {
+      "id": "b93af1255acc",
+      "type": "article",
+      "subtype": "custom",
+      "title": "What Does “The Sins of the Father” Mean?",
+      "url": "https://churchleaders.com/pastors/469581-sins-of-the-father.html",
+      "date": "2026-07-21T00:00:28+00:00",
+      "author": "Staff",
+      "summary": "Ask ten pastors what “the sins of the father” means and you will get ten different answers. Some picture a curse traveling down a bloodline. Others picture guilt handed to a child who did nothing wrong. The phrase comes straight from the Ten Commandments, but that is not where the Bible leaves it. W",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Leadership | Church Leaders</span>\n                </div>\n                <p><img alt=\"sins of the father meaning\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"428\" src=\"https://cdn.churchleaders.com/wp-content/uploads/2024/02/sins-of-the-father-meaning.jpg\" width=\"642\" /></p>Ask ten pastors what “the sins of the father” means and you will get ten different answers. Some picture a curse traveling down a bloodline. Others picture guilt handed to a child who did nothing wrong. The phrase comes straight from the Ten Commandments, but that is not where the Bible leaves it. Where the [&#8230;]\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://churchleaders.com/pastors/469581-sins-of-the-father.html\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://cdn.churchleaders.com/wp-content/uploads/2024/02/sins-of-the-father-meaning.jpg",
+      "smallThumbnail": "https://cdn.churchleaders.com/wp-content/uploads/2024/02/sins-of-the-father-meaning.jpg",
+      "largeThumbnail": "https://cdn.churchleaders.com/wp-content/uploads/2024/02/sins-of-the-father-meaning.jpg",
       "commentsEnabled": false,
       "categories": [
         "Leadership"
       ],
       "images": [
         {
-          "url": "https://cdn.churchleaders.com/wp-content/uploads/2026/07/lawson-steven-conf.jpg",
-          "id": "img-da7bb9831415"
+          "url": "https://cdn.churchleaders.com/wp-content/uploads/2024/02/sins-of-the-father-meaning.jpg",
+          "id": "img-b93af1255acc"
         }
       ]
     },
@@ -553,12 +577,36 @@
       ]
     },
     {
-      "id": "2b44b60bdebd",
+      "id": "6562b8c724f0",
+      "type": "article",
+      "subtype": "custom",
+      "title": "✝ One Woman. 600 Swords. | The Moment Anger Almost Destroyed a King#shorts #history #bible #chirstian",
+      "url": "https://www.youtube.com/shorts/_uvKOVS-54Y",
+      "date": "2026-07-21T02:06:56.964873+00:00",
+      "author": "Truth Is Calling",
+      "summary": "Watch this YouTube Short from Truth Is Calling: One Woman. 600 Swords. | The Moment Anger Almost Destroyed a King#shorts #history #bible #chirstian",
+      "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | YouTube Short</span>\n                </div>\n                <p><strong>One Woman. 600 Swords. | The Moment Anger Almost Destroyed a King#shorts #history #bible #chirstian</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"560\" \n                    src=\"https://www.youtube.com/embed/_uvKOVS-54Y\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\"><a href=\"https://www.youtube.com/shorts/_uvKOVS-54Y\" style=\"color: #c9a84c; font-weight: bold;\">Watch on YouTube →</a></p>\n            </div>\n            ",
+      "thumbnail": "https://img.youtube.com/vi/_uvKOVS-54Y/maxresdefault.jpg",
+      "smallThumbnail": "https://img.youtube.com/vi/_uvKOVS-54Y/maxresdefault.jpg",
+      "largeThumbnail": "https://img.youtube.com/vi/_uvKOVS-54Y/maxresdefault.jpg",
+      "commentsEnabled": false,
+      "categories": [
+        "Your Shorts"
+      ],
+      "images": [
+        {
+          "url": "https://img.youtube.com/vi/_uvKOVS-54Y/maxresdefault.jpg",
+          "id": "img-6562b8c724f0"
+        }
+      ]
+    },
+    {
+      "id": "f5bcfc1a5a31",
       "type": "article",
       "subtype": "custom",
       "title": "✝ Punch or Die! #history #biblestudy #shorts #bible #christianshorts #christianity   #storytime #fyp",
       "url": "https://www.youtube.com/shorts/w0iGdgj36mg",
-      "date": "2026-07-20T21:56:44.080133+00:00",
+      "date": "2026-07-21T02:06:56.964894+00:00",
       "author": "Truth Is Calling",
       "summary": "Watch this YouTube Short from Truth Is Calling: Punch or Die! #history #biblestudy #shorts #bible #christianshorts #christianity   #storytime #fyp",
       "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | YouTube Short</span>\n                </div>\n                <p><strong>Punch or Die! #history #biblestudy #shorts #bible #christianshorts #christianity   #storytime #fyp</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"560\" \n                    src=\"https://www.youtube.com/embed/w0iGdgj36mg\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\"><a href=\"https://www.youtube.com/shorts/w0iGdgj36mg\" style=\"color: #c9a84c; font-weight: bold;\">Watch on YouTube →</a></p>\n            </div>\n            ",
@@ -572,31 +620,7 @@
       "images": [
         {
           "url": "https://img.youtube.com/vi/w0iGdgj36mg/maxresdefault.jpg",
-          "id": "img-2b44b60bdebd"
-        }
-      ]
-    },
-    {
-      "id": "be19818277bf",
-      "type": "article",
-      "subtype": "custom",
-      "title": "✝ Our Lord Warned Us: The Return of the gods has Begun #history",
-      "url": "https://www.youtube.com/shorts/ONdTnb3W9oE",
-      "date": "2026-07-20T21:56:44.080153+00:00",
-      "author": "Truth Is Calling",
-      "summary": "Watch this YouTube Short from Truth Is Calling: Our Lord Warned Us: The Return of the gods has Begun #history",
-      "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | YouTube Short</span>\n                </div>\n                <p><strong>Our Lord Warned Us: The Return of the gods has Begun #history</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"560\" \n                    src=\"https://www.youtube.com/embed/ONdTnb3W9oE\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\"><a href=\"https://www.youtube.com/shorts/ONdTnb3W9oE\" style=\"color: #c9a84c; font-weight: bold;\">Watch on YouTube →</a></p>\n            </div>\n            ",
-      "thumbnail": "https://img.youtube.com/vi/ONdTnb3W9oE/maxresdefault.jpg",
-      "smallThumbnail": "https://img.youtube.com/vi/ONdTnb3W9oE/maxresdefault.jpg",
-      "largeThumbnail": "https://img.youtube.com/vi/ONdTnb3W9oE/maxresdefault.jpg",
-      "commentsEnabled": false,
-      "categories": [
-        "Your Shorts"
-      ],
-      "images": [
-        {
-          "url": "https://img.youtube.com/vi/ONdTnb3W9oE/maxresdefault.jpg",
-          "id": "img-be19818277bf"
+          "id": "img-f5bcfc1a5a31"
         }
       ]
     }
