@@ -145,10 +145,10 @@
       ]
     },
     {
-      "id": "cd163f4873e9",
+      "id": "e3b8b3fbd534",
       "type": "article",
       "subtype": "custom",
-      "title": "Katz states intent to appoint manpower directorate chief as head of IDF Central Command on live TV",
+      "title": "Katz states intent to replace head of IDF Central Command on live TV, IDF denies validity of move",
       "url": "https://www.jpost.com/israel-news/defense-news/article-904380",
       "date": "2026-08-03T00:05:19+00:00",
       "author": "BY GOLDIE KATZ",
@@ -164,55 +164,79 @@
       "images": [
         {
           "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/727823",
-          "id": "img-cd163f4873e9"
+          "id": "img-e3b8b3fbd534"
         }
       ]
     },
     {
-      "id": "946a07c10a29",
+      "id": "f6d4b47c8f14",
       "type": "article",
       "subtype": "custom",
-      "title": "IDF's Gaza strikes interfere with BoP efforts to disarm Hamas, give medical care, Mladenov implies",
-      "url": "https://www.jpost.com/middle-east/article-904378",
-      "date": "2026-08-02T22:23:14+00:00",
-      "author": "BY JERUSALEM POST STAFF",
-      "summary": "Mladenov's comments come following an IDF announcement on Sunday that it had killed two Hamas commanders in Gaza over the weekend, along with three additional Gaza terrorists over the past week.",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"The high representative for Gaza under US President Donald Trump\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3300,w_4950/732423\" /><br />Mladenov's comments come following an IDF announcement on Sunday that it had killed two Hamas commanders in Gaza over the weekend, along with three additional Gaza terrorists over the past week.<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/middle-east/article-904378\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/732423",
-      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/732423",
-      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/732423",
+      "title": "Renewed US-Iran talks on Strait of Hormuz, denuclearization to start on Monday, Trump says",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-904381",
+      "date": "2026-08-03T01:12:27+00:00",
+      "author": "BY ESTHER DAVIS",
+      "summary": "The US halted an attack on Iran \"that would have been the biggest attack since World War II, which would have been disastrous for them,\" Trump explained.",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"US President Donald Trump speaks to the media aboard Air Force One en route to Joint Base Andrews, in Maryland, US, August 2, 2026.  (photo credit: REUTERS/Daniel Heuer)\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4333,w_6500/732426\" title=\"US President Donald Trump speaks to the media aboard Air Force One en route to Joint Base Andrews, in Maryland, US, August 2, 2026.  (photo credit: REUTERS/Daniel Heuer)\" /><br />The US halted an attack on Iran \"that would have been the biggest attack since World War II, which would have been disastrous for them,\" Trump explained.<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/middle-east/iran-news/article-904381\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/732426",
+      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/732426",
+      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/732426",
       "commentsEnabled": false,
       "categories": [
         "Israel & Middle East"
       ],
       "images": [
         {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/732423",
-          "id": "img-946a07c10a29"
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/732426",
+          "id": "img-f6d4b47c8f14"
         }
       ]
     },
     {
-      "id": "092806ab37d6",
+      "id": "5d3ce2ce8dde",
       "type": "article",
       "subtype": "custom",
-      "title": "Trump's Gaza plan balances between IDF's operational freedom, US' diplomatic efforts - analysis",
-      "url": "https://www.jpost.com/middle-east/article-904379",
-      "date": "2026-08-02T22:57:04+00:00",
-      "author": "BY IDAN KWELLER",
-      "summary": "Washington seeks to preserve a verified Hamas disarmament process as Israel maintains it must continue operations against active terrorist threats.",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"IDF SOLDIERS operating in the Gaza Strip. (photo credit: IDF SPOKESPERSON\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1706,w_2560/725404\" /><br />Washington seeks to preserve a verified Hamas disarmament process as Israel maintains it must continue operations against active terrorist threats.<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/middle-east/article-904379\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/725404",
-      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/725404",
-      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/725404",
+      "title": "Tremors felt in southern Israel after magnitude 5.6 earthquake strikes Egypt, no damage reported",
+      "url": "https://www.jpost.com/middle-east/article-904384",
+      "date": "2026-08-03T03:28:00+00:00",
+      "author": "BY REUTERS AND JERUSALEM POST STAFF",
+      "summary": "The earthquake had a magnitude of 5.4 and hit at a depth of 6 miles, according to the German Research Centre for Geosciences.",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"Israelis hike at Nahal Hava in the Negev, southern Israel, January 30, 2026; Illustrative. (photo credit: YANIV NADAV/FLASH90)\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2667,w_4000/731019\" title=\"Israelis hike at Nahal Hava in the Negev, southern Israel, January 30, 2026; Illustrative. (photo credit: YANIV NADAV/FLASH90)\" /><br />The earthquake had a magnitude of 5.4 and hit at a depth of 6 miles, according to the German Research Centre for Geosciences.<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/middle-east/article-904384\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/731019",
+      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/731019",
+      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/731019",
       "commentsEnabled": false,
       "categories": [
         "Israel & Middle East"
       ],
       "images": [
         {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/725404",
-          "id": "img-092806ab37d6"
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/731019",
+          "id": "img-5d3ce2ce8dde"
+        }
+      ]
+    },
+    {
+      "id": "4fe45de88217",
+      "type": "article",
+      "subtype": "custom",
+      "title": "Waiting for God",
+      "url": "https://odb.org/2026/08/03/",
+      "date": "2026-08-03T00:00:00+00:00",
+      "author": "Poh Fang Chia",
+      "summary": "Kazuto and his wife Migiwa waited with trepidation for the ultrasound exam results. Migiwa&rsquo;s liver had been failing for more than nine months, and she urgently needed a liver transplant. Kazuto could donate a portion of his liver to his wife, but there was one condition: Migiwa&rsquo;s heart h",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Devotional | Our Daily Bread</span>\n                </div>\n                <p>Kazuto and his wife Migiwa waited with trepidation for the ultrasound exam results. Migiwa&rsquo;s liver had been failing for more than nine months, and she urgently needed a liver transplant. Kazuto could donate a portion of his liver to his wife, but there was one condition: Migiwa&rsquo;s heart had to be strong. The last ultrasound had shown slight improvement to her heart. Would it show more this time?</p>\n<p>To their disappointment, the results were the worst yet. Kazuto shared: &ldquo;After I comforted my crying wife, I also cried by myself. But . . . waiting isn&rsquo;t a waste of time because God is nurturing something wonderful . . . while we wait, even though we can&rsquo;t see anything on the surface.&rdquo;</p>\n<p>Kazuto&rsquo;s confidence in God paralleled that of King David, who wrote, &ldquo;Wait&nbsp;for the&nbsp;Lord; be strong&nbsp;and take heart and wait for the&nbsp;Lord&rdquo; (Psalm 27:14). Because God is our &ldquo;light&rdquo;, &ldquo;salvation&rdquo;, and &ldquo;stronghold&rdquo; (v. 1), we can trust Him to offer hope amid darkness (v. 3), comfort us during our trials (v. 13), and secure us safely in &ldquo;his dwelling&rdquo; (v. 5).</p>\n<p>When God seems to delay in answering our prayers, we can still put our complete trust in His unchanging attributes. As we bring our heartaches to Him, let&rsquo;s also instruct our hearts: &ldquo;Be strong and take heart and wait for the Lord&rdquo; (v. 14). He is with us and always working for our good.</p>\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://odb.org/2026/08/03/\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
+      "smallThumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
+      "largeThumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
+      "commentsEnabled": false,
+      "categories": [
+        "Devotional"
+      ],
+      "images": [
+        {
+          "url": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
+          "id": "img-4fe45de88217"
         }
       ]
     },
@@ -237,30 +261,6 @@
         {
           "url": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
           "id": "img-ab99e4210ca8"
-        }
-      ]
-    },
-    {
-      "id": "23ef767d9cd8",
-      "type": "article",
-      "subtype": "custom",
-      "title": "God’s Better Country",
-      "url": "https://odb.org/2026/08/01/",
-      "date": "2026-08-01T00:00:00+00:00",
-      "author": "Amy Boucher Pye",
-      "summary": "Michele experienced a mixture of emotions as her father neared the end of his life. She grieved when he said, &ldquo;Honey, I won&rsquo;t be here to walk you down the aisle.&rdquo; But she assured him of her love, clinging to the hope she found in Hebrews 11 as she said: &ldquo;You&rsquo;re heading",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Devotional | Our Daily Bread</span>\n                </div>\n                <p>Michele experienced a mixture of emotions as her father neared the end of his life. She grieved when he said, &ldquo;Honey, I won&rsquo;t be here to walk you down the aisle.&rdquo; But she assured him of her love, clinging to the hope she found in Hebrews 11 as she said: &ldquo;You&rsquo;re heading for a better country, a country in heaven.&rdquo; Michele believed that her dad, when he died, would be with God forever. She reflected, &ldquo;Heaven will be <em>that</em> good!&rdquo;</p>\n<p>The letter to the Hebrews was aimed at the Jewish believers experiencing persecution by state and religious opponents. Although it was written before the destruction of the temple in <span>ad</span> 70, the fall of Jerusalem to the Romans may have occurred soon after. In this climate of fear, the author urged the believers to hold firm to their faith as he highlighted a great &ldquo;cloud of witnesses&rdquo; (Hebrews 12:1). Each &ldquo;did not receive the things promised; they only saw them and welcomed them from a distance&rdquo; (Hebrews 11:13). They lived by faith, &ldquo;longing for a better country&mdash;a heavenly one.&rdquo; God was pleased to be called their God, and He &ldquo;prepared a city for them&rdquo; (v. 16).</p>\n<p>Although Michele ached with sadness when her father died, she embraced the promises of her heavenly Father. We too can welcome these same promises &ldquo;from a distance&rdquo; (v. 13), trusting in God.</p>\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://odb.org/2026/08/01/\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
-      "smallThumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
-      "largeThumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
-      "commentsEnabled": false,
-      "categories": [
-        "Devotional"
-      ],
-      "images": [
-        {
-          "url": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
-          "id": "img-23ef767d9cd8"
         }
       ]
     },
@@ -337,26 +337,26 @@
       ]
     },
     {
-      "id": "8235f9f0d40a",
+      "id": "7f320adbb79c",
       "type": "article",
       "subtype": "custom",
-      "title": "Can Christians Lose Their Salvation? Pastor Josh Howerton Discusses Eternal Security",
-      "url": "https://churchleaders.com/news/2220817-christians-lose-salvation-pastor-josh-howerton-eternal-security.html",
-      "date": "2026-07-31T21:47:09+00:00",
-      "author": "Jessica Mouser",
-      "summary": "Pastor Josh Howerton and Pastors Paul Cunningham and Carlos Erazo discussed in a recent podcast whether or not Christians can lose their salvation.",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Leadership | Church Leaders</span>\n                </div>\n                <p><img alt=\"Josh Howerton\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"428\" src=\"https://cdn.churchleaders.com/wp-content/uploads/2026/07/josh-howerton-lakepointe.jpg\" width=\"642\" /></p>Pastor Josh Howerton and Pastors Paul Cunningham and Carlos Erazo discussed in a recent podcast whether or not Christians can lose their salvation.\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://churchleaders.com/news/2220817-christians-lose-salvation-pastor-josh-howerton-eternal-security.html\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://cdn.churchleaders.com/wp-content/uploads/2026/07/josh-howerton-lakepointe.jpg",
-      "smallThumbnail": "https://cdn.churchleaders.com/wp-content/uploads/2026/07/josh-howerton-lakepointe.jpg",
-      "largeThumbnail": "https://cdn.churchleaders.com/wp-content/uploads/2026/07/josh-howerton-lakepointe.jpg",
+      "title": "In-N-Out Owner Lynsi Snyder Urges People to ‘Turn to God’ After Deadly Idaho Mass Shooting",
+      "url": "https://churchleaders.com/news/2220825-in-n-out-owner-lynsi-snyder-turn-to-god-mass-shooting.html",
+      "date": "2026-08-02T23:17:55+00:00",
+      "author": "Jesse T. Jackson",
+      "summary": "In-N-Out Burger owner and President Lynsi Snyder released a statement asking people to “turn to God” following a mass shooting at one of her restaurants in Twin Falls, Idaho.",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Leadership | Church Leaders</span>\n                </div>\n                <p><img alt=\"In-N-Out Lynsi Snyder\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"461\" src=\"https://cdn.churchleaders.com/wp-content/uploads/2026/08/innout-statement.jpg\" width=\"691\" /></p>In-N-Out Burger owner and President Lynsi Snyder released a statement asking people to “turn to God” following a mass shooting at one of her restaurants in Twin Falls, Idaho.\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://churchleaders.com/news/2220825-in-n-out-owner-lynsi-snyder-turn-to-god-mass-shooting.html\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://cdn.churchleaders.com/wp-content/uploads/2026/08/innout-statement.jpg",
+      "smallThumbnail": "https://cdn.churchleaders.com/wp-content/uploads/2026/08/innout-statement.jpg",
+      "largeThumbnail": "https://cdn.churchleaders.com/wp-content/uploads/2026/08/innout-statement.jpg",
       "commentsEnabled": false,
       "categories": [
         "Leadership"
       ],
       "images": [
         {
-          "url": "https://cdn.churchleaders.com/wp-content/uploads/2026/07/josh-howerton-lakepointe.jpg",
-          "id": "img-8235f9f0d40a"
+          "url": "https://cdn.churchleaders.com/wp-content/uploads/2026/08/innout-statement.jpg",
+          "id": "img-7f320adbb79c"
         }
       ]
     },
@@ -553,50 +553,50 @@
       ]
     },
     {
-      "id": "44251fefc224",
+      "id": "73da341c9d74",
       "type": "article",
       "subtype": "custom",
-      "title": "✝ One Woman. 600 Swords. | The Moment Anger Almost Destroyed a King#shorts #history #bible #chirstian",
-      "url": "https://www.youtube.com/shorts/_uvKOVS-54Y",
-      "date": "2026-08-02T21:50:11.264748+00:00",
+      "title": "✝ The Manger Foreshadows the Cross #history #jesuschrist #christianshorts #bible  #chrsitian #jesus",
+      "url": "https://www.youtube.com/shorts/UbY3jAliAvc",
+      "date": "2026-08-03T02:13:31.243277+00:00",
       "author": "Truth Is Calling",
-      "summary": "Watch this YouTube Short from Truth Is Calling: One Woman. 600 Swords. | The Moment Anger Almost Destroyed a King#shorts #history #bible #chirstian",
-      "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | YouTube Short</span>\n                </div>\n                <p><strong>One Woman. 600 Swords. | The Moment Anger Almost Destroyed a King#shorts #history #bible #chirstian</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"560\" \n                    src=\"https://www.youtube.com/embed/_uvKOVS-54Y\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\"><a href=\"https://www.youtube.com/shorts/_uvKOVS-54Y\" style=\"color: #c9a84c; font-weight: bold;\">Watch on YouTube →</a></p>\n            </div>\n            ",
-      "thumbnail": "https://img.youtube.com/vi/_uvKOVS-54Y/maxresdefault.jpg",
-      "smallThumbnail": "https://img.youtube.com/vi/_uvKOVS-54Y/maxresdefault.jpg",
-      "largeThumbnail": "https://img.youtube.com/vi/_uvKOVS-54Y/maxresdefault.jpg",
+      "summary": "Watch this YouTube Short from Truth Is Calling: The Manger Foreshadows the Cross #history #jesuschrist #christianshorts #bible  #chrsitian #jesus",
+      "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | YouTube Short</span>\n                </div>\n                <p><strong>The Manger Foreshadows the Cross #history #jesuschrist #christianshorts #bible  #chrsitian #jesus</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"560\" \n                    src=\"https://www.youtube.com/embed/UbY3jAliAvc\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\"><a href=\"https://www.youtube.com/shorts/UbY3jAliAvc\" style=\"color: #c9a84c; font-weight: bold;\">Watch on YouTube →</a></p>\n            </div>\n            ",
+      "thumbnail": "https://img.youtube.com/vi/UbY3jAliAvc/maxresdefault.jpg",
+      "smallThumbnail": "https://img.youtube.com/vi/UbY3jAliAvc/maxresdefault.jpg",
+      "largeThumbnail": "https://img.youtube.com/vi/UbY3jAliAvc/maxresdefault.jpg",
       "commentsEnabled": false,
       "categories": [
         "Your Shorts"
       ],
       "images": [
         {
-          "url": "https://img.youtube.com/vi/_uvKOVS-54Y/maxresdefault.jpg",
-          "id": "img-44251fefc224"
+          "url": "https://img.youtube.com/vi/UbY3jAliAvc/maxresdefault.jpg",
+          "id": "img-73da341c9d74"
         }
       ]
     },
     {
-      "id": "0469425c3af1",
+      "id": "3b0053f6dc1a",
       "type": "article",
       "subtype": "custom",
-      "title": "✝ When Zeal Turned to Bloodshed: The Curse of Simeon and Levi #shorts #levi #simeon #viral #video",
-      "url": "https://www.youtube.com/shorts/oQ0PbC44T5U",
-      "date": "2026-08-02T21:50:11.264770+00:00",
+      "title": "✝ The Birth Story You Were Never Taught| Migdal Eder \\u0026 the Shepherds of Bethlehem #jesus #bible #viral",
+      "url": "https://www.youtube.com/shorts/DGcpkHp2nYY",
+      "date": "2026-08-03T02:13:31.243300+00:00",
       "author": "Truth Is Calling",
-      "summary": "Watch this YouTube Short from Truth Is Calling: When Zeal Turned to Bloodshed: The Curse of Simeon and Levi #shorts #levi #simeon #viral #video",
-      "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | YouTube Short</span>\n                </div>\n                <p><strong>When Zeal Turned to Bloodshed: The Curse of Simeon and Levi #shorts #levi #simeon #viral #video</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"560\" \n                    src=\"https://www.youtube.com/embed/oQ0PbC44T5U\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\"><a href=\"https://www.youtube.com/shorts/oQ0PbC44T5U\" style=\"color: #c9a84c; font-weight: bold;\">Watch on YouTube →</a></p>\n            </div>\n            ",
-      "thumbnail": "https://img.youtube.com/vi/oQ0PbC44T5U/maxresdefault.jpg",
-      "smallThumbnail": "https://img.youtube.com/vi/oQ0PbC44T5U/maxresdefault.jpg",
-      "largeThumbnail": "https://img.youtube.com/vi/oQ0PbC44T5U/maxresdefault.jpg",
+      "summary": "Watch this YouTube Short from Truth Is Calling: The Birth Story You Were Never Taught| Migdal Eder \\u0026 the Shepherds of Bethlehem #jesus #bible #viral",
+      "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | YouTube Short</span>\n                </div>\n                <p><strong>The Birth Story You Were Never Taught| Migdal Eder \\u0026 the Shepherds of Bethlehem #jesus #bible #viral</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"560\" \n                    src=\"https://www.youtube.com/embed/DGcpkHp2nYY\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\"><a href=\"https://www.youtube.com/shorts/DGcpkHp2nYY\" style=\"color: #c9a84c; font-weight: bold;\">Watch on YouTube →</a></p>\n            </div>\n            ",
+      "thumbnail": "https://img.youtube.com/vi/DGcpkHp2nYY/maxresdefault.jpg",
+      "smallThumbnail": "https://img.youtube.com/vi/DGcpkHp2nYY/maxresdefault.jpg",
+      "largeThumbnail": "https://img.youtube.com/vi/DGcpkHp2nYY/maxresdefault.jpg",
       "commentsEnabled": false,
       "categories": [
         "Your Shorts"
       ],
       "images": [
         {
-          "url": "https://img.youtube.com/vi/oQ0PbC44T5U/maxresdefault.jpg",
-          "id": "img-0469425c3af1"
+          "url": "https://img.youtube.com/vi/DGcpkHp2nYY/maxresdefault.jpg",
+          "id": "img-3b0053f6dc1a"
         }
       ]
     }
