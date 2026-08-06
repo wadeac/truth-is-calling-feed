@@ -153,7 +153,7 @@
       "date": "2026-08-05T22:01:56+00:00",
       "author": "BY REUTERS AND JERUSALEM POST STAFF",
       "summary": "The comments followed a report by Iran’s Tabnak media site on Monday saying that Khamenei warned Pezeshkian that he (Khamenei) would accept the Iranian president's resignation if he resubmits it.",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"Iran\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/702338\" /><br />The comments followed a report by Iran’s Tabnak media site on Monday saying that Khamenei warned Pezeshkian that he (Khamenei) would accept the Iranian president's resignation if he resubmits it.<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/middle-east/iran-news/article-904704\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"Iran\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3995,w_5500/702338\" /><br />The comments followed a report by Iran’s Tabnak media site on Monday saying that Khamenei warned Pezeshkian that he (Khamenei) would accept the Iranian president's resignation if he resubmits it.<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/middle-east/iran-news/article-904704\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
       "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/702338",
       "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/702338",
       "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/702338",
@@ -169,50 +169,74 @@
       ]
     },
     {
-      "id": "1d4e3911d6ae",
+      "id": "d02984ddda2c",
       "type": "article",
       "subtype": "custom",
-      "title": "Several activists returned to Israel, transfered to police after crossing border into Lebanon",
-      "url": "https://www.jpost.com/israel-news/article-904709",
-      "date": "2026-08-05T23:04:52+00:00",
-      "author": "BY AMIR BOHBOT AND JERUSALEM POST STAFF",
-      "summary": "The activists claimed that they remained within Lebanese territory for hours before they were located by authorities and transferred to the Israel Police.",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"Israeli soldiers are seen inside southern Lebanon as seen from the Israeli side of the border, June 7, 2026.  (photo credit: AYAL MARGOLIN/FLASH90)\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2422,w_3633/725483\" title=\"Israeli soldiers are seen inside southern Lebanon as seen from the Israeli side of the border, June 7, 2026.  (photo credit: AYAL MARGOLIN/FLASH90)\" /><br />The activists claimed that they remained within Lebanese territory for hours before they were located by authorities and transferred to the Israel Police.<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/israel-news/article-904709\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/725483",
-      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/725483",
-      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/725483",
+      "title": "IDF launches precise strikes in southern Lebanon in retaliation for Hezbollah ceasefire violations",
+      "url": "https://www.jpost.com/middle-east/article-904682",
+      "date": "2026-08-05T16:27:15+00:00",
+      "author": "BY SARAH BEN-NUN AND JERUSALEM POST STAFF",
+      "summary": "Prior to the strikes, the IDF issued an evacuation warning for civilians present in the targeted areas for the first time since June.",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"Smoke rises from southern Lebanon during an Israeli military operation, July 30, 2026. (photo credit: AYAL MARGOLIN/FLASH90)\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3000,w_4500/732210\" title=\"Smoke rises from southern Lebanon during an Israeli military operation, July 30, 2026. (photo credit: AYAL MARGOLIN/FLASH90)\" /><br />Prior to the strikes, the IDF issued an evacuation warning for civilians present in the targeted areas for the first time since June.<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/middle-east/article-904682\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/732210",
+      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/732210",
+      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/732210",
       "commentsEnabled": false,
       "categories": [
         "Israel & Middle East"
       ],
       "images": [
         {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/725483",
-          "id": "img-1d4e3911d6ae"
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/732210",
+          "id": "img-d02984ddda2c"
         }
       ]
     },
     {
-      "id": "f2c4d25a4784",
+      "id": "d6c0e550cbe9",
       "type": "article",
       "subtype": "custom",
-      "title": "Figures who justified October 7 advised CMHR Nakba exhibit, B'nai Brith finds - exclusive",
-      "url": "https://www.jpost.com/diaspora/antisemitism/article-904702",
-      "date": "2026-08-05T21:09:19+00:00",
-      "author": "BY MATHILDA HELLER",
-      "summary": "Several people involved with shaping the exhibit belong to CPAM, a group that accused Israel of stealing the organs of dead Palestinians in Gaza, a statement classified by the IHRA as a blood libel.",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"Aerial view of the Canadian Museum for Human Rights, in Winnipeg, Manitoba, Canada, on April 28, 2024.  (photo credit: SEBASTIEN ST-JEAN/AFP via Getty Images)\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2962,w_5272/732885\" title=\"Aerial view of the Canadian Museum for Human Rights, in Winnipeg, Manitoba, Canada, on April 28, 2024.  (photo credit: SEBASTIEN ST-JEAN/AFP via Getty Images)\" /><br />Several people involved with shaping the exhibit belong to CPAM, a group that accused Israel of stealing the organs of dead Palestinians in Gaza, a statement classified by the IHRA as a blood libel.<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/diaspora/antisemitism/article-904702\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/732885",
-      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/732885",
-      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/732885",
+      "title": "US removes counter-terrorism designation from IRGC-linked company",
+      "url": "https://www.jpost.com/international/article-904712",
+      "date": "2026-08-06T02:11:30+00:00",
+      "author": "BY LEO FEIERBERG BETTER AND REUTERS",
+      "summary": "A Treasury Department official said that the removal of sanctions was not indicative of a shift in US policy towards Iran or the IRGC, or negotiations to end the conflict in the Middle East.",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\" The United States Department of the Treasury is seen in Washington, DC, US, August 30, 2020. (photo credit: Andrew Kelly/Reuters)\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4480,w_6720/502020\" title=\" The United States Department of the Treasury is seen in Washington, DC, US, August 30, 2020. (photo credit: Andrew Kelly/Reuters)\" /><br />A Treasury Department official said that the removal of sanctions was not indicative of a shift in US policy towards Iran or the IRGC, or negotiations to end the conflict in the Middle East.<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/international/article-904712\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/502020",
+      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/502020",
+      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/502020",
       "commentsEnabled": false,
       "categories": [
         "Israel & Middle East"
       ],
       "images": [
         {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/732885",
-          "id": "img-f2c4d25a4784"
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/502020",
+          "id": "img-d6c0e550cbe9"
+        }
+      ]
+    },
+    {
+      "id": "022906261b47",
+      "type": "article",
+      "subtype": "custom",
+      "title": "Part of God’s Story",
+      "url": "https://odb.org/2026/08/06/",
+      "date": "2026-08-06T00:00:00+00:00",
+      "author": "Kirsten Holmberg",
+      "summary": "Archaeologist Jodi Magness and her team have been excavating a synagogue in the ancient village of Huqoq in Lower Galilee where they&rsquo;ve found an incredible collection of mosaics, paintings, and carvings. Particularly rare, however, is a mosaic telling the biblical story of Deborah and her role",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Devotional | Our Daily Bread</span>\n                </div>\n                <p>Archaeologist Jodi Magness and her team have been excavating a synagogue in the ancient village of Huqoq in Lower Galilee where they&rsquo;ve found an incredible collection of mosaics, paintings, and carvings. Particularly rare, however, is a mosaic telling the biblical story of Deborah and her role in Israel&rsquo;s battle against the Canaanites; there&rsquo;s no other known ancient depiction of this heroine.</p>\n<p>During twenty years of oppression by Canaan, Deborah, a prophetess, &ldquo;was leading&nbsp;Israel&rdquo; (Judges 4:4). At God&rsquo;s prompting, Deborah urged Israel&rsquo;s general Barak to mount an attack on the Canaanite forces and their commander, Sisera. Barak heeded God&rsquo;s instructions to &ldquo;take . . . ten thousand men of Naphtali&nbsp;and Zebulun&nbsp;and lead them up to Mount Tabor&rdquo; (v. 6) and Deborah lured the enemy&rsquo;s army to the area. The Canaanite troops indeed fell in the battle, and though Sisera initially fled on foot, he too ultimately met his demise. &ldquo;On that day God subdued . . . Canaan before the Israelites&rdquo; (v. 23) through the courageous obedience of Deborah and Barak.</p>\n<p>The Bible preserves for us a literary mosaic of historical events in the life of God&rsquo;s people&mdash;collectively and individually. Through it we&rsquo;re offered examples from which we can glean courage to heed God&rsquo;s instructions even in the face of hardship and struggle. We can trust Him to equip us with the strength to do so.</p>\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://odb.org/2026/08/06/\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
+      "smallThumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
+      "largeThumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
+      "commentsEnabled": false,
+      "categories": [
+        "Devotional"
+      ],
+      "images": [
+        {
+          "url": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
+          "id": "img-022906261b47"
         }
       ]
     },
@@ -237,30 +261,6 @@
         {
           "url": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
           "id": "img-1c7e004f45d5"
-        }
-      ]
-    },
-    {
-      "id": "baf42e17924d",
-      "type": "article",
-      "subtype": "custom",
-      "title": "The Help God Provides",
-      "url": "https://odb.org/2026/08/04/",
-      "date": "2026-08-04T00:00:00+00:00",
-      "author": "James Banks",
-      "summary": "When commercial fisherman Scott Thompson fell out of his boat one moonless night in the Santa Barbara Channel off the California coast, he didn&rsquo;t know if he&rsquo;d survive. He swam hard after the boat, but the motor was running and he couldn&rsquo;t reach it. So he attempted swimming to a dis",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Devotional | Our Daily Bread</span>\n                </div>\n                <p>When commercial fisherman Scott Thompson fell out of his boat one moonless night in the Santa Barbara Channel off the California coast, he didn&rsquo;t know if he&rsquo;d survive. He swam hard after the boat, but the motor was running and he couldn&rsquo;t reach it. So he attempted swimming to a distant oil platform in the darkness. Beginning to lose hope, Thompson heard a splash in the cold water near him. A harbor seal swam with him for a while, nudging him along toward the platform. Five hours later, Thompson completed the long swim and described the seal as &ldquo;an angel&rdquo; sent to help him.</p>\n<p>The writer of the book of Hebrews describes angels as &ldquo;ministering spirits sent to serve those who will inherit salvation&rdquo; (Hebrews 1:14). The passage highlights the greatness of Jesus and emphasizes that angels&mdash;wonderful and glorious beings that they are&mdash;exist to further His purposes in saving us. Jesus sustains &ldquo;all things by his powerful word&rdquo; (v. 3).</p>\n<p>All around us is an unseen reality in which God sends angels to aid those who have gladly received the good news of Jesus. Sometimes our nights may be long, and we may wonder if we can keep going. But He&rsquo;ll always give us the help we need&mdash;help that will nudge us on in Him.</p>\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://odb.org/2026/08/04/\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
-      "smallThumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
-      "largeThumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
-      "commentsEnabled": false,
-      "categories": [
-        "Devotional"
-      ],
-      "images": [
-        {
-          "url": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
-          "id": "img-baf42e17924d"
         }
       ]
     },
@@ -553,50 +553,50 @@
       ]
     },
     {
-      "id": "592b34b11164",
+      "id": "88d591a5d442",
       "type": "article",
       "subtype": "custom",
-      "title": "✝ A Forgotten Pattern in the Life of Christ #jesus #jesuschrist #bible #christian #christmas #history",
-      "url": "https://www.youtube.com/shorts/zvX2b8MHzx0",
-      "date": "2026-08-05T22:07:42.445111+00:00",
+      "title": "✝ God’s Hidden Guidance in the Nativity Story #jesuschrist #bible #christianshorts #bible #jesus",
+      "url": "https://www.youtube.com/shorts/d6Q68sxQZN4",
+      "date": "2026-08-06T02:02:18.049582+00:00",
       "author": "Truth Is Calling",
-      "summary": "Watch this YouTube Short from Truth Is Calling: A Forgotten Pattern in the Life of Christ #jesus #jesuschrist #bible #christian #christmas #history",
-      "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | YouTube Short</span>\n                </div>\n                <p><strong>A Forgotten Pattern in the Life of Christ #jesus #jesuschrist #bible #christian #christmas #history</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"560\" \n                    src=\"https://www.youtube.com/embed/zvX2b8MHzx0\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\"><a href=\"https://www.youtube.com/shorts/zvX2b8MHzx0\" style=\"color: #c9a84c; font-weight: bold;\">Watch on YouTube →</a></p>\n            </div>\n            ",
-      "thumbnail": "https://img.youtube.com/vi/zvX2b8MHzx0/maxresdefault.jpg",
-      "smallThumbnail": "https://img.youtube.com/vi/zvX2b8MHzx0/maxresdefault.jpg",
-      "largeThumbnail": "https://img.youtube.com/vi/zvX2b8MHzx0/maxresdefault.jpg",
+      "summary": "Watch this YouTube Short from Truth Is Calling: God’s Hidden Guidance in the Nativity Story #jesuschrist #bible #christianshorts #bible #jesus",
+      "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | YouTube Short</span>\n                </div>\n                <p><strong>God’s Hidden Guidance in the Nativity Story #jesuschrist #bible #christianshorts #bible #jesus</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"560\" \n                    src=\"https://www.youtube.com/embed/d6Q68sxQZN4\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\"><a href=\"https://www.youtube.com/shorts/d6Q68sxQZN4\" style=\"color: #c9a84c; font-weight: bold;\">Watch on YouTube →</a></p>\n            </div>\n            ",
+      "thumbnail": "https://img.youtube.com/vi/d6Q68sxQZN4/maxresdefault.jpg",
+      "smallThumbnail": "https://img.youtube.com/vi/d6Q68sxQZN4/maxresdefault.jpg",
+      "largeThumbnail": "https://img.youtube.com/vi/d6Q68sxQZN4/maxresdefault.jpg",
       "commentsEnabled": false,
       "categories": [
         "Your Shorts"
       ],
       "images": [
         {
-          "url": "https://img.youtube.com/vi/zvX2b8MHzx0/maxresdefault.jpg",
-          "id": "img-592b34b11164"
+          "url": "https://img.youtube.com/vi/d6Q68sxQZN4/maxresdefault.jpg",
+          "id": "img-88d591a5d442"
         }
       ]
     },
     {
-      "id": "8eec9034fefc",
+      "id": "f6baccae6a72",
       "type": "article",
       "subtype": "custom",
-      "title": "✝ The One Word That Reveals Who You Believe Jesus Is",
-      "url": "https://www.youtube.com/shorts/bvceZ0rrmZ4",
-      "date": "2026-08-05T22:07:42.445133+00:00",
+      "title": "✝ The Day the Carpenter Walked Away | Why Jesus Left Everything Behind",
+      "url": "https://www.youtube.com/shorts/Ryn4WEJ7WRw",
+      "date": "2026-08-06T02:02:18.049603+00:00",
       "author": "Truth Is Calling",
-      "summary": "Watch this YouTube Short from Truth Is Calling: The One Word That Reveals Who You Believe Jesus Is",
-      "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | YouTube Short</span>\n                </div>\n                <p><strong>The One Word That Reveals Who You Believe Jesus Is</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"560\" \n                    src=\"https://www.youtube.com/embed/bvceZ0rrmZ4\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\"><a href=\"https://www.youtube.com/shorts/bvceZ0rrmZ4\" style=\"color: #c9a84c; font-weight: bold;\">Watch on YouTube →</a></p>\n            </div>\n            ",
-      "thumbnail": "https://img.youtube.com/vi/bvceZ0rrmZ4/maxresdefault.jpg",
-      "smallThumbnail": "https://img.youtube.com/vi/bvceZ0rrmZ4/maxresdefault.jpg",
-      "largeThumbnail": "https://img.youtube.com/vi/bvceZ0rrmZ4/maxresdefault.jpg",
+      "summary": "Watch this YouTube Short from Truth Is Calling: The Day the Carpenter Walked Away | Why Jesus Left Everything Behind",
+      "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | YouTube Short</span>\n                </div>\n                <p><strong>The Day the Carpenter Walked Away | Why Jesus Left Everything Behind</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"560\" \n                    src=\"https://www.youtube.com/embed/Ryn4WEJ7WRw\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\"><a href=\"https://www.youtube.com/shorts/Ryn4WEJ7WRw\" style=\"color: #c9a84c; font-weight: bold;\">Watch on YouTube →</a></p>\n            </div>\n            ",
+      "thumbnail": "https://img.youtube.com/vi/Ryn4WEJ7WRw/maxresdefault.jpg",
+      "smallThumbnail": "https://img.youtube.com/vi/Ryn4WEJ7WRw/maxresdefault.jpg",
+      "largeThumbnail": "https://img.youtube.com/vi/Ryn4WEJ7WRw/maxresdefault.jpg",
       "commentsEnabled": false,
       "categories": [
         "Your Shorts"
       ],
       "images": [
         {
-          "url": "https://img.youtube.com/vi/bvceZ0rrmZ4/maxresdefault.jpg",
-          "id": "img-8eec9034fefc"
+          "url": "https://img.youtube.com/vi/Ryn4WEJ7WRw/maxresdefault.jpg",
+          "id": "img-f6baccae6a72"
         }
       ]
     }
