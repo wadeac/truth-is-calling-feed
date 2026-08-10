@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "25f8ed80a527",
+      "type": "article",
+      "subtype": "custom",
+      "title": "After Aid Cuts, US Announces $2 Billion for Christian Groups",
+      "url": "https://www.christianitytoday.com/2026/08/world-vision-usaid-cuts-christian-ngos-trump-hiv/",
+      "date": "2026-08-10T18:22:45+00:00",
+      "author": "Emily Belz",
+      "summary": "After making deep cuts in global health, food assistance, and other foreign aid based on allegations of fraud and abuse in USAID, the Trump administration announced $2 billion in humanitarian-aid funding for faith-based groups, with a consortium of US Christian organizations overseeing $1.4 billion.",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 News | Christianity Today</span>\n                </div>\n                <p>After making deep cuts in global health, food assistance, and other foreign aid based on allegations of fraud and abuse in USAID, the Trump administration announced $2 billion in humanitarian-aid funding for faith-based groups, with a consortium of US Christian organizations overseeing $1.4 billion.  World Vision will oversee one US-funded consortium providing health services and <a class=\"more-link\" href=\"https://www.christianitytoday.com/2026/08/world-vision-usaid-cuts-christian-ngos-trump-hiv/\">Read more...</a></p>\n<p>The post <a href=\"https://www.christianitytoday.com/2026/08/world-vision-usaid-cuts-christian-ngos-trump-hiv/\">After Aid Cuts, US Announces $2 Billion for Christian Groups</a> appeared first on <a href=\"https://www.christianitytoday.com\">Christianity Today</a>.</p>\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.christianitytoday.com/2026/08/world-vision-usaid-cuts-christian-ngos-trump-hiv/\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://www.christianitytoday.com/wp-content/uploads/2026/08/world-vision-white-house-usaid.jpeg?resize=1200,628",
+      "smallThumbnail": "https://www.christianitytoday.com/wp-content/uploads/2026/08/world-vision-white-house-usaid.jpeg?resize=1200,628",
+      "largeThumbnail": "https://www.christianitytoday.com/wp-content/uploads/2026/08/world-vision-white-house-usaid.jpeg?resize=1200,628",
+      "commentsEnabled": false,
+      "categories": [
+        "News"
+      ],
+      "images": [
+        {
+          "url": "https://www.christianitytoday.com/wp-content/uploads/2026/08/world-vision-white-house-usaid.jpeg?resize=1200,628",
+          "id": "img-25f8ed80a527"
+        }
+      ]
+    },
+    {
       "id": "20140023da15",
       "type": "article",
       "subtype": "custom",
@@ -25,26 +49,26 @@
       ]
     },
     {
-      "id": "4b64469a632d",
+      "id": "ec4df7eb435f",
       "type": "article",
       "subtype": "custom",
-      "title": "Adam Hamilton, Megachurch Pastor, Won a Democratic Senate Primary. Now Comes the Hard Part.",
-      "url": "https://www.christianitytoday.com/2026/08/adam-hamilton-united-methodist-pastor-democrat-senate-primary-kansas/",
-      "date": "2026-08-07T13:43:18+00:00",
-      "author": "Andy Olsen",
-      "summary": "Adam Hamilton, pastor of the largest United Methodist church in the United States, is about to test whether a pastor running as a Democrat can flip a red seat—and become Kansas’ first Democratic senator in nearly a century. The Associated Press called the race for Hamilton within minutes of polls cl",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 News | Christianity Today</span>\n                </div>\n                <p>Adam Hamilton, pastor of the largest United Methodist church in the United States, is about to test whether a pastor running as a Democrat can flip a red seat—and become Kansas’ first Democratic senator in nearly a century. The Associated Press called the race for Hamilton within minutes of polls closing on August 4, with <a class=\"more-link\" href=\"https://www.christianitytoday.com/2026/08/adam-hamilton-united-methodist-pastor-democrat-senate-primary-kansas/\">Read more...</a></p>\n<p>The post <a href=\"https://www.christianitytoday.com/2026/08/adam-hamilton-united-methodist-pastor-democrat-senate-primary-kansas/\">Adam Hamilton, Megachurch Pastor, Won a Democratic Senate Primary. Now Comes the Hard Part.</a> appeared first on <a href=\"https://www.christianitytoday.com\">Christianity Today</a>.</p>\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.christianitytoday.com/2026/08/adam-hamilton-united-methodist-pastor-democrat-senate-primary-kansas/\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://www.christianitytoday.com/wp-content/uploads/2026/08/Adam-Hamilton-Megachurch-Pastor-Wins-Primary.jpg?resize=1200,628",
-      "smallThumbnail": "https://www.christianitytoday.com/wp-content/uploads/2026/08/Adam-Hamilton-Megachurch-Pastor-Wins-Primary.jpg?resize=1200,628",
-      "largeThumbnail": "https://www.christianitytoday.com/wp-content/uploads/2026/08/Adam-Hamilton-Megachurch-Pastor-Wins-Primary.jpg?resize=1200,628",
+      "title": "Major US City Becomes First in Country to Hand 911 Calls Over to AI Bot",
+      "url": "https://www.faithwire.com/2026/08/10/major-us-city-becomes-first-in-country-to-hand-911-calls-over-to-ai-bot/",
+      "date": "2026-08-10T17:45:49+00:00",
+      "author": "Tré Goins-Phillips",
+      "summary": "\"I wonder what happens...\"",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 News | Faithwire</span>\n                </div>\n                <p class=\"wp-block-paragraph\">New Orleans has become the first city in the U.S. to send 911 callers to an AI bot.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Receiving more than 1,000 emergency calls every day, the Orleans Parish Communications District <a href=\"https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/?gnt-cfr=1&amp;gca-cat=p&amp;gca-uir=true&amp;gca-epti=z119748p000250c000250e000200v119748d--97--b--97--&amp;gca-ft=29&amp;gca-ds=sophi\" rel=\"noreferrer noopener\" target=\"_blank\">announced late last month</a> it is now routing many calls through at artificial intelligence system that determines who needs to be connected immediately to a human dispatcher and who can be assisted by a bot.</p>\n\n\n\n<p class=\"wp-block-paragraph\"><strong><em>Listen to the latest&nbsp;episode&nbsp;of “Quick Start” <img alt=\"👇\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/17.0.2/72x72/1f447.png\" style=\"height: 1em;\" /></em></strong></p>\n\n\n\n\n\n\n\n<p class=\"wp-block-paragraph\">The system, AI Emergency Call Triage, went through a trial run via the OPCD&#8217;s non-emergency 311 line before going live on the main 911 line at the end of July.</p>\n\n\n\n<p class=\"wp-block-paragraph\">According to the Shreveport Times, the AI tool monitors the contents of each call and filters out the urgent needs to alleviate strain on human dispatchers, keeping them from fielding redundant and low-priority requests.</p>\n\n\n\n<p class=\"wp-block-paragraph\">OPCD Executive Director Karl Fasold <a href=\"https://www.wwltv.com/article/news/local/public-safety/new-orleans-911-agency-pushes-back-on-report-claiming-ai-is-replacing-human-operators/289-0739dde8-36ea-4bc2-8b28-753ccde141b9\" rel=\"noreferrer noopener\" target=\"_blank\">explained</a> callers will only be routed to the AI bot when all human dispatchers are busy and someone calls 911 within about 200 meters of a previously reported crash. If the bot determines the caller is requesting assistance for another issue, it will connect the individual to a human being.</p>\n\n\n\n<p class=\"wp-block-paragraph\">&#8220;Every 911 center in the country is dealing with the reality of tighter budgets and inability to reach full staffing even with funding to do so,&#8221; Fasold said in a statement after receiving intense scrutiny online over the new system. &#8220;We have found this AI triage tool, used specifically for the scenario outlined above involving motor vehicle accidents, to be an extremely positive use of the technology to make the best use of our staff&#8217;s very limited time.&#8221;</p>\n\n\n\n<p class=\"wp-block-paragraph\">When the news of the AI system began circulating online, some Reddit commenters raised concerns about instances in which a caller may need to use discreet language that an artificial intelligence bot could not comprehend or determine to be urgent.</p>\n\n\n\n<p class=\"wp-block-paragraph\">&#8220;I wonder what happens if someone has to be discreet and order a ‘pizza’ and instead AI answers,&#8221; one commenter wrote.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The critic went on to describe the AI bot as &#8220;the worst idea you could possibly think of,&#8221; adding &#8220;you need a person&#8221; who can pick up on nuances, like background noise or the tone of a caller&#8217;s voice.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Cities like Atlanta and Seattle have utilized AI while fielding emergency calls, but in much more limited ways. For example, Atlanta has used the technology to more quickly determine a caller&#8217;s location.</p>\n\n\n\n<p class=\"wp-block-paragraph\">While artificial intelligence can certainly be very useful, there are a multitude of concerns about utilizing the technology in highly sensitive situations. <a href=\"https://www.lse.ac.uk/research/research-for-the-world/ai-and-tech/should-we-trust-the-voice-of-ai\" rel=\"noreferrer noopener\" target=\"_blank\">One study from last spring</a> indicated AI voice systems are prone to inventing —&nbsp;or hallucinating —&nbsp;information at a high rate.</p>\n\n\n\n<p class=\"wp-block-paragraph\">News of the artificial intelligence system in New Orleans comes on the heels of <a href=\"https://cbn.com/news/us/another-ai-jailbreak-anthropics-claude-escapes-test-and-hacks-outside-groups\" rel=\"noreferrer noopener\" target=\"_blank\">reports</a> of federal authorities warning of digital threats to U.S. water systems after cyber-attackers targeted more than 30 such systems in Minnesota. </p>\n\n\n\n<p class=\"wp-block-paragraph\">Additionally, the AI company Anthropic, maker of Claude, <a href=\"https://cbn.com/news/us/another-ai-jailbreak-anthropics-claude-escapes-test-and-hacks-outside-groups\" rel=\"noreferrer noopener\" target=\"_blank\">disclosed</a> that several of its models escaped the company&#8217;s internal facilities to hack into three other organizations during testing. Those AI tools were able to breach the internet, despite creators&#8217; best efforts to seal off any outside access.</p>\n\n\n\n<p class=\"wp-block-paragraph\"><em><strong>As the number of voices facing big-tech censorship continues to grow, please sign up for&nbsp;<a href=\"https://www.faithwire.com/newsletter/\" rel=\"noreferrer noopener\" target=\"_blank\">Faithwire’s daily newsletter</a>&nbsp;and download the&nbsp;<a href=\"https://www1.cbn.com/cbn-apps#cbn-news\" rel=\"noreferrer noopener\" target=\"_blank\">CBN News app</a>, developed by our parent establishment, to stay up-to-date with the latest news from a distinctly Christian perspective.</strong></em></p>\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.faithwire.com/2026/08/10/major-us-city-becomes-first-in-country-to-hand-911-calls-over-to-ai-bot/\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://www.faithwire.com/wp-content/uploads/2026/08/boliviainteligente-DEci5GH0r0k-unsplash-1024x640.jpg",
+      "smallThumbnail": "https://www.faithwire.com/wp-content/uploads/2026/08/boliviainteligente-DEci5GH0r0k-unsplash-1024x640.jpg",
+      "largeThumbnail": "https://www.faithwire.com/wp-content/uploads/2026/08/boliviainteligente-DEci5GH0r0k-unsplash-1024x640.jpg",
       "commentsEnabled": false,
       "categories": [
         "News"
       ],
       "images": [
         {
-          "url": "https://www.christianitytoday.com/wp-content/uploads/2026/08/Adam-Hamilton-Megachurch-Pastor-Wins-Primary.jpg?resize=1200,628",
-          "id": "img-4b64469a632d"
+          "url": "https://www.faithwire.com/wp-content/uploads/2026/08/boliviainteligente-DEci5GH0r0k-unsplash-1024x640.jpg",
+          "id": "img-ec4df7eb435f"
         }
       ]
     },
@@ -73,146 +97,122 @@
       ]
     },
     {
-      "id": "3c7568d47a88",
+      "id": "4d398cc4eb4c",
       "type": "article",
       "subtype": "custom",
-      "title": "Candace Cameron Bure’s Son Reveals Answering God’s Call to Preach",
-      "url": "https://www.faithwire.com/2026/08/07/candace-cameron-bures-son-reveals-answering-gods-call-to-preach/",
-      "date": "2026-08-07T18:28:33+00:00",
-      "author": "Billy Hallowell",
-      "summary": "Inspiring.",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 News | Faithwire</span>\n                </div>\n                <p class=\"wp-block-paragraph\">Lev Bure, the son of &#8220;Full House&#8221; actress Candace Cameron Bure, has been on a powerful and unexpected journey toward preaching the Gospel. </p>\n\n\n\n<p class=\"wp-block-paragraph\">In a recent interview with CBN News, Bure shared how God called him to share Scripture, and why he believes revival is happening among young people today.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Bure, 26, said the roots of his interest in preaching came from the church where he grew up attending. </p>\n\n\n\n<p class=\"wp-block-paragraph\"><strong><em>Listen to the latest episode of “Quick Start” <img alt=\"👇\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/17.0.2/72x72/1f447.png\" style=\"height: 1em;\" /></em></strong></p>\n\n\n\n<figure class=\"wp-block-embed is-type-wp-embed is-provider-megaphone wp-block-embed-megaphone\"><div class=\"wp-block-embed__wrapper\">\n\n</div></figure>\n\n\n\n<p class=\"wp-block-paragraph\">&#8220;I grew up with going to church in Shepherd of the Hills Church in Los Angeles &#8230; [with] Pastor Dudley Rutherford,&#8221; he said. &#8220;And they kind of curated this really cool weekend where he had the idea on a Sunday service to gather three, four, five young preachers, young individuals and kind of split up this Sunday sermon.&#8221;</p>\n\n\n\n<p class=\"wp-block-paragraph\">At the time, he was 19 and ended up throwing his hat in the ring. While Bure said he&#8217;s not one to take &#8220;crazy chances&#8221; on his own, he said he has no problem jumping into the mix if he&#8217;s invited.</p>\n\n\n\n<p class=\"wp-block-paragraph\">&#8220;So that was my first opportunity to kind of be in the pulpit with four other young communicators and &#8230; preach at a church and for a few services,&#8221; he said. &#8220;And that was kind of the start of it.&#8221;</p>\n\n\n\n<p class=\"wp-block-paragraph\">Bure said he has since been fortunate to have other opportunities to preach and share the Gospel. He believes it&#8217;s a &#8220;great privilege&#8221; to share God&#8217;s Word and always seeks to do so with diligence and truth.</p>\n\n\n\n<p class=\"wp-block-paragraph\">&#8220;We all &#8230; get to be part of God&#8217;s mission to glorify Him and make Him known to the world,&#8221; he said. &#8220;And we all get to do that, and millions of different ways, and I&#8217;m thankful that &#8230; this is a way that God&#8217;s allowed me to kind of be part of His mission, and I really enjoy it.&#8221;</p>\n\n\n\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n<div class=\"video-wrapper video-youtube\"></div>\n</div></figure>\n\n\n\n<p class=\"wp-block-paragraph\">Bure said he&#8217;s not trying to forecast a vision for the future, but that he has enjoyed the opportunity to preach the Gospel from the pulpit — and he&#8217;s excited for what&#8217;s next.</p>\n\n\n\n<p class=\"wp-block-paragraph\">&#8220;If it&#8217;s something that He would grace me with and continue to in the future, absolutely,&#8221; Bure said of preaching. &#8220;It&#8217;s something I would love to pursue, I love to do, and I have a heart for it.&#8221;</p>\n\n\n\n<p class=\"wp-block-paragraph\">Like many preachers, Bure relies on prayer and fasting before preparing and delivering a message. Ultimately, through many tools, he seeks God&#8217;s heart for each sermon.</p>\n\n\n\n<p class=\"wp-block-paragraph\">&#8220;I kind of put myself in a place to be intimate with Him and really just try and receive what He would have,&#8221; he said. &#8220;And &#8230; He speaks to me in a lot of different ways through the timing of things, through just the conviction that&#8217;s put on my heart, through what I hear the congregation is learning about or interested in.&#8221;</p>\n\n\n\n<p class=\"wp-block-paragraph\">In addition to Bure&#8217;s home church, his faith was deeply shaped by his parents, Candace Cameron Bure and her husband, Valeri Bure — two figures whose love for Jesus shone brightly in his life.</p>\n\n\n\n<p class=\"wp-block-paragraph\">&#8220;I always think about &#8230; if I didn&#8217;t grow up in a home where my parents loved Jesus, like what would my life look like?&#8221; Bure said. &#8220;How would I be introduced to Christ? And it&#8217;s something I contemplate, but at the same time, something I sit in just so much gratitude that, again, I&#8217;ve been blessed enough to be born into a family where two parents love Jesus.&#8221;</p>\n\n\n\n<p class=\"wp-block-paragraph\">Bure said his parents&#8217; faith allowed him to be introduced to Christ at an early age, learning powerful lessons along the way. </p>\n\n\n\n<p class=\"wp-block-paragraph\">&#8220;I think the biggest lessons that I learned from my parents personally growing up were really, I would say, just an intimacy for Christ is the biggest thing,&#8221; he said. &#8220;I&#8217;ve been so blessed to learn from them in a lot of different ways, but when you break it down, it comes to an abiding and intimate relationship with Jesus, and as long as that foundation is there, all else fails flows from it, and so to see that modeled from a young age is probably the most influential thing that my parents gave to myself and my siblings.&#8221;</p>\n\n\n\n<p class=\"wp-block-paragraph\">Bure&#8217;s interest in preaching comes as his generation shows increased curiosity about Christianity and the Bible. Reflecting on the many headlines about young people flocking to baptism and faith, Bure called the developments &#8220;absolutely remarkable.&#8221;</p>\n\n\n\n<p class=\"wp-block-paragraph\">&#8220;First of all, praise God for it all,&#8221; he said, noting that the younger generation is realizing that instant gratification simply won&#8217;t satisfy the human heart and mind. &#8220;I think, slowly &#8230; the younger generation is starting to feel the reality of this God-sized hole that&#8217;s in their lives, where everything that we think will gratify our desires, our greatest wishes, whether that&#8217;s through… you know social media, or money, or career, whatever you want to call it —I think slowly you&#8217;re finding that, at the end of the day, we still feel empty inside.&#8221;</p>\n\n\n\n<p class=\"wp-block-paragraph\">He believes the truth of Christ then becomes increasingly evident to many people facing this scenario. And Bure wants to be a conduit to helping people discover that eternal truth.</p>\n\n\n\n<p class=\"wp-block-paragraph\">&#8220;I&#8217;m passionate about people knowing Jesus, and I&#8217;m passionate about being part of that mission,&#8221; he said. &#8220;I think it&#8217;s why we as believers, we&#8217;re here &#8230; to glorify God and make Him known,&#8221; Bure said. &#8220;And so, realistically, I think I&#8217;ve gotten to be part of that a little bit and through communicating His word, and so I&#8217;d love to see that grow.&#8221;</p>\n\n\n\n<p class=\"wp-block-paragraph\"><em><strong>As the number of voices facing big-tech censorship continues to grow, please sign up for&nbsp;<a href=\"https://www.faithwire.com/newsletter/\" rel=\"noreferrer noopener\" target=\"_blank\">Faithwire’s daily newsletter</a>&nbsp;and download the&nbsp;<a href=\"https://www1.cbn.com/cbn-apps#cbn-news\" rel=\"noreferrer noopener\" target=\"_blank\">CBN News app</a>, developed by our parent establishment, to stay up-to-date with the latest news from a distinctly Christian perspective.</strong></em></p>\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.faithwire.com/2026/08/07/candace-cameron-bures-son-reveals-answering-gods-call-to-preach/\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://www.faithwire.com/wp-content/uploads/2026/08/Screenshot-2026-08-07-at-12.58.59-PM-1024x575.jpg",
-      "smallThumbnail": "https://www.faithwire.com/wp-content/uploads/2026/08/Screenshot-2026-08-07-at-12.58.59-PM-1024x575.jpg",
-      "largeThumbnail": "https://www.faithwire.com/wp-content/uploads/2026/08/Screenshot-2026-08-07-at-12.58.59-PM-1024x575.jpg",
+      "title": "What xAI’s Lawsuit Teaches Christians about Building Technology with Parapets",
+      "url": "https://www.crosswalk.com/headlines/contributors/guest-commentary/what-xais-lawsuit-teaches-christians-about-building-technology-with-parapets.html",
+      "date": "2026-08-10T20:28:00+00:00",
+      "author": "James Spencer",
+      "summary": "Minnesota’s new AI nudification law and xAI’s First Amendment lawsuit raise complicated legal questions about speech, liability, and technology regulation. But this article argues that Christians must also ask a deeper moral question: when powerful tools create foreseeable harm, what responsibility",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 News | Christian Headlines</span>\n                </div>\n                Minnesota’s new AI nudification law and xAI’s First Amendment lawsuit raise complicated legal questions about speech, liability, and technology regulation. But this article argues that Christians must also ask a deeper moral question: when powerful tools create foreseeable harm, what responsibility do builders have to create guardrails, protect victims, and love their neighbors?\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.crosswalk.com/headlines/contributors/guest-commentary/what-xais-lawsuit-teaches-christians-about-building-technology-with-parapets.html\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://media.swncdn.com/via/images/2025/12/04/44484/44484-gettyimages-1400563623_source_file.jpg",
+      "smallThumbnail": "https://media.swncdn.com/via/images/2025/12/04/44484/44484-gettyimages-1400563623_source_file.jpg",
+      "largeThumbnail": "https://media.swncdn.com/via/images/2025/12/04/44484/44484-gettyimages-1400563623_source_file.jpg",
       "commentsEnabled": false,
       "categories": [
         "News"
       ],
       "images": [
         {
-          "url": "https://www.faithwire.com/wp-content/uploads/2026/08/Screenshot-2026-08-07-at-12.58.59-PM-1024x575.jpg",
-          "id": "img-3c7568d47a88"
+          "url": "https://media.swncdn.com/via/images/2025/12/04/44484/44484-gettyimages-1400563623_source_file.jpg",
+          "id": "img-4d398cc4eb4c"
         }
       ]
     },
     {
-      "id": "aa2042879d5e",
+      "id": "e12af918f84e",
       "type": "article",
       "subtype": "custom",
-      "title": "Vice President Vance Explains the Faith Journey That Led Him to Catholicism",
-      "url": "https://www.crosswalk.com/headlines/contributors/guest-commentary/vice-president-vance-explains-the-faith-journey-that-led-him-to-catholicism.html",
-      "date": "2026-08-10T13:10:00+00:00",
-      "author": "Hugh Hewitt",
-      "summary": "Vice President J.D. Vance candidly discusses his new memoir, “Communion,” offering an intimate exploration of his faith journey to Catholicism and the profound spiritual and intellectual influences that shaped his conversion.&nbsp;",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 News | Christian Headlines</span>\n                </div>\n                Vice President J.D. Vance candidly discusses his new memoir, “Communion,” offering an intimate exploration of his faith journey to Catholicism and the profound spiritual and intellectual influences that shaped his conversion.&nbsp;\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.crosswalk.com/headlines/contributors/guest-commentary/vice-president-vance-explains-the-faith-journey-that-led-him-to-catholicism.html\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://media.swncdn.com/via/images/2024/07/15/36911/36911-text-article-image-1200-x-627-px-3_source_file.jpg",
-      "smallThumbnail": "https://media.swncdn.com/via/images/2024/07/15/36911/36911-text-article-image-1200-x-627-px-3_source_file.jpg",
-      "largeThumbnail": "https://media.swncdn.com/via/images/2024/07/15/36911/36911-text-article-image-1200-x-627-px-3_source_file.jpg",
+      "title": "Drew Brees Testifies of Faith in Christ During Hall of Fame Speech: 'Changed Me Forever'",
+      "url": "https://www.crosswalk.com/headlines/contributors/michael-foust/drew-brees-testifies-of-faith-in-christ-during-hall-of-fame-speech-changed-me-forever.html",
+      "date": "2026-08-10T18:20:00+00:00",
+      "author": "Michael Foust",
+      "summary": "Legendary quarterback Drew Brees, enshrined in the Pro Football Hall of Fame, delivered a powerful speech revealing how a life-altering high school injury and a spiritual transformation provided him with peace and an identity beyond football.&nbsp;",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 News | Christian Headlines</span>\n                </div>\n                Legendary quarterback Drew Brees, enshrined in the Pro Football Hall of Fame, delivered a powerful speech revealing how a life-altering high school injury and a spiritual transformation provided him with peace and an identity beyond football.&nbsp;\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.crosswalk.com/headlines/contributors/michael-foust/drew-brees-testifies-of-faith-in-christ-during-hall-of-fame-speech-changed-me-forever.html\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://media.swncdn.com/via/images/2026/08/10/47216/47216-brees_source_file.jpg",
+      "smallThumbnail": "https://media.swncdn.com/via/images/2026/08/10/47216/47216-brees_source_file.jpg",
+      "largeThumbnail": "https://media.swncdn.com/via/images/2026/08/10/47216/47216-brees_source_file.jpg",
       "commentsEnabled": false,
       "categories": [
         "News"
       ],
       "images": [
         {
-          "url": "https://media.swncdn.com/via/images/2024/07/15/36911/36911-text-article-image-1200-x-627-px-3_source_file.jpg",
-          "id": "img-aa2042879d5e"
+          "url": "https://media.swncdn.com/via/images/2026/08/10/47216/47216-brees_source_file.jpg",
+          "id": "img-e12af918f84e"
         }
       ]
     },
     {
-      "id": "f33c2470d4b4",
+      "id": "5f574fa44559",
       "type": "article",
       "subtype": "custom",
-      "title": "Government Grants Washington State Governor's Request For Help Battling Wildfires, Christian Ministries Plan Responses",
-      "url": "https://www.crosswalk.com/headlines/contributors/elizabeth-delaney/government-grants-washington-state-governors-request-for-help-battling-wildfires-christian-ministries-plan-responses.html",
-      "date": "2026-08-10T12:15:00+00:00",
-      "author": "Elizabeth Delaney",
-      "summary": "Washington State is grappling with widespread wildfires, prompting a governor-declared State of Emergency, federal aid and a massive deployment of over 2,000 firefighters battling tens of thousands of burning acres.&nbsp;",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 News | Christian Headlines</span>\n                </div>\n                Washington State is grappling with widespread wildfires, prompting a governor-declared State of Emergency, federal aid and a massive deployment of over 2,000 firefighters battling tens of thousands of burning acres.&nbsp;\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.crosswalk.com/headlines/contributors/elizabeth-delaney/government-grants-washington-state-governors-request-for-help-battling-wildfires-christian-ministries-plan-responses.html\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://media.swncdn.com/via/images/2026/08/10/47196/47196-washington-wildfire_source_file.jpg",
-      "smallThumbnail": "https://media.swncdn.com/via/images/2026/08/10/47196/47196-washington-wildfire_source_file.jpg",
-      "largeThumbnail": "https://media.swncdn.com/via/images/2026/08/10/47196/47196-washington-wildfire_source_file.jpg",
-      "commentsEnabled": false,
-      "categories": [
-        "News"
-      ],
-      "images": [
-        {
-          "url": "https://media.swncdn.com/via/images/2026/08/10/47196/47196-washington-wildfire_source_file.jpg",
-          "id": "img-f33c2470d4b4"
-        }
-      ]
-    },
-    {
-      "id": "f3782432ed32",
-      "type": "article",
-      "subtype": "custom",
-      "title": "Hamas’s waiting game buys terror group time as Israel rejects Gaza plan, Palestinian analysts claim",
-      "url": "https://www.jpost.com/israel-news/article-905081",
-      "date": "2026-08-10T15:22:04+00:00",
-      "author": "BY DANA BEN-SHIMON",
-      "summary": "\"Hamas was hoping for Israeli rejection to delay disarmament,\" a Palestinian source claims; \"Netanyahu's government is not a partner for peace, but only for war,\" PA official tells the 'Post.'",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"Hamas terrorists celebrating during a rally in the northern Gaza Strip. (photo credit: SUHAIB SALEM/REUTERS)\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2433,w_3600/733357\" title=\"Hamas terrorists celebrating during a rally in the northern Gaza Strip. (photo credit: SUHAIB SALEM/REUTERS)\" /><br />\"Hamas was hoping for Israeli rejection to delay disarmament,\" a Palestinian source claims; \"Netanyahu's government is not a partner for peace, but only for war,\" PA official tells the 'Post.'<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/israel-news/article-905081\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/733357",
-      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/733357",
-      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/733357",
+      "title": "'We achieved the unimaginable': CENTCOM chief vows enduring US support - exclusive",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-905115",
+      "date": "2026-08-10T22:38:59+00:00",
+      "author": "BY JERUSALEM POST STAFF",
+      "summary": "The source described Cooper’s appearance as historic, saying it was highly unusual for a CENTCOM commander to address an IDF operational forum of this kind.",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"IDF Chief of Staff Lt.-Gen. Eyal Zamir presents US CENTCOM commander Adm. Brad Cooper with a gift during a meeting with senior IDF commanders on August 10, 2026. (photo credit: IDF SPOKESPERSON\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1066,w_1600/733420\" /><br />The source described Cooper’s appearance as historic, saying it was highly unusual for a CENTCOM commander to address an IDF operational forum of this kind.<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/israel-news/defense-news/article-905115\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/733420",
+      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/733420",
+      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/733420",
       "commentsEnabled": false,
       "categories": [
         "Israel & Middle East"
       ],
       "images": [
         {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/733357",
-          "id": "img-f3782432ed32"
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/733420",
+          "id": "img-5f574fa44559"
         }
       ]
     },
     {
-      "id": "fbcdcf5dcec0",
+      "id": "d5e8e5424acb",
       "type": "article",
       "subtype": "custom",
-      "title": "Earthquake of magnitude 7.4 shakes Colombia's Choco province, severe damage and injuries reported",
-      "url": "https://www.jpost.com/environment-and-climate-change/article-905085",
-      "date": "2026-08-10T15:52:36+00:00",
+      "title": "Colombia becomes second country to recognize Israeli sovereignty over Golan Heights, joining US",
+      "url": "https://www.jpost.com/israel-news/article-905102",
+      "date": "2026-08-10T19:22:44+00:00",
       "author": "BY GOLDIE KATZ",
-      "summary": "Foreign Minister Gideon Sa'ar shared his concerns about the earthquake in a statement and offered his Colombian counterpart any assistance Israel could provide in the aftermath of quake.",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"Rubble on a street are pictured after the earthquake in Manizales, Colombia on August 10, 2026.  (photo credit: Jonh Bonilla/AFP via Getty Images)\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2888,w_4332/733387\" title=\"Rubble on a street are pictured after the earthquake in Manizales, Colombia on August 10, 2026.  (photo credit: Jonh Bonilla/AFP via Getty Images)\" /><br />Foreign Minister Gideon Sa'ar shared his concerns about the earthquake in a statement and offered his Colombian counterpart any assistance Israel could provide in the aftermath of quake.<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/environment-and-climate-change/article-905085\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/733387",
-      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/733387",
-      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/733387",
+      "summary": "Bogota says it recognizes Israeli sovereignty over Golan Heights as an 'essential component of its national defense' • Sa'ar: Decision demonstrates Colombian president's 'commitment to Israel'",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\" A supporter of Israel holds flags during a protest, following Hamas\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3662,w_5500/557954\" /><br />Bogota says it recognizes Israeli sovereignty over Golan Heights as an 'essential component of its national defense' • Sa'ar: Decision demonstrates Colombian president's 'commitment to Israel'<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/israel-news/article-905102\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/557954",
+      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/557954",
+      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/557954",
       "commentsEnabled": false,
       "categories": [
         "Israel & Middle East"
       ],
       "images": [
         {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/733387",
-          "id": "img-fbcdcf5dcec0"
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/557954",
+          "id": "img-d5e8e5424acb"
         }
       ]
     },
     {
-      "id": "8172072a1815",
+      "id": "eed6efa219a8",
       "type": "article",
       "subtype": "custom",
-      "title": "Nationalist crime in West Bank jumps 63% amid rising violence, security data shows - report",
-      "url": "https://www.jpost.com/israel-news/article-905092",
-      "date": "2026-08-10T16:52:22+00:00",
-      "author": "BY SHOSHANA BAKER",
-      "summary": "Security establishment figures showed a sharp rise in West Bank nationalist crime, alongside more Palestinian casualties and attacks on security personnel.",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"Israeli soldiers clash with Palestinians as they hold Friday prayers during a protest against Israeli settlement expansion and land confiscation near Bethlehem in the West Bank, July 3, 2026. (photo credit: WISAM HASHLAMOUN/FLASH90)\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3644,w_5466/728273\" title=\"Israeli soldiers clash with Palestinians as they hold Friday prayers during a protest against Israeli settlement expansion and land confiscation near Bethlehem in the West Bank, July 3, 2026. (photo credit: WISAM HASHLAMOUN/FLASH90)\" /><br />Security establishment figures showed a sharp rise in West Bank nationalist crime, alongside more Palestinian casualties and attacks on security personnel.<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/israel-news/article-905092\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/728273",
-      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/728273",
-      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/728273",
+      "title": "US has mine swept entire Strait of Hormuz, Trump says",
+      "url": "https://www.jpost.com/middle-east/article-905119",
+      "date": "2026-08-10T22:58:31+00:00",
+      "author": "BY REUTERS",
+      "summary": "The US has cleared the Strait of Hormuz of Iranian mines and now controls the key oil shipping route, Trump said Monday.",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"US President Donald Trump speaks as he sits behind an airport model as he makes an announcement about a renovation of Washington Dulles International Airport in the Oval Office at the White House in Washington, DC, US, July 29, 2026.   (photo credit: Reuters/Kylie Cooper)\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4329,w_6500/732003\" title=\"US President Donald Trump speaks as he sits behind an airport model as he makes an announcement about a renovation of Washington Dulles International Airport in the Oval Office at the White House in Washington, DC, US, July 29, 2026.   (photo credit: Reuters/Kylie Cooper)\" /><br />The US has cleared the Strait of Hormuz of Iranian mines and now controls the key oil shipping route, Trump said Monday.<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/middle-east/article-905119\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/732003",
+      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/732003",
+      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/732003",
       "commentsEnabled": false,
       "categories": [
         "Israel & Middle East"
       ],
       "images": [
         {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/728273",
-          "id": "img-8172072a1815"
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/732003",
+          "id": "img-eed6efa219a8"
         }
       ]
     },
@@ -337,26 +337,26 @@
       ]
     },
     {
-      "id": "c976486c01a9",
+      "id": "4af30b3cbc5b",
       "type": "article",
       "subtype": "custom",
-      "title": "Max Lucado’s Better Way to Think About Forgiveness",
-      "url": "https://relevantmagazine.com/faith/growth/6-steps-on-the-path-to-forgiveness-steps/",
-      "date": "2026-08-10T14:00:11+00:00",
-      "author": "Max Lucado",
-      "summary": "The question is not, Did you get hurt? The question is, Are you going to let the hurt harden you? Numb you? Suck up all your joy? Some people abandon the path of forgiveness because they perceive it to be impossibly steep. And it can be. So, let’s be realistic.. Forgiveness does not pardon the&#8230",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Culture | Relevant Magazine</span>\n                </div>\n                <p>The question is not, Did you get hurt? The question is, Are you going to let the hurt harden you? Numb you? Suck up all your joy?</p>\n\n\n\n<p>Some people abandon the path of forgiveness because they perceive it to be impossibly steep. And it can be. So, let’s be realistic.. Forgiveness does not pardon the offense, excuse the misdeed, or ignore it. Forgiveness is not necessarily reconciliation. A reestablished relationship with the transgressor is not essential or always even possible. Even more, the phrase “forgive and forget” sets an unreachable standard. Painful memories are not like old clothing. They defy easy shedding. </p>\n\n\n\n<p>Forgiveness is simply the act of changing your attitude toward the offender; it’s moving from a desire to harm toward an openness to be at peace. A step in the direction of forgiveness is a decisive step toward happiness. </p>\n\n\n\n<p>These six steps will help us on the road to forgiveness:</p>\n\n\n\n<p><em>1.Decide what you need to forgive.</em> Get specific. Narrow it down to the identifiable offense. “He was a jerk” does not work. “He promised to leave his work at work and be attentive at home.” There, that’s better. </p>\n\n\n\n<p><em>2 Ask yourself why it hurts.</em> Why does this offense sting? What about it leaves you wounded? Do you feel betrayed? Ignored? Isolated? Do your best to find the answer, and before you take it out on the offender…</p>\n\n\n\n<p><em>3. Take it to Jesus.</em> No one will ever love you more than He does. Let this wound be an opportunity to draw near to your Savior. Does this experience and lack of forgiveness hamper your well-being? Does it diminish your peace? If the answer is yes, take steps in the direction of forgiveness. Talk to Jesus about the offense until the anger subsides. And when it returns, talk to Jesus again.</p>\n\n\n\n<p>And <em>if it feels safe,</em> at some point…</p>\n\n\n\n<p><em>4. Tell your offender.</em> With a clear head and pure motives, file a complaint. Be specific. Not overly dramatic. Simply explain the offense and the way it makes you feel. It might sound something like this: “We agreed to make our home a haven. Yet after dinner you seem to get lost in emails and projects. Consequently, I feel lonely under my own roof.”</p>\n\n\n\n<p>If done respectfully and honestly, this is a step toward forgiveness. There is nothing easy about broaching a sensitive topic. You are putting on a servant’s garb. By bringing it up you are giving forgiveness a chance to have its way and win the day.</p>\n\n\n\n<p>Will it? Will grace triumph? There is no guarantee. Whether it does or not, your next step is to…</p>\n\n\n\n<p><em>5. Pray for your offender.</em> You cannot force reconciliation, but you can offer intercession. “Pray for those who persecute you” (Matt. 5:44 niv). Prayer reveals any lingering grudge, and what better place to see it! You are standing before the throne of grace yet finding it difficult to give grace? Ask Jesus to help you. </p>\n\n\n\n<p>Here is one final idea: </p>\n\n\n\n<p><em>6. Conduct a funeral.</em> Bury the offense. I don’t mean to bury it in the sense of suppressing it. Nothing is gained by shoving negative emotions into your spirit. But something wonderful is gained by taking the memory, placing it in a casket (a shoebox will suffice), and burying it in the cemetery known as “Moving On with Life.” Take off your hat, cover your heart, and shed one final tear. When the anger surfaces again, just tell yourself, “It’s time to walk boldly into a bright future.”</p>\n\n\n\n<p>Forgiveness is the act of applying your undeserved mercy to your undeserved hurts. You didn’t deserve to be hurt, but neither did you deserve to be forgiven. Being the recipient that you are of God’s great grace, does it not make sense to give grace to others? </p>\n\n\n\n\n\n<h6>This piece was excerpted from  Max Lucado&#8217;s book <em><a href=\"https://www.amazon.com/How-Happiness-Happens-Disappointment-Expectations/dp/0718096134\">How Happiness Happens: Finding Lasting Joy in a World of Comparison, Disappointment, and Unmet Expectations</a> </em>(Thomas Nelson). Used with permission.</h6>\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://relevantmagazine.com/faith/growth/6-steps-on-the-path-to-forgiveness-steps/\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://i0.wp.com/relevantmagazine.com/wp-content/uploads/2022/02/MaxLucado.jpg?fit=2248%2C1498&ssl=1",
-      "smallThumbnail": "https://i0.wp.com/relevantmagazine.com/wp-content/uploads/2022/02/MaxLucado.jpg?fit=2248%2C1498&ssl=1",
-      "largeThumbnail": "https://i0.wp.com/relevantmagazine.com/wp-content/uploads/2022/02/MaxLucado.jpg?fit=2248%2C1498&ssl=1",
+      "title": "Ravens QB Lamar Jackson: ‘If It’s Not From Jesus Christ I Don’t Want It’",
+      "url": "https://relevantmagazine.com/culture/sports/ravens-qb-lamar-jackson-if-its-not-from-jesus-christ-i-dont-want-it/",
+      "date": "2026-08-10T18:51:35+00:00",
+      "author": "Emily Brown",
+      "summary": "Baltimore Ravens quarterback Lamar Jackson isn’t shy about where his priorities lie. The two-time NFL MVP shared a message on his Instagram Story this week that read: “If it’s not from Jesus Christ I don’t want it. Im not bending my faith it’s not worth it.” For Jackson, it’s consistent with the way",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Culture | Relevant Magazine</span>\n                </div>\n                <p class=\"p2\">Baltimore Ravens quarterback Lamar Jackson isn’t shy about where his priorities lie.</p>\n<p class=\"p2\">The two-time NFL MVP shared a message on his Instagram Story this week that read: “If it’s not from Jesus Christ I don’t want it. Im not bending my faith it’s not worth it.”</p>\n<p class=\"p2\">For Jackson, it’s consistent with the way he’s talked about his faith throughout his career.</p>\n<p class=\"p2\">Last year, when GQ asked him to share the essentials he couldn’t live without, Jackson didn’t hesitate to put his Bible first.</p>\n<p class=\"p2\">“I can’t live without the Bible, can’t live without God,” he said. “He’s the one who wake me up each and every day. He’s the one who has me performing in my profession.”</p>\n<p class=\"p2\">He’s also repeatedly referenced God when discussing football. Earlier this summer, when asked about his NFL legacy, Jackson said he isn’t focused on awards or historical rankings.</p>\n<p class=\"p2\">“I just try to be the best player I can be, keeping God first and doing what I can do,” he said.</p>\n<p class=\"p2\">Jackson has also tried to put that faith into practice off the field. In December, he joined teammates in <a href=\"https://relevantmagazine.com/culture/sports/baltimore-ravens-players-wash-local-students-feet-and-give-them-new-shoes-led-by-team-chaplain/\">washing the feet of elementary school students</a> during a community event inspired by Jesus’ example in John 13.</p>\n<p class=\"p2\">“I wanted to do something for the community and do something Christ-like,” he said afterward.</p>\n<p class=\"p2\">Jackson, 29, has become one of the NFL’s biggest stars since entering the league in 2018. The former Heisman Trophy winner has won two league MVP awards and transformed the Ravens into a perennial contender with his dynamic style of play. But while his résumé continues to grow, his latest post makes it clear what he considers most important.</p>\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://relevantmagazine.com/culture/sports/ravens-qb-lamar-jackson-if-its-not-from-jesus-christ-i-dont-want-it/\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://relevantmagazine.com/wp-content/uploads/2026/08/lamar.jpg",
+      "smallThumbnail": "https://relevantmagazine.com/wp-content/uploads/2026/08/lamar.jpg",
+      "largeThumbnail": "https://relevantmagazine.com/wp-content/uploads/2026/08/lamar.jpg",
       "commentsEnabled": false,
       "categories": [
         "Culture"
       ],
       "images": [
         {
-          "url": "https://i0.wp.com/relevantmagazine.com/wp-content/uploads/2022/02/MaxLucado.jpg?fit=2248%2C1498&ssl=1",
-          "id": "img-c976486c01a9"
+          "url": "https://relevantmagazine.com/wp-content/uploads/2026/08/lamar.jpg",
+          "id": "img-4af30b3cbc5b"
         }
       ]
     },
@@ -553,12 +553,12 @@
       ]
     },
     {
-      "id": "b449cb22aa61",
+      "id": "11d915f4eed8",
       "type": "article",
       "subtype": "custom",
       "title": "✝ One Woman. 600 Swords. | The Moment Anger Almost Destroyed a King#shorts #history #bible #chirstian",
       "url": "https://www.youtube.com/shorts/_uvKOVS-54Y",
-      "date": "2026-08-10T14:52:51.383969+00:00",
+      "date": "2026-08-10T21:36:05.850233+00:00",
       "author": "Truth Is Calling",
       "summary": "Watch this YouTube Short from Truth Is Calling: One Woman. 600 Swords. | The Moment Anger Almost Destroyed a King#shorts #history #bible #chirstian",
       "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | YouTube Short</span>\n                </div>\n                <p><strong>One Woman. 600 Swords. | The Moment Anger Almost Destroyed a King#shorts #history #bible #chirstian</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"560\" \n                    src=\"https://www.youtube.com/embed/_uvKOVS-54Y\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\"><a href=\"https://www.youtube.com/shorts/_uvKOVS-54Y\" style=\"color: #c9a84c; font-weight: bold;\">Watch on YouTube →</a></p>\n            </div>\n            ",
@@ -572,17 +572,17 @@
       "images": [
         {
           "url": "https://img.youtube.com/vi/_uvKOVS-54Y/maxresdefault.jpg",
-          "id": "img-b449cb22aa61"
+          "id": "img-11d915f4eed8"
         }
       ]
     },
     {
-      "id": "01ef3a3150f1",
+      "id": "7fa0f201e01c",
       "type": "article",
       "subtype": "custom",
       "title": "✝ The Cross is the Reason for The Gates of Heaven.",
       "url": "https://www.youtube.com/shorts/lva-Ixagpnw",
-      "date": "2026-08-10T14:52:51.383992+00:00",
+      "date": "2026-08-10T21:36:05.850256+00:00",
       "author": "Truth Is Calling",
       "summary": "Watch this YouTube Short from Truth Is Calling: The Cross is the Reason for The Gates of Heaven.",
       "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | YouTube Short</span>\n                </div>\n                <p><strong>The Cross is the Reason for The Gates of Heaven.</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"560\" \n                    src=\"https://www.youtube.com/embed/lva-Ixagpnw\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\"><a href=\"https://www.youtube.com/shorts/lva-Ixagpnw\" style=\"color: #c9a84c; font-weight: bold;\">Watch on YouTube →</a></p>\n            </div>\n            ",
@@ -596,7 +596,7 @@
       "images": [
         {
           "url": "https://img.youtube.com/vi/lva-Ixagpnw/maxresdefault.jpg",
-          "id": "img-01ef3a3150f1"
+          "id": "img-7fa0f201e01c"
         }
       ]
     }
