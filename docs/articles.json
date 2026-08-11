@@ -145,74 +145,74 @@
       ]
     },
     {
-      "id": "5f574fa44559",
+      "id": "ce16fc916a72",
       "type": "article",
       "subtype": "custom",
-      "title": "'We achieved the unimaginable': CENTCOM chief vows enduring US support - exclusive",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-905115",
-      "date": "2026-08-10T22:38:59+00:00",
+      "title": "'Potential for confrontation with Turkey has increased,' warns ex-National Security Council head",
+      "url": "https://www.jpost.com/middle-east/article-905143",
+      "date": "2026-08-11T08:42:11+00:00",
+      "author": "BY MAARIV",
+      "summary": "\"We must not give up the aspiration for peace,\" he said, \"but we must not allow it to make us lose our judgment.\"",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"Turkish President Recep Tayyip Erdogan delivers a speech during the opening ceremony of male and female dormitories at Bogazici University, in Istanbul, Turkey, February 13, 2026. (photo credit: UMIT BEKTAS/REUTERS)\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3323,w_5020/725073\" title=\"Turkish President Recep Tayyip Erdogan delivers a speech during the opening ceremony of male and female dormitories at Bogazici University, in Istanbul, Turkey, February 13, 2026. (photo credit: UMIT BEKTAS/REUTERS)\" /><br />\"We must not give up the aspiration for peace,\" he said, \"but we must not allow it to make us lose our judgment.\"<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/middle-east/article-905143\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/725073",
+      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/725073",
+      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/725073",
+      "commentsEnabled": false,
+      "categories": [
+        "Israel & Middle East"
+      ],
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/725073",
+          "id": "img-ce16fc916a72"
+        }
+      ]
+    },
+    {
+      "id": "06128a782b8f",
+      "type": "article",
+      "subtype": "custom",
+      "title": "'Evil incarnate': Hunter Biden, Tucker Carlson bond over criticism of Israel, Benjamin Netanyahu",
+      "url": "https://www.jpost.com/diaspora/antisemitism/article-905151",
+      "date": "2026-08-11T09:11:59+00:00",
+      "author": "BY IDAN KWELLER",
+      "summary": "The interview with Carlson focused at length on the controversies surrounding Hunter himself, his drug addiction, the laptop that became a political weapon against the Biden family, and Israel.",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"Tucker Carlson interviews Hunter Biden on The Tucker Carlson Show, August 10, 2026. (photo credit: Screenshot/Youtube/Tucker Carlson)\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_642,w_1147/733470\" title=\"Tucker Carlson interviews Hunter Biden on The Tucker Carlson Show, August 10, 2026. (photo credit: Screenshot/Youtube/Tucker Carlson)\" /><br />The interview with Carlson focused at length on the controversies surrounding Hunter himself, his drug addiction, the laptop that became a political weapon against the Biden family, and Israel.<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/diaspora/antisemitism/article-905151\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/733470",
+      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/733470",
+      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/733470",
+      "commentsEnabled": false,
+      "categories": [
+        "Israel & Middle East"
+      ],
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/733470",
+          "id": "img-06128a782b8f"
+        }
+      ]
+    },
+    {
+      "id": "e52f83b394c0",
+      "type": "article",
+      "subtype": "custom",
+      "title": "Mamdani's wife expected to travel to Syria, Lebanon with taxpayer-funded NYPD security detail",
+      "url": "https://www.jpost.com/international/article-905158",
+      "date": "2026-08-11T10:23:47+00:00",
       "author": "BY JERUSALEM POST STAFF",
-      "summary": "The source described Cooper’s appearance as historic, saying it was highly unusual for a CENTCOM commander to address an IDF operational forum of this kind.",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"IDF Chief of Staff Lt.-Gen. Eyal Zamir presents US CENTCOM commander Adm. Brad Cooper with a gift during a meeting with senior IDF commanders on August 10, 2026. (photo credit: IDF SPOKESPERSON\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1066,w_1600/733420\" /><br />The source described Cooper’s appearance as historic, saying it was highly unusual for a CENTCOM commander to address an IDF operational forum of this kind.<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/israel-news/defense-news/article-905115\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/733420",
-      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/733420",
-      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/733420",
+      "summary": "Both countries are on the United States' \"Level 4: Do not Travel\" list for citizens. Lebanon's Level 4 status was issued on June 5, while Syria's was issued on July 8.",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"New York City Mayor Zohran Mamdani and his wife Rama Duwaji react as confetti falls during his inauguration ceremony in New York City, US, January 1, 2026.  (photo credit: REUTERS/JEENAH MOON)\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1245,w_1868/710952\" title=\"New York City Mayor Zohran Mamdani and his wife Rama Duwaji react as confetti falls during his inauguration ceremony in New York City, US, January 1, 2026.  (photo credit: REUTERS/JEENAH MOON)\" /><br />Both countries are on the United States' \"Level 4: Do not Travel\" list for citizens. Lebanon's Level 4 status was issued on June 5, while Syria's was issued on July 8. <br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/international/article-905158\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/710952",
+      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/710952",
+      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/710952",
       "commentsEnabled": false,
       "categories": [
         "Israel & Middle East"
       ],
       "images": [
         {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/733420",
-          "id": "img-5f574fa44559"
-        }
-      ]
-    },
-    {
-      "id": "f17e6f7f97e2",
-      "type": "article",
-      "subtype": "custom",
-      "title": "Israel, Lebanon to continue talks in September as Hezbollah seeks to disrupt process - report",
-      "url": "https://www.jpost.com/international/article-905122",
-      "date": "2026-08-11T02:12:00+00:00",
-      "author": "BY LEO FEIERBERG BETTER",
-      "summary": "The discussions between the countries have included talks on a third country demining certain areas, a US official told Al-Arabiya English.",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"US Secretary of State Marco Rubio, US Ambassador to Lebanon Michel Issa, Lebanon Ambassador to the US Nada Hamadeh Moawad and Israel Ambassador to the US Yechiel Leiter pose for a photo before their meeting at the State Department in Washington, DC, US, April 14, 2026.  (photo credit: REUTERS/KEVIN LAMARQUE)\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3029,w_4647/720149\" title=\"US Secretary of State Marco Rubio, US Ambassador to Lebanon Michel Issa, Lebanon Ambassador to the US Nada Hamadeh Moawad and Israel Ambassador to the US Yechiel Leiter pose for a photo before their meeting at the State Department in Washington, DC, US, April 14, 2026.  (photo credit: REUTERS/KEVIN LAMARQUE)\" /><br />The discussions between the countries have included talks on a third country demining certain areas, a US official told Al-Arabiya English. <br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/international/article-905122\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/720149",
-      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/720149",
-      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/720149",
-      "commentsEnabled": false,
-      "categories": [
-        "Israel & Middle East"
-      ],
-      "images": [
-        {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/720149",
-          "id": "img-f17e6f7f97e2"
-        }
-      ]
-    },
-    {
-      "id": "bc69341162ab",
-      "type": "article",
-      "subtype": "custom",
-      "title": "IAEA set to remove nuclear material from Syrian site in US brokered deal - report",
-      "url": "https://www.jpost.com/middle-east/article-905121",
-      "date": "2026-08-11T01:57:25+00:00",
-      "author": "BY ARIELLA ROITMAN",
-      "summary": "The agreement would reportedly secure the nuclear material, which Syrian officials claimed to be unaware of, and prevent an escalation between Israel, Syria, and Turkey.",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"US President Donald Trump shakes hands with Syrian President Ahmed al-Sharaa during a bilateral meeting alongside the NATO leaders summit at the Bestepe Presidential Compound in Ankara, Turkey, July 8, 2026.  (photo credit: JONATHAN ERNST/REUTERS)\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2731,w_4097/733429\" title=\"US President Donald Trump shakes hands with Syrian President Ahmed al-Sharaa during a bilateral meeting alongside the NATO leaders summit at the Bestepe Presidential Compound in Ankara, Turkey, July 8, 2026.  (photo credit: JONATHAN ERNST/REUTERS)\" /><br />The agreement would reportedly secure the nuclear material, which Syrian officials claimed to be unaware of, and prevent an escalation between Israel, Syria, and Turkey.<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/middle-east/article-905121\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/733429",
-      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/733429",
-      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/733429",
-      "commentsEnabled": false,
-      "categories": [
-        "Israel & Middle East"
-      ],
-      "images": [
-        {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/733429",
-          "id": "img-bc69341162ab"
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/710952",
+          "id": "img-e52f83b394c0"
         }
       ]
     },
@@ -313,50 +313,26 @@
       ]
     },
     {
-      "id": "65314019cc6a",
+      "id": "b59012cbfe22",
       "type": "article",
       "subtype": "custom",
-      "title": "Making Sense of God’s Will",
-      "url": "https://harvest.org/resources/devotion/making-sense-of-gods-will/",
-      "date": "2026-08-10T07:01:35+00:00",
+      "title": "No Compromise",
+      "url": "https://harvest.org/resources/devotion/no-compromise-3-2/",
+      "date": "2026-08-11T07:01:59+00:00",
       "author": "Ryan Riley",
-      "summary": "We need to remember that God’s will is good. It may not seem like it\nThe post Making Sense of God’s Will appeared first on Harvest.",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Devotional | Greg Laurie Daily Devotion</span>\n                </div>\n                <p>We need to remember that God’s will is good. It may not seem like it</p>\n<p>The post <a href=\"https://harvest.org/resources/devotion/making-sense-of-gods-will/\">Making Sense of God’s Will</a> appeared first on <a href=\"https://harvest.org\">Harvest</a>.</p>\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://harvest.org/resources/devotion/making-sense-of-gods-will/\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://harvest.org/wp-content/uploads/1746511040_MKTG_Greg_Daily_Devo_Graphics1500__8_10.png",
-      "smallThumbnail": "https://harvest.org/wp-content/uploads/1746511040_MKTG_Greg_Daily_Devo_Graphics1500__8_10.png",
-      "largeThumbnail": "https://harvest.org/wp-content/uploads/1746511040_MKTG_Greg_Daily_Devo_Graphics1500__8_10.png",
+      "summary": "First Kings 18 tells the story of the prophet Elijah’s epic showdown with the prophets\nThe post No Compromise appeared first on Harvest.",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Devotional | Greg Laurie Daily Devotion</span>\n                </div>\n                <p>First Kings 18 tells the story of the prophet Elijah’s epic showdown with the prophets</p>\n<p>The post <a href=\"https://harvest.org/resources/devotion/no-compromise-3-2/\">No Compromise</a> appeared first on <a href=\"https://harvest.org\">Harvest</a>.</p>\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://harvest.org/resources/devotion/no-compromise-3-2/\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://harvest.org/wp-content/uploads/1746511040_MKTG_Greg_Daily_Devo_1500_8_11.png",
+      "smallThumbnail": "https://harvest.org/wp-content/uploads/1746511040_MKTG_Greg_Daily_Devo_1500_8_11.png",
+      "largeThumbnail": "https://harvest.org/wp-content/uploads/1746511040_MKTG_Greg_Daily_Devo_1500_8_11.png",
       "commentsEnabled": false,
       "categories": [
         "Devotional"
       ],
       "images": [
         {
-          "url": "https://harvest.org/wp-content/uploads/1746511040_MKTG_Greg_Daily_Devo_Graphics1500__8_10.png",
-          "id": "img-65314019cc6a"
-        }
-      ]
-    },
-    {
-      "id": "0aabd74d9b98",
-      "type": "article",
-      "subtype": "custom",
-      "title": "Myspace Is Planning a Comeback and Pitching Itself as an Escape From the Algorithm",
-      "url": "https://relevantmagazine.com/current/buzzworthy/myspace-is-planning-a-comeback-and-pitching-itself-as-an-escape-from-the-algorithm/",
-      "date": "2026-08-10T23:50:47+00:00",
-      "author": "Emily Brown",
-      "summary": "Myspace is back. Again. This time, the platform&#8217;s owners — brothers Tim and Chris Vanderhook — are pitching it as an antidote to the social media experience everyone seems to be complaining about. In a new documentary, they announced a relaunch built around the idea that people want to control",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Culture | Relevant Magazine</span>\n                </div>\n                <p>Myspace is back. Again.</p>\n<p>This time, the platform&#8217;s owners — brothers Tim and Chris Vanderhook — are pitching it as an antidote to the social media experience everyone seems to be complaining about. In a new documentary, they announced a relaunch built around the idea that people want to control their own feeds instead of being served what an algorithm decides they should see. After reportedly losing more than $150 million on the platform, they&#8217;re betting that frustration is finally big enough to act on.</p>\n<p>At its peak in 2008, Myspace drew roughly 115 million monthly visitors. It was the internet where you customized your profile, ranked your Top 8 friends and found your next favorite band before streaming existed. Then it didn&#8217;t matter anymore, and Facebook did.</p>\n<p>The 2013 relaunch didn&#8217;t stick. Analysts who spoke to CNBC are skeptical this one will either — not when Instagram, TikTok and Facebook already have most people&#8217;s attention locked up.</p>\n<p>But the timing at least makes the pitch easier to say with a straight face. Algorithm fatigue is real, and the Reddit reaction to the announcement showed exactly where people land on it: most don&#8217;t think Myspace will work, but a lot of them miss an internet that felt less engineered. That&#8217;s not nothing.</p>\n<p>Whether the nostalgia translates into daily active users is a different question. But the idea it’s selling — that people want a version of social media with more control and less algorithm — doesn’t feel nearly as far-fetched as it would have a few years ago.</p>\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://relevantmagazine.com/current/buzzworthy/myspace-is-planning-a-comeback-and-pitching-itself-as-an-escape-from-the-algorithm/\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://relevantmagazine.com/wp-content/uploads/2026/08/myspace.jpg",
-      "smallThumbnail": "https://relevantmagazine.com/wp-content/uploads/2026/08/myspace.jpg",
-      "largeThumbnail": "https://relevantmagazine.com/wp-content/uploads/2026/08/myspace.jpg",
-      "commentsEnabled": false,
-      "categories": [
-        "Culture"
-      ],
-      "images": [
-        {
-          "url": "https://relevantmagazine.com/wp-content/uploads/2026/08/myspace.jpg",
-          "id": "img-0aabd74d9b98"
+          "url": "https://harvest.org/wp-content/uploads/1746511040_MKTG_Greg_Daily_Devo_1500_8_11.png",
+          "id": "img-b59012cbfe22"
         }
       ]
     },
@@ -505,6 +481,30 @@
       ]
     },
     {
+      "id": "81ba868a08dd",
+      "type": "article",
+      "subtype": "custom",
+      "title": "Tuesday, August 11, 2026",
+      "url": "https://www.wordonfire.org/reflections/a-ordinary2026-wk19-tuesday/",
+      "date": "2026-08-11T05:01:00+00:00",
+      "author": "Bishop Robert Barron",
+      "summary": "Bishop Robert Barron\n\nFriends, in today’s Gospel, Jesus proclaims God’s concern for children: “It is not the will of your heavenly Father that one of these little ones be lost.”",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Catholic Teaching | Word on Fire</span>\n                </div>\n                <p><a href=\"https://www.wordonfire.org/author/bishop-robert-barron/\">Bishop Robert Barron</a></p>\n<figure><img alt=\"DGR Eng\" class=\"attachment-medium size-medium wp-post-image\" height=\"360\" src=\"https://woforgmedia.wordonfire.org/wp-content/uploads/2022/04/15100403/dgr_image_16x9-640x360.png\" style=\"margin-bottom: 15px;\" width=\"640\" /></figure>\n<h2 class=\"wp-block-heading\" id=\"h-daily-reading\">Daily Reading</h2>\n\n\n\n<h5 class=\"wp-block-heading\" id=\"h-first-reading\"><br />First Reading</h5>\n\n\n\n<h6 class=\"wp-block-heading\" id=\"h-ezekiel-2-8-3-4\">Ezekiel 2:8-3:4</h6>\n\n\n\n<p>But you, mortal, hear what I say to you; do not be rebellious like that rebellious house; open your mouth and eat what I give you. I looked, and a hand was stretched out to me, and a written scroll was in it. He spread it before me; it had writing on the front and on the back, and written on it were words of lamentation and mourning and woe.<br /><br />He said to me, O mortal, eat what is offered to you; eat this scroll, and go, speak to the house of Israel. So I opened my mouth, and he gave me the scroll to eat. He said to me, Mortal, eat this scroll that I give you and fill your stomach with it. Then I ate it; and in my mouth it was as sweet as honey.<br /><br />He said to me: Mortal, go to the house of Israel and speak my very words to them.</p>\n\n\n\n<h5 class=\"wp-block-heading\" id=\"h-psalm\">Psalm</h5>\n\n\n\n<h6 class=\"wp-block-heading\" id=\"h-psalm-119-14-24-72-103-111-131\">Psalm 119:14, 24, 72, 103, 111, 131</h6>\n\n\n\n<blockquote class=\"wp-block-quote is-layout-flow wp-block-quote-is-layout-flow\">\n<p>I delight in the way of your decrees<br />    as much as in all riches.<br />Your decrees are my delight,<br />    they are my counselors.<br />The law of your mouth is better to me<br />    than thousands of gold and silver pieces.<br />How sweet are your words to my taste,<br />    sweeter than honey to my mouth!<br />Your decrees are my heritage forever;<br />    they are the joy of my heart.<br />With open mouth I pant,<br />    because I long for your commandments.</p>\n</blockquote>\n\n\n\n<h5 class=\"wp-block-heading\" id=\"h-gospel-reading\">Gospel Reading</h5>\n\n\n\n<h6 class=\"wp-block-heading\" id=\"h-matthew-18-1-5-10-12-14\">Matthew 18:1-5, 10, 12-14</h6>\n\n\n\n<p>At that time the disciples came to Jesus and asked, “Who is the greatest in the kingdom of heaven?” He called a child, whom he put among them, and said, “Truly I tell you, unless you change and become like children, you will never enter the kingdom of heaven. Whoever becomes humble like this child is the greatest in the kingdom of heaven. Whoever welcomes one such child in my name welcomes me.<br /><br />“Take care that you do not despise one of these little ones; for, I tell you, in heaven their angels continually see the face of my Father in heaven.<br /><br />What do you think? If a shepherd has a hundred sheep, and one of them has gone astray, does he not leave the ninety-nine on the mountains and go in search of the one that went astray? And if he finds it, truly I tell you, he rejoices over it more than over the ninety-nine that never went astray. So it is not the will of your Father in heaven that one of these little ones should be lost.<br /><a href=\"https://www.biblegateway.com/passage/?search=Matthew%2010&amp;version=NRSVCE\"></a></p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"h-reflection\">Reflection</h2>\n\n\n\n<p>Friends, in today’s Gospel, Jesus proclaims God’s concern for children: “It is not the will of your heavenly Father that one of these little ones be lost.”<br /><br />After completing her novitiate in Darjeeling, Mother Teresa made temporary vows and began teaching in the convent school there and working part-time as an aide at a small hospital.<br /><br />Once a man arrived at the hospital with a bundle out of which protruded what appeared to be twigs. When Teresa looked more closely, she saw that they were the impossibly emaciated legs of a child, blind and near death. The man told the young sister that if she didn’t take the boy, he would throw him to the jackals.<br /><br />Teresa’s journal takes up the story: “With much pity and love, I take the little one into my arms, and fold him in my apron. The child has found a second mother.” And then this passage dawned upon her: “And whoever receives one child such as this in my name receives me.” This is the key to the mature practical spirituality of Mother Teresa: In serving the suffering and the poorest of the poor, one is serving Christ.</p>\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.wordonfire.org/reflections/a-ordinary2026-wk19-tuesday/\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://woforgmedia.wordonfire.org/wp-content/uploads/2022/04/15100403/dgr_image_16x9.png",
+      "smallThumbnail": "https://woforgmedia.wordonfire.org/wp-content/uploads/2022/04/15100403/dgr_image_16x9.png",
+      "largeThumbnail": "https://woforgmedia.wordonfire.org/wp-content/uploads/2022/04/15100403/dgr_image_16x9.png",
+      "commentsEnabled": false,
+      "categories": [
+        "Catholic Teaching"
+      ],
+      "images": [
+        {
+          "url": "https://woforgmedia.wordonfire.org/wp-content/uploads/2022/04/15100403/dgr_image_16x9.png",
+          "id": "img-81ba868a08dd"
+        }
+      ]
+    },
+    {
       "id": "5c5a1c83586b",
       "type": "article",
       "subtype": "custom",
@@ -525,30 +525,6 @@
         {
           "url": "https://woforgmedia.wordonfire.org/wp-content/uploads/2026/08/07155256/Screenshot-2026-08-07-at-3.52.30-PM-1178x720.png",
           "id": "img-5c5a1c83586b"
-        }
-      ]
-    },
-    {
-      "id": "cb6ec2e843a2",
-      "type": "article",
-      "subtype": "custom",
-      "title": "Monday, August 10, 2026",
-      "url": "https://www.wordonfire.org/reflections/a-ordinary2026-wk19-monday/",
-      "date": "2026-08-10T05:01:00+00:00",
-      "author": "Bishop Robert Barron",
-      "summary": "Bishop Robert Barron\n\nFriends, in today’s Gospel, just after announcing that he is about to be glorified on the cross, Jesus declares, “Amen, amen, I say to you, unless a grain of wheat falls to the ground and dies, it remains just a grain of wheat; but if it dies, it produces much fruit.”",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Catholic Teaching | Word on Fire</span>\n                </div>\n                <p><a href=\"https://www.wordonfire.org/author/bishop-robert-barron/\">Bishop Robert Barron</a></p>\n<figure><img alt=\"DGR Eng\" class=\"attachment-medium size-medium wp-post-image\" height=\"360\" src=\"https://woforgmedia.wordonfire.org/wp-content/uploads/2022/04/15100403/dgr_image_16x9-640x360.png\" style=\"margin-bottom: 15px;\" width=\"640\" /></figure>\n<h2 class=\"wp-block-heading\" id=\"h-daily-reading\">Daily Reading</h2>\n\n\n\n<h5 class=\"wp-block-heading\" id=\"h-first-reading\"><br />First Reading</h5>\n\n\n\n<h6 class=\"wp-block-heading\" id=\"h-2-corinthians-9-6-10\">2 Corinthians 9:6-10</h6>\n\n\n\n<p>The point is this: the one who sows sparingly will also reap sparingly, and the one who sows bountifully will also reap bountifully.<sup> </sup>Each of you must give as you have made up your mind, not reluctantly or under compulsion, for God loves a cheerful giver. And God is able to provide you with every blessing in abundance, so that by always having enough of everything, you may share abundantly in every good work. As it is written,<br /><br />“He scatters abroad, he gives to the poor;<br />    his righteousness endures forever.”<br /><br />He who supplies seed to the sower and bread for food will supply and multiply your seed for sowing and increase the harvest of your righteousness.</p>\n\n\n\n<h5 class=\"wp-block-heading\" id=\"h-psalm\">Psalm</h5>\n\n\n\n<h6 class=\"wp-block-heading\" id=\"h-psalm-112-1-2-5-6-7-8-9\">Psalm 112:1-2, 5-6, 7-8, 9</h6>\n\n\n\n<blockquote class=\"wp-block-quote is-layout-flow wp-block-quote-is-layout-flow\">\n<p>Praise the Lord!<br />    Happy are those who fear the Lord,<br />    who greatly delight in his commandments.<br />Their descendants will be mighty in the land;<br />    the generation of the upright will be blessed.<br />It is well with those who deal generously and lend,<br />    who conduct their affairs with justice.<br />For the righteous will never be moved;<br />    they will be remembered forever.<br />They are not afraid of evil tidings;<br />    their hearts are firm, secure in the Lord.<br />Their hearts are steady, they will not be afraid;<br />    in the end they will look in triumph on their foes.<br />They have distributed freely, they have given to the poor;<br />    their righteousness endures forever;<br />    their horn is exalted in honor.</p>\n</blockquote>\n\n\n\n<h5 class=\"wp-block-heading\" id=\"h-gospel-reading\">Gospel Reading</h5>\n\n\n\n<h6 class=\"wp-block-heading\" id=\"h-john-12-24-26\">John 12:24-26</h6>\n\n\n\n<p>Very truly, I tell you, unless a grain of wheat falls into the earth and dies, it remains just a single grain; but if it dies, it bears much fruit. Those who love their life lose it, and those who hate their life in this world will keep it for eternal life. Whoever serves me must follow me, and where I am, there will my servant be also. Whoever serves me, the Father will honor.<br /><a href=\"https://www.biblegateway.com/passage/?search=Matthew%2010&amp;version=NRSVCE\"></a></p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"h-reflection\">Reflection</h2>\n\n\n\n<p>Friends, in today’s Gospel, just after announcing that he is about to be glorified on the cross, Jesus declares, “Amen, amen, I say to you, unless a grain of wheat falls to the ground and dies, it remains just a grain of wheat; but if it dies, it produces much fruit.”<br /><br />A seed can exist for a long time—they have found seeds in the tombs of the pharaohs. But unless the seed falls into the soil and cracks open, nothing further comes of it. Its life is inside, but it’s a life that grows by being given away and mixing with the soil around it. Paradoxically, when you look at a great tree, you simultaneously see none of the original seed and nothing but the original seed, now flourishing.<br /><br />What does the prince of this world, the devil, tell us? Hang on to yourself. Aggrandize yourself. Stay safe, protected. But Jesus has come to throw out that prince, that principle. He proposes himself as the new prince. His sign is the sign of the cross, the death that leads to transfiguration: “Whoever loves his life loses it, and whoever hates his life in this world will preserve it for eternal life.”</p>\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.wordonfire.org/reflections/a-ordinary2026-wk19-monday/\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://woforgmedia.wordonfire.org/wp-content/uploads/2022/04/15100403/dgr_image_16x9.png",
-      "smallThumbnail": "https://woforgmedia.wordonfire.org/wp-content/uploads/2022/04/15100403/dgr_image_16x9.png",
-      "largeThumbnail": "https://woforgmedia.wordonfire.org/wp-content/uploads/2022/04/15100403/dgr_image_16x9.png",
-      "commentsEnabled": false,
-      "categories": [
-        "Catholic Teaching"
-      ],
-      "images": [
-        {
-          "url": "https://woforgmedia.wordonfire.org/wp-content/uploads/2022/04/15100403/dgr_image_16x9.png",
-          "id": "img-cb6ec2e843a2"
         }
       ]
     },
@@ -577,12 +553,12 @@
       ]
     },
     {
-      "id": "7e05fb650877",
+      "id": "43b2e22fb03c",
       "type": "article",
       "subtype": "custom",
       "title": "✝ Near Christ, BUT Not With Him #facts #history #biblestudy #christianshorts #shorts #viral #tiktok",
       "url": "https://www.youtube.com/shorts/CvGLf103viQ",
-      "date": "2026-08-11T01:15:00.600134+00:00",
+      "date": "2026-08-11T08:06:35.621787+00:00",
       "author": "Truth Is Calling",
       "summary": "Watch this YouTube Short from Truth Is Calling: Near Christ, BUT Not With Him #facts #history #biblestudy #christianshorts #shorts #viral #tiktok",
       "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | YouTube Short</span>\n                </div>\n                <p><strong>Near Christ, BUT Not With Him #facts #history #biblestudy #christianshorts #shorts #viral #tiktok</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"560\" \n                    src=\"https://www.youtube.com/embed/CvGLf103viQ\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\"><a href=\"https://www.youtube.com/shorts/CvGLf103viQ\" style=\"color: #c9a84c; font-weight: bold;\">Watch on YouTube →</a></p>\n            </div>\n            ",
@@ -596,17 +572,17 @@
       "images": [
         {
           "url": "https://img.youtube.com/vi/CvGLf103viQ/maxresdefault.jpg",
-          "id": "img-7e05fb650877"
+          "id": "img-43b2e22fb03c"
         }
       ]
     },
     {
-      "id": "c8c3e86b7c6d",
+      "id": "76246ea6fc69",
       "type": "article",
       "subtype": "custom",
       "title": "✝ A final charge - A quiet room. A choice that echoes#history #faith #shortsvideo #jesuschrist #bible",
       "url": "https://www.youtube.com/shorts/xmTrO2OWRb4",
-      "date": "2026-08-11T01:15:00.600161+00:00",
+      "date": "2026-08-11T08:06:35.621811+00:00",
       "author": "Truth Is Calling",
       "summary": "Watch this YouTube Short from Truth Is Calling: A final charge - A quiet room. A choice that echoes#history #faith #shortsvideo #jesuschrist #bible",
       "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | YouTube Short</span>\n                </div>\n                <p><strong>A final charge - A quiet room. A choice that echoes#history #faith #shortsvideo #jesuschrist #bible</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"560\" \n                    src=\"https://www.youtube.com/embed/xmTrO2OWRb4\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\"><a href=\"https://www.youtube.com/shorts/xmTrO2OWRb4\" style=\"color: #c9a84c; font-weight: bold;\">Watch on YouTube →</a></p>\n            </div>\n            ",
@@ -620,7 +596,7 @@
       "images": [
         {
           "url": "https://img.youtube.com/vi/xmTrO2OWRb4/maxresdefault.jpg",
-          "id": "img-c8c3e86b7c6d"
+          "id": "img-76246ea6fc69"
         }
       ]
     }
