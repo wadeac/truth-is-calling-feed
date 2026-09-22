@@ -177,7 +177,7 @@
       "date": "2026-09-21T23:26:59+00:00",
       "author": "BY REUTERS",
       "summary": "The Reuters poll found voters leaning away from supporting Trump's fellow Republicans in the November 3 midterm elections that will determine control of Congress for the next two years.",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"U.S. President Donald Trump looks on during a campaign rally with North Carolina Republican Senate candidate and former RNC Chairman Michael Whatley at Gastonia Municipal Airport on September 16, 2026 in Gastonia, North Carolina.  (photo credit: Anna Moneymaker/Getty Images)\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3894,w_5661/738597\" title=\"U.S. President Donald Trump looks on during a campaign rally with North Carolina Republican Senate candidate and former RNC Chairman Michael Whatley at Gastonia Municipal Airport on September 16, 2026 in Gastonia, North Carolina.  (photo credit: Anna Moneymaker/Getty Images)\" /><br />The Reuters poll found voters leaning away from supporting Trump's fellow Republicans in the November 3 midterm elections that will determine control of Congress for the next two years.<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/american-politics/article-909216\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"U.S. President Donald Trump looks on during a campaign rally with North Carolina Republican Senate candidate and former RNC Chairman Michael Whatley at Gastonia Municipal Airport on September 16, 2026 in Gastonia, North Carolina.  (photo credit: Anna Moneymaker/Getty Images)\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/738597\" title=\"U.S. President Donald Trump looks on during a campaign rally with North Carolina Republican Senate candidate and former RNC Chairman Michael Whatley at Gastonia Municipal Airport on September 16, 2026 in Gastonia, North Carolina.  (photo credit: Anna Moneymaker/Getty Images)\" /><br />The Reuters poll found voters leaning away from supporting Trump's fellow Republicans in the November 3 midterm elections that will determine control of Congress for the next two years.<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/american-politics/article-909216\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
       "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/738597",
       "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/738597",
       "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/738597",
@@ -217,6 +217,30 @@
       ]
     },
     {
+      "id": "fc6b6a11eed6",
+      "type": "article",
+      "subtype": "custom",
+      "title": "The Warmhearted Church",
+      "url": "https://odb.org/2026/09/22/",
+      "date": "2026-09-22T00:00:00+00:00",
+      "author": "Alyson Kieda",
+      "summary": "When I was a child, I gladly accompanied my family to church every Sunday morning and evening. Our pastor exuded joy and always included the children in the service—and even encouraged my writing. My Sunday school teachers and pastor instilled in me a love for Scripture.",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Devotional | Our Daily Bread</span>\n                </div>\n                <p>When I was a child, I gladly accompanied my family to church every Sunday morning and evening. Our pastor exuded joy and always included the children in the service—and even encouraged my writing. My Sunday school teachers and pastor instilled in me a love for Scripture.</p>\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://odb.org/2026/09/22/\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
+      "smallThumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
+      "largeThumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
+      "commentsEnabled": false,
+      "categories": [
+        "Devotional"
+      ],
+      "images": [
+        {
+          "url": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
+          "id": "img-fc6b6a11eed6"
+        }
+      ]
+    },
+    {
       "id": "bfa09d6976a4",
       "type": "article",
       "subtype": "custom",
@@ -237,30 +261,6 @@
         {
           "url": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
           "id": "img-bfa09d6976a4"
-        }
-      ]
-    },
-    {
-      "id": "44a9918b7aa1",
-      "type": "article",
-      "subtype": "custom",
-      "title": "Children of God",
-      "url": "https://odb.org/2026/09/20/",
-      "date": "2026-09-20T00:00:00+00:00",
-      "author": "Lisa M. Samra",
-      "summary": "One of my favorite books of optical illusions always astounds me as the pictures deceive my eyes—like one with two lines of the same length appearing to be different sizes, or the famous “impossible staircase” in which four flights of stairs seem to link in a continuous loop. It can also be a little",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Devotional | Our Daily Bread</span>\n                </div>\n                <p>One of my favorite books of optical illusions always astounds me as the pictures deceive my eyes—like one with two lines of the same length appearing to be different sizes, or the famous “impossible staircase” in which four flights of stairs seem to link in a continuous loop. It can also be a little disconcerting to realize we don’t always see things as they truly are.</p>\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://odb.org/2026/09/20/\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
-      "smallThumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
-      "largeThumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
-      "commentsEnabled": false,
-      "categories": [
-        "Devotional"
-      ],
-      "images": [
-        {
-          "url": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
-          "id": "img-44a9918b7aa1"
         }
       ]
     },
@@ -457,30 +457,6 @@
       ]
     },
     {
-      "id": "4df24c85db28",
-      "type": "article",
-      "subtype": "custom",
-      "title": "Join a Conversation About Scripture",
-      "url": "https://www.youtube.com/shorts/eK7ju4lYIHk",
-      "date": "2026-09-09T17:51:32+00:00",
-      "author": "BibleProject",
-      "summary": "Choose from one of our free Classroom classes today and start listening to other students like you engage with and experience the Bible in new ways. https://bibleproject.com/classroom/",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Video | The Bible Project</span>\n                </div>\n                \n                    <div style=\"text-align:center;\">\n                        <p><strong>Join a Conversation About Scripture</strong></p>\n                        <p>From The Bible Project</p>\n                        <iframe width=\"100%\" height=\"315\" \n                            src=\"https://www.youtube.com/embed/eK7ju4lYIHk\" \n                            frameborder=\"0\" allowfullscreen></iframe>\n                        <p>Choose from one of our free Classroom classes today and start listening to other students like you engage with and experience the Bible in new ways. https://bibleproject.com/classroom/</p>\n                        <p><a href=\"https://www.youtube.com/shorts/eK7ju4lYIHk\">Watch on YouTube</a></p>\n                    </div>\n                    \n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.youtube.com/shorts/eK7ju4lYIHk\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://img.youtube.com/vi/eK7ju4lYIHk/maxresdefault.jpg",
-      "smallThumbnail": "https://img.youtube.com/vi/eK7ju4lYIHk/maxresdefault.jpg",
-      "largeThumbnail": "https://img.youtube.com/vi/eK7ju4lYIHk/maxresdefault.jpg",
-      "commentsEnabled": false,
-      "categories": [
-        "Video"
-      ],
-      "images": [
-        {
-          "url": "https://img.youtube.com/vi/eK7ju4lYIHk/maxresdefault.jpg",
-          "id": "img-4df24c85db28"
-        }
-      ]
-    },
-    {
       "id": "1e0952f8bec2",
       "type": "article",
       "subtype": "custom",
@@ -577,50 +553,50 @@
       ]
     },
     {
-      "id": "c00393448270",
+      "id": "cfba8b75bd16",
       "type": "article",
       "subtype": "custom",
-      "title": "✝ One of the Clearest Signs of the Last Days #history #jesuschrist #faith #facts #love #jesus #bible",
-      "url": "https://www.youtube.com/shorts/YgtmrDREeTs",
-      "date": "2026-09-21T23:46:29.556342+00:00",
+      "title": "✝ What Jesus Saw in Gethsemane | The Visions Before the Cross (Meditation 3) #history #bible #shorts",
+      "url": "https://www.youtube.com/shorts/Wc_SVMQzxrE",
+      "date": "2026-09-22T02:54:19.147681+00:00",
       "author": "Truth Is Calling",
-      "summary": "Watch this YouTube Short from Truth Is Calling: One of the Clearest Signs of the Last Days #history #jesuschrist #faith #facts #love #jesus #bible",
-      "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | YouTube Short</span>\n                </div>\n                <p><strong>One of the Clearest Signs of the Last Days #history #jesuschrist #faith #facts #love #jesus #bible</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"560\" \n                    src=\"https://www.youtube.com/embed/YgtmrDREeTs\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\"><a href=\"https://www.youtube.com/shorts/YgtmrDREeTs\" style=\"color: #c9a84c; font-weight: bold;\">Watch on YouTube →</a></p>\n            </div>\n            ",
-      "thumbnail": "https://img.youtube.com/vi/YgtmrDREeTs/maxresdefault.jpg",
-      "smallThumbnail": "https://img.youtube.com/vi/YgtmrDREeTs/maxresdefault.jpg",
-      "largeThumbnail": "https://img.youtube.com/vi/YgtmrDREeTs/maxresdefault.jpg",
+      "summary": "Watch this YouTube Short from Truth Is Calling: What Jesus Saw in Gethsemane | The Visions Before the Cross (Meditation 3) #history #bible #shorts",
+      "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | YouTube Short</span>\n                </div>\n                <p><strong>What Jesus Saw in Gethsemane | The Visions Before the Cross (Meditation 3) #history #bible #shorts</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"560\" \n                    src=\"https://www.youtube.com/embed/Wc_SVMQzxrE\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\"><a href=\"https://www.youtube.com/shorts/Wc_SVMQzxrE\" style=\"color: #c9a84c; font-weight: bold;\">Watch on YouTube →</a></p>\n            </div>\n            ",
+      "thumbnail": "https://img.youtube.com/vi/Wc_SVMQzxrE/maxresdefault.jpg",
+      "smallThumbnail": "https://img.youtube.com/vi/Wc_SVMQzxrE/maxresdefault.jpg",
+      "largeThumbnail": "https://img.youtube.com/vi/Wc_SVMQzxrE/maxresdefault.jpg",
       "commentsEnabled": false,
       "categories": [
         "Your Shorts"
       ],
       "images": [
         {
-          "url": "https://img.youtube.com/vi/YgtmrDREeTs/maxresdefault.jpg",
-          "id": "img-c00393448270"
+          "url": "https://img.youtube.com/vi/Wc_SVMQzxrE/maxresdefault.jpg",
+          "id": "img-cfba8b75bd16"
         }
       ]
     },
     {
-      "id": "7abcf8c28699",
+      "id": "6ee37e466a04",
       "type": "article",
       "subtype": "custom",
-      "title": "✝ Massacre of the Innocents \\u0026 the Prophecies Behind It #jesuschrist #reels #christianshorts #bible",
-      "url": "https://www.youtube.com/shorts/byoM10H2Vw4",
-      "date": "2026-09-21T23:46:29.556371+00:00",
+      "title": "✝ The Hidden Suffering Before the Cross | Luke’s Account Explained",
+      "url": "https://www.youtube.com/shorts/aCTD60em6ok",
+      "date": "2026-09-22T02:54:19.147706+00:00",
       "author": "Truth Is Calling",
-      "summary": "Watch this YouTube Short from Truth Is Calling: Massacre of the Innocents \\u0026 the Prophecies Behind It #jesuschrist #reels #christianshorts #bible",
-      "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | YouTube Short</span>\n                </div>\n                <p><strong>Massacre of the Innocents \\u0026 the Prophecies Behind It #jesuschrist #reels #christianshorts #bible</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"560\" \n                    src=\"https://www.youtube.com/embed/byoM10H2Vw4\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\"><a href=\"https://www.youtube.com/shorts/byoM10H2Vw4\" style=\"color: #c9a84c; font-weight: bold;\">Watch on YouTube →</a></p>\n            </div>\n            ",
-      "thumbnail": "https://img.youtube.com/vi/byoM10H2Vw4/maxresdefault.jpg",
-      "smallThumbnail": "https://img.youtube.com/vi/byoM10H2Vw4/maxresdefault.jpg",
-      "largeThumbnail": "https://img.youtube.com/vi/byoM10H2Vw4/maxresdefault.jpg",
+      "summary": "Watch this YouTube Short from Truth Is Calling: The Hidden Suffering Before the Cross | Luke’s Account Explained",
+      "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | YouTube Short</span>\n                </div>\n                <p><strong>The Hidden Suffering Before the Cross | Luke’s Account Explained</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"560\" \n                    src=\"https://www.youtube.com/embed/aCTD60em6ok\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\"><a href=\"https://www.youtube.com/shorts/aCTD60em6ok\" style=\"color: #c9a84c; font-weight: bold;\">Watch on YouTube →</a></p>\n            </div>\n            ",
+      "thumbnail": "https://img.youtube.com/vi/aCTD60em6ok/maxresdefault.jpg",
+      "smallThumbnail": "https://img.youtube.com/vi/aCTD60em6ok/maxresdefault.jpg",
+      "largeThumbnail": "https://img.youtube.com/vi/aCTD60em6ok/maxresdefault.jpg",
       "commentsEnabled": false,
       "categories": [
         "Your Shorts"
       ],
       "images": [
         {
-          "url": "https://img.youtube.com/vi/byoM10H2Vw4/maxresdefault.jpg",
-          "id": "img-7abcf8c28699"
+          "url": "https://img.youtube.com/vi/aCTD60em6ok/maxresdefault.jpg",
+          "id": "img-6ee37e466a04"
         }
       ]
     }
