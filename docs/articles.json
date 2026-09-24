@@ -145,26 +145,50 @@
       ]
     },
     {
-      "id": "9c1e9b0279df",
+      "id": "69eb02bccf8c",
       "type": "article",
       "subtype": "custom",
-      "title": "IDF announces rotation of forces in Syria, West Bank regions amid High Holy Days, terror attacks",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-909495",
-      "date": "2026-09-23T22:43:17+00:00",
-      "author": "BY JERUSALEM POST STAFF",
-      "summary": "The 228th Brigade finished its three-month-long deployment in Syria's security zone, while the 98th Division Headquarters will begin to operate in the West Bank amid a rise in terror attacks.",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"IDF operating in Syria\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1066,w_1600/739008\" /><br />The 228th Brigade finished its three-month-long deployment in Syria's security zone, while the 98th Division Headquarters will begin to operate in the West Bank amid a rise in terror attacks.<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/israel-news/defense-news/article-909495\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/739008",
-      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/739008",
-      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/739008",
+      "title": "Senior IRGC commander killed in clash with gunmen near Iran-Pakistan border - report",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-909499",
+      "date": "2026-09-24T01:14:57+00:00",
+      "author": "BY MAARIV AND JAMES GENN AND JERUSALEM POST STAFF",
+      "summary": "Brig.-Gen. Hossein Zarifi, commander of the IRGC's Shahid Sajjad Operational Headquarters, was killed during clashes with gunmen in southeastern Iran.",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"IRGC Brig.-Gen. Hossein Zarifi (photo credit: SCREENSHOT/X, SECTION 27A COPYRIGHT ACT)\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/739013\" title=\"IRGC Brig.-Gen. Hossein Zarifi (photo credit: SCREENSHOT/X, SECTION 27A COPYRIGHT ACT)\" /><br />Brig.-Gen. Hossein Zarifi, commander of the IRGC's Shahid Sajjad Operational Headquarters, was killed during clashes with gunmen in southeastern Iran.<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/middle-east/iran-news/article-909499\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/739013",
+      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/739013",
+      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/739013",
       "commentsEnabled": false,
       "categories": [
         "Israel & Middle East"
       ],
       "images": [
         {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/739008",
-          "id": "img-9c1e9b0279df"
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/739013",
+          "id": "img-69eb02bccf8c"
+        }
+      ]
+    },
+    {
+      "id": "012bb5aa3513",
+      "type": "article",
+      "subtype": "custom",
+      "title": "Australia says OpenAI agent hacked into government website in a potential first for AI",
+      "url": "https://www.jpost.com/international/article-909509",
+      "date": "2026-09-24T04:29:57+00:00",
+      "author": "BY REUTERS",
+      "summary": "Australia confirmed an OpenAI agent breached a government health portal in June, marking a potential first for an AI hacking a state website and prompting deep concern over delayed disclosure.",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"Sam Altman, OpenAI CEO (photo credit: SHUTTERSTOCK)\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_787,w_1400/726088\" title=\"Sam Altman, OpenAI CEO (photo credit: SHUTTERSTOCK)\" /><br />Australia confirmed an OpenAI agent breached a government health portal in June, marking a potential first for an AI hacking a state website and prompting deep concern over delayed disclosure.<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/international/article-909509\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/726088",
+      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/726088",
+      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/726088",
+      "commentsEnabled": false,
+      "categories": [
+        "Israel & Middle East"
+      ],
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/726088",
+          "id": "img-012bb5aa3513"
         }
       ]
     },
@@ -193,26 +217,26 @@
       ]
     },
     {
-      "id": "0063b733ddd9",
+      "id": "10782e302d02",
       "type": "article",
       "subtype": "custom",
-      "title": "Somaliland delegation eyes Israeli military presence to strengthen cooperation against Houthis",
-      "url": "https://www.jpost.com/israel-news/article-909487",
-      "date": "2026-09-23T22:22:28+00:00",
-      "author": "BY SAM HALPERN",
-      "summary": "“If they get help from the Israelis, they can beat the Houthis and make it safe,” Dirie said.",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Israel &amp; Middle East | The Jerusalem Post</span>\n                </div>\n                <img align=\"right\" alt=\"The Israel and Somaliland Friendship Association delegation in Israel. September 2026. (photo credit: Courtesy)\" src=\"https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_790,w_1200/738995\" title=\"The Israel and Somaliland Friendship Association delegation in Israel. September 2026. (photo credit: Courtesy)\" /><br />“If they get help from the Israelis, they can beat the Houthis and make it safe,” Dirie said.<br />\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.jpost.com/israel-news/article-909487\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/738995",
-      "smallThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/738995",
-      "largeThumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/738995",
+      "title": "Words from Friends",
+      "url": "https://odb.org/2026/09/24/",
+      "date": "2026-09-24T00:00:00+00:00",
+      "author": "Katara Patton",
+      "summary": "As I sat in a Bible class at the age of twenty-six, I was baffled. Some of my classmates’ comments were discouraging. They  \t\tseemed to have so many problems.",
+      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Devotional | Our Daily Bread</span>\n                </div>\n                <p>As I sat in a Bible class at the age of twenty-six, I was baffled. Some of my classmates’ comments were discouraging. They  \t\tseemed to have so many problems.</p>\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://odb.org/2026/09/24/\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
+      "thumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
+      "smallThumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
+      "largeThumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
       "commentsEnabled": false,
       "categories": [
-        "Israel & Middle East"
+        "Devotional"
       ],
       "images": [
         {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/738995",
-          "id": "img-0063b733ddd9"
+          "url": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
+          "id": "img-10782e302d02"
         }
       ]
     },
@@ -237,30 +261,6 @@
         {
           "url": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
           "id": "img-1f2e9bed9a72"
-        }
-      ]
-    },
-    {
-      "id": "fc6b6a11eed6",
-      "type": "article",
-      "subtype": "custom",
-      "title": "The Warmhearted Church",
-      "url": "https://odb.org/2026/09/22/",
-      "date": "2026-09-22T00:00:00+00:00",
-      "author": "Alyson Kieda",
-      "summary": "When I was a child, I gladly accompanied my family to church every Sunday morning and evening. Our pastor exuded joy and always included the children in the service—and even encouraged my writing. My Sunday school teachers and pastor instilled in me a love for Scripture.",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Devotional | Our Daily Bread</span>\n                </div>\n                <p>When I was a child, I gladly accompanied my family to church every Sunday morning and evening. Our pastor exuded joy and always included the children in the service—and even encouraged my writing. My Sunday school teachers and pastor instilled in me a love for Scripture.</p>\n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://odb.org/2026/09/22/\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
-      "smallThumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
-      "largeThumbnail": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
-      "commentsEnabled": false,
-      "categories": [
-        "Devotional"
-      ],
-      "images": [
-        {
-          "url": "https://wadeac.github.io/truth-is-calling-feed/images/feed-fallback-devotional.jpg",
-          "id": "img-fc6b6a11eed6"
         }
       ]
     },
@@ -457,30 +457,6 @@
       ]
     },
     {
-      "id": "4df24c85db28",
-      "type": "article",
-      "subtype": "custom",
-      "title": "Join a Conversation About Scripture",
-      "url": "https://www.youtube.com/shorts/eK7ju4lYIHk",
-      "date": "2026-09-09T17:51:32+00:00",
-      "author": "BibleProject",
-      "summary": "Choose from one of our free Classroom classes today and start listening to other students like you engage with and experience the Bible in new ways. https://bibleproject.com/classroom/",
-      "content": "\n            <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">📖 Video | The Bible Project</span>\n                </div>\n                \n                    <div style=\"text-align:center;\">\n                        <p><strong>Join a Conversation About Scripture</strong></p>\n                        <p>From The Bible Project</p>\n                        <iframe width=\"100%\" height=\"315\" \n                            src=\"https://www.youtube.com/embed/eK7ju4lYIHk\" \n                            frameborder=\"0\" allowfullscreen></iframe>\n                        <p>Choose from one of our free Classroom classes today and start listening to other students like you engage with and experience the Bible in new ways. https://bibleproject.com/classroom/</p>\n                        <p><a href=\"https://www.youtube.com/shorts/eK7ju4lYIHk\">Watch on YouTube</a></p>\n                    </div>\n                    \n                <div style=\"margin-top: 20px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center;\">\n                    <a href=\"https://www.youtube.com/shorts/eK7ju4lYIHk\" style=\"color: #c9a84c; text-decoration: none; font-weight: bold;\">Read Full Article →</a>\n                </div>\n            </div>\n            ",
-      "thumbnail": "https://img.youtube.com/vi/eK7ju4lYIHk/maxresdefault.jpg",
-      "smallThumbnail": "https://img.youtube.com/vi/eK7ju4lYIHk/maxresdefault.jpg",
-      "largeThumbnail": "https://img.youtube.com/vi/eK7ju4lYIHk/maxresdefault.jpg",
-      "commentsEnabled": false,
-      "categories": [
-        "Video"
-      ],
-      "images": [
-        {
-          "url": "https://img.youtube.com/vi/eK7ju4lYIHk/maxresdefault.jpg",
-          "id": "img-4df24c85db28"
-        }
-      ]
-    },
-    {
       "id": "1e0952f8bec2",
       "type": "article",
       "subtype": "custom",
@@ -577,50 +553,50 @@
       ]
     },
     {
-      "id": "37a90a780699",
+      "id": "a171be936f8b",
       "type": "article",
       "subtype": "custom",
-      "title": "✝ The Man Who Sought Jesus at Night… and What Happened Next",
-      "url": "https://www.youtube.com/shorts/JqjDa4hBeBM",
-      "date": "2026-09-23T23:23:57.211220+00:00",
+      "title": "✝ Christ’s True Birth Date Revealed: The Cosmic Sign, the Flood, and the Rebellion Behind It #jesus",
+      "url": "https://www.youtube.com/shorts/WzQWasdBARA",
+      "date": "2026-09-24T02:45:01.748206+00:00",
       "author": "Truth Is Calling",
-      "summary": "Watch this YouTube Short from Truth Is Calling: The Man Who Sought Jesus at Night… and What Happened Next",
-      "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | YouTube Short</span>\n                </div>\n                <p><strong>The Man Who Sought Jesus at Night… and What Happened Next</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"560\" \n                    src=\"https://www.youtube.com/embed/JqjDa4hBeBM\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\"><a href=\"https://www.youtube.com/shorts/JqjDa4hBeBM\" style=\"color: #c9a84c; font-weight: bold;\">Watch on YouTube →</a></p>\n            </div>\n            ",
-      "thumbnail": "https://img.youtube.com/vi/JqjDa4hBeBM/maxresdefault.jpg",
-      "smallThumbnail": "https://img.youtube.com/vi/JqjDa4hBeBM/maxresdefault.jpg",
-      "largeThumbnail": "https://img.youtube.com/vi/JqjDa4hBeBM/maxresdefault.jpg",
+      "summary": "Watch this YouTube Short from Truth Is Calling: Christ’s True Birth Date Revealed: The Cosmic Sign, the Flood, and the Rebellion Behind It #jesus",
+      "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | YouTube Short</span>\n                </div>\n                <p><strong>Christ’s True Birth Date Revealed: The Cosmic Sign, the Flood, and the Rebellion Behind It #jesus</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"560\" \n                    src=\"https://www.youtube.com/embed/WzQWasdBARA\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\"><a href=\"https://www.youtube.com/shorts/WzQWasdBARA\" style=\"color: #c9a84c; font-weight: bold;\">Watch on YouTube →</a></p>\n            </div>\n            ",
+      "thumbnail": "https://img.youtube.com/vi/WzQWasdBARA/maxresdefault.jpg",
+      "smallThumbnail": "https://img.youtube.com/vi/WzQWasdBARA/maxresdefault.jpg",
+      "largeThumbnail": "https://img.youtube.com/vi/WzQWasdBARA/maxresdefault.jpg",
       "commentsEnabled": false,
       "categories": [
         "Your Shorts"
       ],
       "images": [
         {
-          "url": "https://img.youtube.com/vi/JqjDa4hBeBM/maxresdefault.jpg",
-          "id": "img-37a90a780699"
+          "url": "https://img.youtube.com/vi/WzQWasdBARA/maxresdefault.jpg",
+          "id": "img-a171be936f8b"
         }
       ]
     },
     {
-      "id": "e4fdb2189017",
+      "id": "783bcbd5b42f",
       "type": "article",
       "subtype": "custom",
-      "title": "✝ Christ’s Birth Was a Pattern — And the Antichrist Will Invert It",
-      "url": "https://www.youtube.com/shorts/PV-X8oiSUdg",
-      "date": "2026-09-23T23:23:57.211242+00:00",
+      "title": "✝ God’s Hidden Guidance in the Nativity Story #jesuschrist #bible #christianshorts #bible #jesus",
+      "url": "https://www.youtube.com/shorts/d6Q68sxQZN4",
+      "date": "2026-09-24T02:45:01.748304+00:00",
       "author": "Truth Is Calling",
-      "summary": "Watch this YouTube Short from Truth Is Calling: Christ’s Birth Was a Pattern — And the Antichrist Will Invert It",
-      "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | YouTube Short</span>\n                </div>\n                <p><strong>Christ’s Birth Was a Pattern — And the Antichrist Will Invert It</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"560\" \n                    src=\"https://www.youtube.com/embed/PV-X8oiSUdg\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\"><a href=\"https://www.youtube.com/shorts/PV-X8oiSUdg\" style=\"color: #c9a84c; font-weight: bold;\">Watch on YouTube →</a></p>\n            </div>\n            ",
-      "thumbnail": "https://img.youtube.com/vi/PV-X8oiSUdg/maxresdefault.jpg",
-      "smallThumbnail": "https://img.youtube.com/vi/PV-X8oiSUdg/maxresdefault.jpg",
-      "largeThumbnail": "https://img.youtube.com/vi/PV-X8oiSUdg/maxresdefault.jpg",
+      "summary": "Watch this YouTube Short from Truth Is Calling: God’s Hidden Guidance in the Nativity Story #jesuschrist #bible #christianshorts #bible #jesus",
+      "content": "\n            <div style=\"text-align:center;\">\n                <div style=\"background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #c9a84c; padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; text-align: center;\">\n                    <span style=\"font-size: 12px; text-transform: uppercase; letter-spacing: 1px;\">✝ TRUTH IS CALLING | YouTube Short</span>\n                </div>\n                <p><strong>God’s Hidden Guidance in the Nativity Story #jesuschrist #bible #christianshorts #bible #jesus</strong></p>\n                <p style=\"color: #666;\">From Truth Is Calling</p>\n                <iframe width=\"100%\" height=\"560\" \n                    src=\"https://www.youtube.com/embed/d6Q68sxQZN4\" \n                    frameborder=\"0\" allowfullscreen></iframe>\n                <p style=\"margin-top: 10px;\"><a href=\"https://www.youtube.com/shorts/d6Q68sxQZN4\" style=\"color: #c9a84c; font-weight: bold;\">Watch on YouTube →</a></p>\n            </div>\n            ",
+      "thumbnail": "https://img.youtube.com/vi/d6Q68sxQZN4/maxresdefault.jpg",
+      "smallThumbnail": "https://img.youtube.com/vi/d6Q68sxQZN4/maxresdefault.jpg",
+      "largeThumbnail": "https://img.youtube.com/vi/d6Q68sxQZN4/maxresdefault.jpg",
       "commentsEnabled": false,
       "categories": [
         "Your Shorts"
       ],
       "images": [
         {
-          "url": "https://img.youtube.com/vi/PV-X8oiSUdg/maxresdefault.jpg",
-          "id": "img-e4fdb2189017"
+          "url": "https://img.youtube.com/vi/d6Q68sxQZN4/maxresdefault.jpg",
+          "id": "img-783bcbd5b42f"
         }
       ]
     }
